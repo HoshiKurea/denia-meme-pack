@@ -1,5 +1,4 @@
-# 达妮娅 AstrBot 表情资源包
-
+# Denia-meme-pack
 ![预览](previews/cover.png)
 
 可通过 `astrbot_plugin_meme_manager` 的「从 GitHub 安装」使用。当前版本是 **4 张 GIF 的官方基础版**，附 **32 个相关专辑、1,224 条图片记录的来源索引**，不是全图库镜像。
