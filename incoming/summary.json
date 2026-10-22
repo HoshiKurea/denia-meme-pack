@@ -1,0 +1,32 @@
+{
+  "expected": 1224,
+  "records": 1224,
+  "downloaded": 1218,
+  "failed": [
+    {
+      "id": "r-174045255d1d14229338",
+      "status": "ChunkedEncodingError"
+    },
+    {
+      "id": "r-34a157435ce50684c51c",
+      "status": "ChunkedEncodingError"
+    },
+    {
+      "id": "r-5950fccca28e8abd7495",
+      "status": "ChunkedEncodingError"
+    },
+    {
+      "id": "r-6f13d4301a756f406b5e",
+      "status": "ChunkedEncodingError"
+    },
+    {
+      "id": "r-803faf6c0339058e666b",
+      "status": "ChunkedEncodingError"
+    },
+    {
+      "id": "r-8b9a755e64785889b81e",
+      "status": "ChunkedEncodingError"
+    }
+  ],
+  "unique_files": 1202
+}
