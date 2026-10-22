@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "id": "denia-meme-pack",
-  "name": "达妮娅表情包",
+  "name": "达妮娅表情包 · 第1卷",
   "version": "1.0.0",
-  "description": "达妮娅图库素材整理：934张去重图片，21个聊天语义分类；附来源、署名、哈希与标签索引。",
+  "description": "共934张达妮娅表情的第1/2卷，本卷467张。原图、动画、分类及来源索引完整保留。",
   "author": "HoshiKurea（整理）；素材署名见来源索引",
   "homepage": "https://github.com/HoshiKurea/denia-meme-pack",
   "license": "SEE LICENSE IN LICENSE.md",
