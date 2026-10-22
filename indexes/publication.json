@@ -1,0 +1,28 @@
+{
+  "total_images": 934,
+  "total_bytes": 1222441014,
+  "full_collection_commit": "b31efedb47d99775511eebf0061bdd713bd1d162",
+  "archive_limit_bytes": 1073741824,
+  "volumes": [
+    {
+      "number": 1,
+      "ref": "master",
+      "candidate_ref": "release-part-1-b31efedb",
+      "commit": "7bc463fbfd6ab889d0e9981a0e07bbb90efb795f",
+      "images": 467,
+      "bytes": 611234446,
+      "archive_bytes": 606634170,
+      "pack_id": "denia-meme-pack"
+    },
+    {
+      "number": 2,
+      "ref": "part-2",
+      "candidate_ref": "release-part-2-b31efedb",
+      "commit": "c2b7aa347c5a3bff9c2880a4b6379e87430d6904",
+      "images": 467,
+      "bytes": 611206568,
+      "archive_bytes": 606580583,
+      "pack_id": "denia-meme-pack-2"
+    }
+  ]
+}
