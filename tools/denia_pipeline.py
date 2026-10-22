@@ -139,6 +139,7 @@ def load_labels(packs):
             continue
         response = SESSION.get(pack['sourceUrl'], timeout=45)
         response.raise_for_status()
+        response.encoding = 'utf-8'
         for block in re.findall(r'<script[^>]*class="wuwa-emoji-manifest"[^>]*>(.*?)</script>', response.text, re.S):
             for item in json.loads(block).get('items', []):
                 labels[item['resourceId']] = {'alt': item.get('alt', ''), 'pack': pack['slug']}
