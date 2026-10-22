@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "id": "denia-meme-pack",
-  "name": "达妮娅表情包 · 官方基础版",
-  "version": "0.1.0",
-  "description": "收录雷蛇官方页面提供的4张达妮娅动态表情，按聊天语义分类，附逐图语义描述和1224条相关素材来源索引。图库合集的公开再分发许可尚未确认，未整库搬运。",
-  "author": "HoshiKurea（整理）；图片：KURO GAMES / Razer",
+  "name": "达妮娅表情包 · 第1卷",
+  "version": "1.0.0",
+  "description": "共934张达妮娅表情的第1/2卷，本卷467张。原图、动画、分类及来源索引完整保留。",
+  "author": "HoshiKurea（整理）；素材署名见来源索引",
   "homepage": "https://github.com/HoshiKurea/denia-meme-pack",
   "license": "SEE LICENSE IN LICENSE.md",
   "tags": [
@@ -26,17 +26,68 @@
     "subpath": "."
   },
   "categories": {
-    "relax": {
-      "description": "轻松闲聊、放松和休息时使用。达妮娅吹泡泡的平静互动，不用于表达生气或悲伤。"
-    },
     "happy": {
-      "description": "表达开心、轻快、享受和小小的庆祝。适合轻松积极的回应。"
+      "description": "开心、欢呼、庆祝和轻快的积极回应。"
     },
     "like": {
-      "description": "表示赞同、喜欢、肯定或俏皮回应。眨眼比出胜利手势，适合夸赞和成功确认。"
+      "description": "喜欢、赞同、比心、亲近、抱抱或温柔互动。"
+    },
+    "angry": {
+      "description": "表达生气、抗议、差评或友善地佯装发火；不要用于真实威胁。"
+    },
+    "sad": {
+      "description": "难过、哭泣、委屈与遗憾；认真安慰时谨慎使用搞笑表情。"
+    },
+    "confused": {
+      "description": "疑问、不解、迷惑和需要进一步说明的场景。"
+    },
+    "shy": {
+      "description": "害羞、脸红、心虚或不好意思的回应。"
+    },
+    "sleep": {
+      "description": "困倦、睡觉、晚安、疲惫和休息。"
+    },
+    "eat": {
+      "description": "吃东西、喝饮料、食物和甜点相关的闲聊。"
+    },
+    "work": {
+      "description": "工作、学习、打字、努力做事和任务推进。"
+    },
+    "greeting": {
+      "description": "打招呼、挥手、欢迎、早安、道别和再见。"
+    },
+    "sigh": {
+      "description": "无语、无奈、叹气、扶额和轻微抱怨。"
+    },
+    "surprised": {
+      "description": "惊讶、震惊、受到惊吓或意料之外的情况。"
+    },
+    "see": {
+      "description": "观望、偷看、探头、盯着看和持续关注。"
+    },
+    "thinking": {
+      "description": "思考、沉思、摸下巴、大脑过载和暂时卡住。"
     },
     "fool": {
-      "description": "友善整活、玩节奏和活跃气氛。只用于轻松场景，不在对方认真难过时使用。"
+      "description": "搞怪、整活、唱跳、玩耍和轻松活跃气氛。"
+    },
+    "cute": {
+      "description": "捏捏、戳戳、揉脸、卖萌和普通可爱互动。"
+    },
+    "givemoney": {
+      "description": "红包、付款、要米、硬币和打赏相关的玩笑；不代表真实付款请求。"
+    },
+    "stop": {
+      "description": "摇头、停止、拒绝、静音和表达轻微边界。"
+    },
+    "reply": {
+      "description": "说话、回应、通知、提示和指向对方等普通交流。"
+    },
+    "relax": {
+      "description": "放松、冒泡、日常闲聊和休息中的轻松回应。"
+    },
+    "misc": {
+      "description": "尚无明确情绪标签的其他达妮娅表情；优先用于选图浏览或进一步语义化。"
     }
   },
   "extensions": {
