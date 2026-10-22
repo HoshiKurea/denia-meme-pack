@@ -14509,8 +14509,16 @@
     "format": "gif",
     "animated": true,
     "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-large-merged-20261005",
-    "downloaded": false,
-    "status": "ChunkedEncodingError"
+    "downloaded": true,
+    "local_file": "incoming/images/bfd46480e2ff907b8dad0d6538fa09768aec8891f82a5e5fb1e4b6ec4e1333a2.gif",
+    "sha256": "bfd46480e2ff907b8dad0d6538fa09768aec8891f82a5e5fb1e4b6ec4e1333a2",
+    "bytes": 1636541,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 38
   },
   {
     "id": "r-34ba6a1b7ba58223940d",
