@@ -1,4 +1,4 @@
-# 达妮娅 AstrBot 表情资源包
+# Denia-meme-pack
 
 ![预览](previews/cover.png)
 
