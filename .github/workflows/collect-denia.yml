@@ -5,6 +5,7 @@ on:
     paths:
       - '.github/workflows/collect-denia.yml'
       - 'tools/denia_pipeline.py'
+      - 'tools/prepare_volumes.py'
       - 'tools/curation.json'
   workflow_dispatch:
 permissions:
@@ -34,6 +35,9 @@ jobs:
         env:
           DENIA_CI: '1'
         run: python -u tools/denia_pipeline.py
+      - name: Prepare and validate installable volumes
+        if: steps.build.outcome == 'success' && hashFiles('tools/curation.json') != ''
+        run: python -u tools/prepare_volumes.py
       - name: Save verified checkpoint
         if: always()
         run: |
