@@ -38318,8 +38318,16 @@
     "format": "gif",
     "animated": true,
     "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-small-merged-20261005",
-    "downloaded": false,
-    "status": "ChunkedEncodingError"
+    "downloaded": true,
+    "local_file": "incoming/images/cada8e6749c54be649b53df6154d5e249af89700a6e319ec1c19b4608659b869.gif",
+    "sha256": "cada8e6749c54be649b53df6154d5e249af89700a6e319ec1c19b4608659b869",
+    "bytes": 2107107,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 66
   },
   {
     "id": "r-80f237cf5ec08ef5b753",
@@ -41013,8 +41021,16 @@
     "format": "gif",
     "animated": true,
     "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-large-merged-20261005",
-    "downloaded": false,
-    "status": "ChunkedEncodingError"
+    "downloaded": true,
+    "local_file": "incoming/images/2eeb0f64a43a0a0727dbe15cdabec3d813f46b5bc3e896ff5bc4a7bde341623e.gif",
+    "sha256": "2eeb0f64a43a0a0727dbe15cdabec3d813f46b5bc3e896ff5bc4a7bde341623e",
+    "bytes": 1881745,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 57
   },
   {
     "id": "r-8bb219e5d43eced5166d",
