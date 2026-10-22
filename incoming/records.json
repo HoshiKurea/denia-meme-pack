@@ -32358,8 +32358,16 @@
     "format": "gif",
     "animated": true,
     "sourceUrl": "https://emoji.wuwa.games/archives/daniya-wuxue-cat-maid",
-    "downloaded": false,
-    "status": "ChunkedEncodingError"
+    "downloaded": true,
+    "local_file": "incoming/images/ea87dba13f47a55f9a0f2e6f73868da15f02645f38e16f15b36935cc472aa1e4.gif",
+    "sha256": "ea87dba13f47a55f9a0f2e6f73868da15f02645f38e16f15b36935cc472aa1e4",
+    "bytes": 1516671,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 45
   },
   {
     "id": "r-6f1916a39dce0beed479",
