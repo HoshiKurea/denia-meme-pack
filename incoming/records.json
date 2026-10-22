@@ -1,0 +1,6106 @@
+[
+  {
+    "id": "r-00421c32b2831e6974b7",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "十七泠",
+        "name": "十七泠"
+      }
+    ],
+    "pack": {
+      "id": "daniya-pizza-small-merged-20261005",
+      "slug": "daniya-pizza-small-merged-20261005",
+      "postName": "emoji-post-939350bae0a106c1132e2079",
+      "title": "达妮娅披萨捏捏（小）",
+      "count": 128,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "十七泠",
+          "name": "十七泠"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-small-merged-20261005",
+      "publishTime": "2026-10-04T18:26:34.934361049Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-small-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/4450c48da13b3a1b16198a3b550205d4eda6f91cc225a2ae7761e22e6db60456.gif",
+    "sha256": "4450c48da13b3a1b16198a3b550205d4eda6f91cc225a2ae7761e22e6db60456",
+    "bytes": 964712,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 32
+  },
+  {
+    "id": "r-0058a41140e41eb96540",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [],
+    "pack": {
+      "id": "daniya-emotelab-eyes-large-merged-20261005",
+      "slug": "daniya-emotelab-eyes-large-merged-20261005",
+      "postName": "emoji-post-195f43d63579c1136ace2086",
+      "title": "达妮娅捏捏表情包",
+      "count": 206,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-emotelab-eyes-large-merged-20261005",
+      "publishTime": "2026-10-04T17:46:06.046639188Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-emotelab-eyes-large-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/34d71b1de68804d5ae620e7e595fcec5bccc4abee2074944a278eb7d834ddb86.gif",
+    "sha256": "34d71b1de68804d5ae620e7e595fcec5bccc4abee2074944a278eb7d834ddb86",
+    "bytes": 229338,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 6
+  },
+  {
+    "id": "r-007511f9b9c536e01106",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "term-1909f1e46eb7960f981a6250",
+        "name": "嗷懒叽"
+      }
+    ],
+    "pack": {
+      "id": "daniya-jp-2nd-30",
+      "slug": "daniya-jp-2nd-30",
+      "postName": "emoji-post-95a5e694d082b7c62d8d1552",
+      "title": "达妮娅日服二周年礼裙动态表情包（懒牌）",
+      "count": 23,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "term-1909f1e46eb7960f981a6250",
+          "name": "嗷懒叽"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-jp-2nd-30",
+      "publishTime": "2026-08-06T16:12:59.027620887Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-jp-2nd-30",
+    "downloaded": true,
+    "local_file": "incoming/images/ce32f93fe89d0c574416d9582e14dc6a564d15f84b4b5246939373ec30322f95.gif",
+    "sha256": "ce32f93fe89d0c574416d9582e14dc6a564d15f84b4b5246939373ec30322f95",
+    "bytes": 1317649,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 38
+  },
+  {
+    "id": "r-0105e2c93947d811db24",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "十七泠",
+        "name": "十七泠"
+      }
+    ],
+    "pack": {
+      "id": "daniya-pizza-small-merged-20261005",
+      "slug": "daniya-pizza-small-merged-20261005",
+      "postName": "emoji-post-939350bae0a106c1132e2079",
+      "title": "达妮娅披萨捏捏（小）",
+      "count": 128,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "十七泠",
+          "name": "十七泠"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-small-merged-20261005",
+      "publishTime": "2026-10-04T18:26:34.934361049Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-small-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/0f676efd954cc7ae6802f349a4e6f1b54de2a3d5375168b43b8d32f7c347e163.gif",
+    "sha256": "0f676efd954cc7ae6802f349a4e6f1b54de2a3d5375168b43b8d32f7c347e163",
+    "bytes": 1164517,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 39
+  },
+  {
+    "id": "r-010a45367d085341759a",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [],
+    "pack": {
+      "id": "daniya-emotelab-eyes-large-merged-20261005",
+      "slug": "daniya-emotelab-eyes-large-merged-20261005",
+      "postName": "emoji-post-195f43d63579c1136ace2086",
+      "title": "达妮娅捏捏表情包",
+      "count": 206,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-emotelab-eyes-large-merged-20261005",
+      "publishTime": "2026-10-04T17:46:06.046639188Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-emotelab-eyes-large-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/554ebb41a1bb988a36626a44ce1ae2638a62935d77c6041000dd7c83f73cae2e.gif",
+    "sha256": "554ebb41a1bb988a36626a44ce1ae2638a62935d77c6041000dd7c83f73cae2e",
+    "bytes": 1984796,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 66
+  },
+  {
+    "id": "r-010e972a4a3e04be9d5c",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "wuxue",
+        "name": "雾雪"
+      }
+    ],
+    "pack": {
+      "id": "daniya-wuxue-black",
+      "slug": "daniya-wuxue-black",
+      "postName": "emoji-post-1f409c519f91b09e1ea2da8d",
+      "title": "达妮娅（黑）动态表情包（雾雪哈基米）",
+      "count": 22,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "wuxue",
+          "name": "雾雪"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-wuxue-black",
+      "publishTime": "2026-08-06T16:13:02.086652324Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-wuxue-black",
+    "downloaded": true,
+    "local_file": "incoming/images/96605cec057786608a8d1eb1722b526b52ef1a619258c600f698ef96daaa6467.gif",
+    "sha256": "96605cec057786608a8d1eb1722b526b52ef1a619258c600f698ef96daaa6467",
+    "bytes": 1297536,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 36
+  },
+  {
+    "id": "r-015b62f71c91eeb8d061",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [],
+    "pack": {
+      "id": "daniya-emotelab-eyes-large-merged-20261005",
+      "slug": "daniya-emotelab-eyes-large-merged-20261005",
+      "postName": "emoji-post-195f43d63579c1136ace2086",
+      "title": "达妮娅捏捏表情包",
+      "count": 206,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-emotelab-eyes-large-merged-20261005",
+      "publishTime": "2026-10-04T17:46:06.046639188Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-emotelab-eyes-large-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/3a7c26f7d645037dc81300ba298c96f3f80c062486901868dbabe556dda342fd.gif",
+    "sha256": "3a7c26f7d645037dc81300ba298c96f3f80c062486901868dbabe556dda342fd",
+    "bytes": 1027984,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 32
+  },
+  {
+    "id": "r-01610deaae5ec48b83bd",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "term-6627c63c189991f32efeaf31",
+        "name": "洛瑟菈"
+      },
+      {
+        "slug": "rover",
+        "name": "漂泊者"
+      },
+      {
+        "slug": "aimisi",
+        "name": "爱弥斯"
+      },
+      {
+        "slug": "carlotta",
+        "name": "珂莱塔"
+      },
+      {
+        "slug": "linnai",
+        "name": "琳奈"
+      },
+      {
+        "slug": "yangyang",
+        "name": "秧秧"
+      },
+      {
+        "slug": "feixue",
+        "name": "绯雪"
+      },
+      {
+        "slug": "term-8cb24287d1d23c2248be5591",
+        "name": "莫宁"
+      },
+      {
+        "slug": "term-9646024ba03ca7d0a6fe2d94",
+        "name": "菲比"
+      },
+      {
+        "slug": "term-45d1f9a94354ae5b89801395",
+        "name": "西格莉卡"
+      },
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      },
+      {
+        "slug": "submission-term-4117b215b685eaae18280b0d",
+        "name": "阿布"
+      }
+    ],
+    "artists": [],
+    "pack": {
+      "id": "official-bili-new-world-animated",
+      "slug": "official-bili-new-world-animated",
+      "postName": "emoji-post-3fbf9bde71d2788dd3e25bee",
+      "title": "【官转】B站致予新世界表情包（动态）",
+      "count": 25,
+      "characters": [
+        {
+          "slug": "term-6627c63c189991f32efeaf31",
+          "name": "洛瑟菈"
+        },
+        {
+          "slug": "rover",
+          "name": "漂泊者"
+        },
+        {
+          "slug": "aimisi",
+          "name": "爱弥斯"
+        },
+        {
+          "slug": "carlotta",
+          "name": "珂莱塔"
+        },
+        {
+          "slug": "linnai",
+          "name": "琳奈"
+        },
+        {
+          "slug": "yangyang",
+          "name": "秧秧"
+        },
+        {
+          "slug": "feixue",
+          "name": "绯雪"
+        },
+        {
+          "slug": "term-8cb24287d1d23c2248be5591",
+          "name": "莫宁"
+        },
+        {
+          "slug": "term-9646024ba03ca7d0a6fe2d94",
+          "name": "菲比"
+        },
+        {
+          "slug": "term-45d1f9a94354ae5b89801395",
+          "name": "西格莉卡"
+        },
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        },
+        {
+          "slug": "submission-term-4117b215b685eaae18280b0d",
+          "name": "阿布"
+        }
+      ],
+      "artists": [],
+      "sourceUrl": "https://emoji.wuwa.games/archives/official-bili-new-world-animated",
+      "publishTime": "2026-10-05T19:18:40.706175639Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/official-bili-new-world-animated",
+    "downloaded": true,
+    "local_file": "incoming/images/c7ae7e685e281f2a5f08d011d2d91efd946a1c5c9e8818de0d52d836de22cd5d.gif",
+    "sha256": "c7ae7e685e281f2a5f08d011d2d91efd946a1c5c9e8818de0d52d836de22cd5d",
+    "bytes": 108141,
+    "actual_format": "gif",
+    "size": [
+      162,
+      162
+    ],
+    "frames": 6
+  },
+  {
+    "id": "r-0195179f2955291e11d2",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [],
+    "pack": {
+      "id": "daniya-emotelab-eyes-large-merged-20261005",
+      "slug": "daniya-emotelab-eyes-large-merged-20261005",
+      "postName": "emoji-post-195f43d63579c1136ace2086",
+      "title": "达妮娅捏捏表情包",
+      "count": 206,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-emotelab-eyes-large-merged-20261005",
+      "publishTime": "2026-10-04T17:46:06.046639188Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-emotelab-eyes-large-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/6da9a30c03037d11b2956378c2fac61405caa7f28493f0a8ead18cc317ee0100.gif",
+    "sha256": "6da9a30c03037d11b2956378c2fac61405caa7f28493f0a8ead18cc317ee0100",
+    "bytes": 778887,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 21
+  },
+  {
+    "id": "r-019d00d0afab7b11dbd7",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "十七泠",
+        "name": "十七泠"
+      }
+    ],
+    "pack": {
+      "id": "daniya-pizza-large-merged-20261005",
+      "slug": "daniya-pizza-large-merged-20261005",
+      "postName": "emoji-post-1f3bbf98032c34601298574c",
+      "title": "达妮娅披萨捏捏（大）",
+      "count": 173,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "十七泠",
+          "name": "十七泠"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-large-merged-20261005",
+      "publishTime": "2026-10-04T18:04:28.727110796Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-large-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/e53fb1285c86b22aaaced908e2878d72096fcf99b6a0a97155ab22a0a11e5a46.gif",
+    "sha256": "e53fb1285c86b22aaaced908e2878d72096fcf99b6a0a97155ab22a0a11e5a46",
+    "bytes": 2112010,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 54
+  },
+  {
+    "id": "r-02039bd195196dd52658",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "wuxue",
+        "name": "雾雪"
+      }
+    ],
+    "pack": {
+      "id": "daniya-xiaoshimei",
+      "slug": "daniya-xiaoshimei",
+      "postName": "emoji-post-4a2c61e14adc2c2bb89df01a",
+      "title": "小师妹娅娅动态表情包（雾雪）",
+      "count": 24,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "wuxue",
+          "name": "雾雪"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-xiaoshimei",
+      "publishTime": "2026-08-20T13:23:49.225646802Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-xiaoshimei",
+    "downloaded": true,
+    "local_file": "incoming/images/a4a672e558745eae5fb617e280dc15cb8b4938cc84dd36687f7dd55086d3ffbb.gif",
+    "sha256": "a4a672e558745eae5fb617e280dc15cb8b4938cc84dd36687f7dd55086d3ffbb",
+    "bytes": 1002008,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 36
+  },
+  {
+    "id": "r-02076e89133dc93e181c",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "春也Huruya",
+        "name": "春也Huruya"
+      }
+    ],
+    "pack": {
+      "id": "gb0345-daniya",
+      "slug": "gb0345-daniya",
+      "postName": "emoji-post-a5ec8dc4e2329bcb3821a142",
+      "title": "Solar5达妮娅表情包（鸭B）",
+      "count": 25,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "春也Huruya",
+          "name": "春也Huruya"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/gb0345-daniya",
+      "publishTime": "2026-09-01T08:06:42.719895633Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/gb0345-daniya",
+    "downloaded": true,
+    "local_file": "incoming/images/ec59a449452848ce653487cc5e1eaeb4b61fe2cb94de1391cdc20b2ece3bb39c.gif",
+    "sha256": "ec59a449452848ce653487cc5e1eaeb4b61fe2cb94de1391cdc20b2ece3bb39c",
+    "bytes": 404636,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 28
+  },
+  {
+    "id": "r-024786a491418ac5f7fe",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "十七泠",
+        "name": "十七泠"
+      }
+    ],
+    "pack": {
+      "id": "daniya-pizza-large-merged-20261005",
+      "slug": "daniya-pizza-large-merged-20261005",
+      "postName": "emoji-post-1f3bbf98032c34601298574c",
+      "title": "达妮娅披萨捏捏（大）",
+      "count": 173,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "十七泠",
+          "name": "十七泠"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-large-merged-20261005",
+      "publishTime": "2026-10-04T18:04:28.727110796Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-large-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/8cd542809c70d5e384cdb3f324e11e2a5e12cc796404d29c56b46149ec39ce3e.gif",
+    "sha256": "8cd542809c70d5e384cdb3f324e11e2a5e12cc796404d29c56b46149ec39ce3e",
+    "bytes": 1919663,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 57
+  },
+  {
+    "id": "r-02699254cfb0416a0f0e",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "wuxue",
+        "name": "雾雪"
+      }
+    ],
+    "pack": {
+      "id": "daniya-qipao",
+      "slug": "daniya-qipao",
+      "postName": "emoji-post-f8f0d0f6b955bffe6bc0c208",
+      "title": "旗袍达妮娅动态表情包（雾雪）",
+      "count": 12,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "wuxue",
+          "name": "雾雪"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-qipao",
+      "publishTime": "2026-08-06T16:12:59.973686588Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-qipao",
+    "downloaded": true,
+    "local_file": "incoming/images/57358ec6c2bf2d6a9e6d6de2ffad42f6431bc477d7b7f30f4b7c5bf080268ab5.gif",
+    "sha256": "57358ec6c2bf2d6a9e6d6de2ffad42f6431bc477d7b7f30f4b7c5bf080268ab5",
+    "bytes": 1299855,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 49
+  },
+  {
+    "id": "r-0281e71df1d1ec4426a5",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "十七泠",
+        "name": "十七泠"
+      }
+    ],
+    "pack": {
+      "id": "daniya-pizza-large-merged-20261005",
+      "slug": "daniya-pizza-large-merged-20261005",
+      "postName": "emoji-post-1f3bbf98032c34601298574c",
+      "title": "达妮娅披萨捏捏（大）",
+      "count": 173,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "十七泠",
+          "name": "十七泠"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-large-merged-20261005",
+      "publishTime": "2026-10-04T18:04:28.727110796Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-large-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/293b291e9678e357079286ee802309a49e8939e4bcb650ab994a55060e8db9ce.gif",
+    "sha256": "293b291e9678e357079286ee802309a49e8939e4bcb650ab994a55060e8db9ce",
+    "bytes": 2889407,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 63
+  },
+  {
+    "id": "r-02b3d959d0d2a77e1d40",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "wuxue",
+        "name": "雾雪"
+      }
+    ],
+    "pack": {
+      "id": "daniya-xiaoshimei",
+      "slug": "daniya-xiaoshimei",
+      "postName": "emoji-post-4a2c61e14adc2c2bb89df01a",
+      "title": "小师妹娅娅动态表情包（雾雪）",
+      "count": 24,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "wuxue",
+          "name": "雾雪"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-xiaoshimei",
+      "publishTime": "2026-08-20T13:23:49.225646802Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-xiaoshimei",
+    "downloaded": true,
+    "local_file": "incoming/images/6232f992d0f3ff3a6079cceb4d39aab1abd88eeb69422f17c12cee5aebca4ec3.gif",
+    "sha256": "6232f992d0f3ff3a6079cceb4d39aab1abd88eeb69422f17c12cee5aebca4ec3",
+    "bytes": 1105360,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 36
+  },
+  {
+    "id": "r-02cafc20a03b2575e722",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "chisa",
+        "name": "千咲"
+      },
+      {
+        "slug": "aimisi",
+        "name": "爱弥斯"
+      },
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "wuxue",
+        "name": "雾雪"
+      }
+    ],
+    "pack": {
+      "id": "chisa-aimisi-daniya",
+      "slug": "chisa-aimisi-daniya",
+      "postName": "emoji-post-732d2a0588e3afa4b721c062",
+      "title": "聚爆烤肉三人队（雾雪）",
+      "count": 53,
+      "characters": [
+        {
+          "slug": "chisa",
+          "name": "千咲"
+        },
+        {
+          "slug": "aimisi",
+          "name": "爱弥斯"
+        },
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "wuxue",
+          "name": "雾雪"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/chisa-aimisi-daniya",
+      "publishTime": "2026-08-11T09:42:10.861933375Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/chisa-aimisi-daniya",
+    "downloaded": true,
+    "local_file": "incoming/images/a2bff22e20f48df1450ecdbfb516f2733d33a175d84b762d6acdd234e026df84.gif",
+    "sha256": "a2bff22e20f48df1450ecdbfb516f2733d33a175d84b762d6acdd234e026df84",
+    "bytes": 1226552,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 45
+  },
+  {
+    "id": "r-033535d123c55ff44e4e",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "chisa",
+        "name": "千咲"
+      },
+      {
+        "slug": "cartethyia",
+        "name": "卡提希娅"
+      },
+      {
+        "slug": "term-631b3d5ed2d39239ccc77dc8",
+        "name": "弗洛洛"
+      },
+      {
+        "slug": "xin",
+        "name": "心"
+      },
+      {
+        "slug": "qingxiao",
+        "name": "清宵"
+      },
+      {
+        "slug": "aimisi",
+        "name": "爱弥斯"
+      },
+      {
+        "slug": "yangyang",
+        "name": "秧秧"
+      },
+      {
+        "slug": "term-8cb24287d1d23c2248be5591",
+        "name": "莫宁"
+      },
+      {
+        "slug": "term-9646024ba03ca7d0a6fe2d94",
+        "name": "菲比"
+      },
+      {
+        "slug": "term-45d1f9a94354ae5b89801395",
+        "name": "西格莉卡"
+      },
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      },
+      {
+        "slug": "suoming",
+        "name": "锁暝"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "腐朽的书",
+        "name": "腐朽的书"
+      }
+    ],
+    "pack": {
+      "id": "backlog-20260927-g011-v1",
+      "slug": "backlog-20260927-g011-v1",
+      "postName": "emoji-post-d462d22997d00be69f7c26d8",
+      "title": "吃月饼角色合集（书牌）",
+      "count": 15,
+      "characters": [
+        {
+          "slug": "chisa",
+          "name": "千咲"
+        },
+        {
+          "slug": "cartethyia",
+          "name": "卡提希娅"
+        },
+        {
+          "slug": "term-631b3d5ed2d39239ccc77dc8",
+          "name": "弗洛洛"
+        },
+        {
+          "slug": "xin",
+          "name": "心"
+        },
+        {
+          "slug": "qingxiao",
+          "name": "清宵"
+        },
+        {
+          "slug": "aimisi",
+          "name": "爱弥斯"
+        },
+        {
+          "slug": "yangyang",
+          "name": "秧秧"
+        },
+        {
+          "slug": "term-8cb24287d1d23c2248be5591",
+          "name": "莫宁"
+        },
+        {
+          "slug": "term-9646024ba03ca7d0a6fe2d94",
+          "name": "菲比"
+        },
+        {
+          "slug": "term-45d1f9a94354ae5b89801395",
+          "name": "西格莉卡"
+        },
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        },
+        {
+          "slug": "suoming",
+          "name": "锁暝"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "腐朽的书",
+          "name": "腐朽的书"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/backlog-20260927-g011-v1",
+      "publishTime": "2026-09-26T19:32:51.428209460Z"
+    },
+    "format": "png",
+    "animated": false,
+    "sourceUrl": "https://emoji.wuwa.games/archives/backlog-20260927-g011-v1",
+    "downloaded": true,
+    "local_file": "incoming/images/8297e8ae1a7e22668e900179e1d88cbff2c56c8d5c985a01ce95aa74e1d98848.png",
+    "sha256": "8297e8ae1a7e22668e900179e1d88cbff2c56c8d5c985a01ce95aa74e1d98848",
+    "bytes": 127729,
+    "actual_format": "png",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 1
+  },
+  {
+    "id": "r-034ec7c42991b7d84b32",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "腐朽的书",
+        "name": "腐朽的书"
+      }
+    ],
+    "pack": {
+      "id": "backlog-20260927-g050",
+      "slug": "backlog-20260927-g050",
+      "postName": "emoji-post-f29b35ce532160beb34d1ecc",
+      "title": "达妮娅 常态 静态表情包（书牌）",
+      "count": 49,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "腐朽的书",
+          "name": "腐朽的书"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/backlog-20260927-g050",
+      "publishTime": "2026-09-26T19:33:05.192059115Z"
+    },
+    "format": "png",
+    "animated": false,
+    "sourceUrl": "https://emoji.wuwa.games/archives/backlog-20260927-g050",
+    "downloaded": true,
+    "local_file": "incoming/images/369e8e524358522e43bfcc454a323f4a1d296eac8cd240fc841c40f7e38c06c1.png",
+    "sha256": "369e8e524358522e43bfcc454a323f4a1d296eac8cd240fc841c40f7e38c06c1",
+    "bytes": 157923,
+    "actual_format": "png",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 1
+  },
+  {
+    "id": "r-03715cf78900428d7d6b",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [],
+    "pack": {
+      "id": "daniya-emotelab-eyes-large-merged-20261005",
+      "slug": "daniya-emotelab-eyes-large-merged-20261005",
+      "postName": "emoji-post-195f43d63579c1136ace2086",
+      "title": "达妮娅捏捏表情包",
+      "count": 206,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-emotelab-eyes-large-merged-20261005",
+      "publishTime": "2026-10-04T17:46:06.046639188Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-emotelab-eyes-large-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/4089bc8d1af44d1c3fe2521e42e30f439621d9c680e34039591570a17ae00230.gif",
+    "sha256": "4089bc8d1af44d1c3fe2521e42e30f439621d9c680e34039591570a17ae00230",
+    "bytes": 3319481,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 88
+  },
+  {
+    "id": "r-03c3a5ca8bb10e437800",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "cartethyia",
+        "name": "卡提希娅"
+      },
+      {
+        "slug": "shorekeeper",
+        "name": "守岸人"
+      },
+      {
+        "slug": "term-631b3d5ed2d39239ccc77dc8",
+        "name": "弗洛洛"
+      },
+      {
+        "slug": "term-6627c63c189991f32efeaf31",
+        "name": "洛瑟菈"
+      },
+      {
+        "slug": "linnai",
+        "name": "琳奈"
+      },
+      {
+        "slug": "term-ff2f25c18984bd3d63e2aec8",
+        "name": "白芷"
+      },
+      {
+        "slug": "yangyang",
+        "name": "秧秧"
+      },
+      {
+        "slug": "suisui",
+        "name": "穗穗"
+      },
+      {
+        "slug": "term-9646024ba03ca7d0a6fe2d94",
+        "name": "菲比"
+      },
+      {
+        "slug": "term-45d1f9a94354ae5b89801395",
+        "name": "西格莉卡"
+      },
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [],
+    "pack": {
+      "id": "wuyanmao-collection-1",
+      "slug": "wuyanmao-collection-1",
+      "postName": "emoji-post-791f3e5c731edda312443620",
+      "title": "捂眼猫表情合集 ",
+      "count": 23,
+      "characters": [
+        {
+          "slug": "cartethyia",
+          "name": "卡提希娅"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "守岸人"
+        },
+        {
+          "slug": "term-631b3d5ed2d39239ccc77dc8",
+          "name": "弗洛洛"
+        },
+        {
+          "slug": "term-6627c63c189991f32efeaf31",
+          "name": "洛瑟菈"
+        },
+        {
+          "slug": "linnai",
+          "name": "琳奈"
+        },
+        {
+          "slug": "term-ff2f25c18984bd3d63e2aec8",
+          "name": "白芷"
+        },
+        {
+          "slug": "yangyang",
+          "name": "秧秧"
+        },
+        {
+          "slug": "suisui",
+          "name": "穗穗"
+        },
+        {
+          "slug": "term-9646024ba03ca7d0a6fe2d94",
+          "name": "菲比"
+        },
+        {
+          "slug": "term-45d1f9a94354ae5b89801395",
+          "name": "西格莉卡"
+        },
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [],
+      "sourceUrl": "https://emoji.wuwa.games/archives/wuyanmao-collection-1",
+      "publishTime": "2026-09-26T19:56:18.408810877Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/wuyanmao-collection-1",
+    "downloaded": true,
+    "local_file": "incoming/images/0ad3472143bb7a83f729ad5d670967c471371b6cd889db07bba87023908b9a55.gif",
+    "sha256": "0ad3472143bb7a83f729ad5d670967c471371b6cd889db07bba87023908b9a55",
+    "bytes": 277038,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 19
+  },
+  {
+    "id": "r-03da2dec2abc196f8365",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "时时今晚吃什么",
+        "name": "时时今晚吃什么"
+      }
+    ],
+    "pack": {
+      "id": "daniya-shishi",
+      "slug": "daniya-shishi",
+      "postName": "emoji-post-27144fe81fdd154fa21050a0",
+      "title": "达妮娅动态表情包（时时）",
+      "count": 48,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "时时今晚吃什么",
+          "name": "时时今晚吃什么"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-shishi",
+      "publishTime": "2026-08-06T16:12:54.409442294Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-shishi",
+    "downloaded": true,
+    "local_file": "incoming/images/b3af7cdc2638c140fc796f9f8213ab358d6b5e87c6c2c44326eb87e617bb5d76.gif",
+    "sha256": "b3af7cdc2638c140fc796f9f8213ab358d6b5e87c6c2c44326eb87e617bb5d76",
+    "bytes": 431571,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 37
+  },
+  {
+    "id": "r-045d8b6bb26b30b6527b",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "十七泠",
+        "name": "十七泠"
+      }
+    ],
+    "pack": {
+      "id": "daniya-pizza-small-merged-20261005",
+      "slug": "daniya-pizza-small-merged-20261005",
+      "postName": "emoji-post-939350bae0a106c1132e2079",
+      "title": "达妮娅披萨捏捏（小）",
+      "count": 128,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "十七泠",
+          "name": "十七泠"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-small-merged-20261005",
+      "publishTime": "2026-10-04T18:26:34.934361049Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-small-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/c755c48f6cce156c8d6203905c2a4e88807e27261c10126c171162846379b105.gif",
+    "sha256": "c755c48f6cce156c8d6203905c2a4e88807e27261c10126c171162846379b105",
+    "bytes": 1588039,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 43
+  },
+  {
+    "id": "r-046ed5c411b1ce3b44b8",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "春也Huruya",
+        "name": "春也Huruya"
+      }
+    ],
+    "pack": {
+      "id": "gb0345-daniya",
+      "slug": "gb0345-daniya",
+      "postName": "emoji-post-a5ec8dc4e2329bcb3821a142",
+      "title": "Solar5达妮娅表情包（鸭B）",
+      "count": 25,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "春也Huruya",
+          "name": "春也Huruya"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/gb0345-daniya",
+      "publishTime": "2026-09-01T08:06:42.719895633Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/gb0345-daniya",
+    "downloaded": true,
+    "local_file": "incoming/images/5f1108d653d3b7979726d43de28446897e289b9d50ed5d303258b3375c4c753b.gif",
+    "sha256": "5f1108d653d3b7979726d43de28446897e289b9d50ed5d303258b3375c4c753b",
+    "bytes": 920890,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 34
+  },
+  {
+    "id": "r-04836f00b7e4c8f3ac58",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "十七泠",
+        "name": "十七泠"
+      }
+    ],
+    "pack": {
+      "id": "daniya-pizza-large-merged-20261005",
+      "slug": "daniya-pizza-large-merged-20261005",
+      "postName": "emoji-post-1f3bbf98032c34601298574c",
+      "title": "达妮娅披萨捏捏（大）",
+      "count": 173,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "十七泠",
+          "name": "十七泠"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-large-merged-20261005",
+      "publishTime": "2026-10-04T18:04:28.727110796Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-large-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/5979805064edb08a4fa02507f9af1e8e9e612b94135e4e909b8cfa0c9db24bf2.gif",
+    "sha256": "5979805064edb08a4fa02507f9af1e8e9e612b94135e4e909b8cfa0c9db24bf2",
+    "bytes": 1892586,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 57
+  },
+  {
+    "id": "r-04f9b3b7a3728c0083ae",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "腐朽的书",
+        "name": "腐朽的书"
+      }
+    ],
+    "pack": {
+      "id": "backlog-20260927-g050",
+      "slug": "backlog-20260927-g050",
+      "postName": "emoji-post-f29b35ce532160beb34d1ecc",
+      "title": "达妮娅 常态 静态表情包（书牌）",
+      "count": 49,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "腐朽的书",
+          "name": "腐朽的书"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/backlog-20260927-g050",
+      "publishTime": "2026-09-26T19:33:05.192059115Z"
+    },
+    "format": "png",
+    "animated": false,
+    "sourceUrl": "https://emoji.wuwa.games/archives/backlog-20260927-g050",
+    "downloaded": true,
+    "local_file": "incoming/images/41cd0d89ffb25d66b335a656bf6f0891a494489cdd5bca2a68acf680804929ba.png",
+    "sha256": "41cd0d89ffb25d66b335a656bf6f0891a494489cdd5bca2a68acf680804929ba",
+    "bytes": 154874,
+    "actual_format": "png",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 1
+  },
+  {
+    "id": "r-05178a94c85aa5ec5f13",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "wuxue",
+        "name": "雾雪"
+      }
+    ],
+    "pack": {
+      "id": "daniya-haohaoxiao",
+      "slug": "daniya-haohaoxiao",
+      "postName": "emoji-post-589e17aaf7d8eeacda9a30c5",
+      "title": "达妮娅动态表情包（雾雪）",
+      "count": 18,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "wuxue",
+          "name": "雾雪"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-haohaoxiao",
+      "publishTime": "2026-08-11T09:42:11.510485721Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-haohaoxiao",
+    "downloaded": true,
+    "local_file": "incoming/images/14a9fa505b7b3655f9aac69c204abc78f33bf696372b51f855d2dd76d6545df5.gif",
+    "sha256": "14a9fa505b7b3655f9aac69c204abc78f33bf696372b51f855d2dd76d6545df5",
+    "bytes": 1679493,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 45
+  },
+  {
+    "id": "r-0552084da20fcf822988",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "十七泠",
+        "name": "十七泠"
+      }
+    ],
+    "pack": {
+      "id": "daniya-pizza-large-merged-20261005",
+      "slug": "daniya-pizza-large-merged-20261005",
+      "postName": "emoji-post-1f3bbf98032c34601298574c",
+      "title": "达妮娅披萨捏捏（大）",
+      "count": 173,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "十七泠",
+          "name": "十七泠"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-large-merged-20261005",
+      "publishTime": "2026-10-04T18:04:28.727110796Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-large-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/897352f8e995bd9d2e58830a887e8febf410af27ee2c3595318e3b6f0c189ff8.gif",
+    "sha256": "897352f8e995bd9d2e58830a887e8febf410af27ee2c3595318e3b6f0c189ff8",
+    "bytes": 1486539,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 32
+  },
+  {
+    "id": "r-0559d74c246c68b46a28",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "十七泠",
+        "name": "十七泠"
+      }
+    ],
+    "pack": {
+      "id": "daniya-pizza-small-merged-20261005",
+      "slug": "daniya-pizza-small-merged-20261005",
+      "postName": "emoji-post-939350bae0a106c1132e2079",
+      "title": "达妮娅披萨捏捏（小）",
+      "count": 128,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "十七泠",
+          "name": "十七泠"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-small-merged-20261005",
+      "publishTime": "2026-10-04T18:26:34.934361049Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-small-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/fbf16f8911c2170c1e87aa72653bbb7d52708b75454d4a27b3a1dac0c63418b0.gif",
+    "sha256": "fbf16f8911c2170c1e87aa72653bbb7d52708b75454d4a27b3a1dac0c63418b0",
+    "bytes": 2700889,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 66
+  },
+  {
+    "id": "r-0571f99c2478da2050fb",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "猫屋敷梨梨&春也Haruya",
+        "name": "猫屋敷梨梨&春也Haruya"
+      }
+    ],
+    "pack": {
+      "id": "daniya-ban-202",
+      "slug": "daniya-ban-202",
+      "postName": "emoji-post-fa16365bfb9fa3324713ce5f",
+      "title": "达妮娅动态表情包（板牌）",
+      "count": 26,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "猫屋敷梨梨&春也Haruya",
+          "name": "猫屋敷梨梨&春也Haruya"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-ban-202",
+      "publishTime": "2026-08-06T16:12:49.402454578Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-ban-202",
+    "downloaded": true,
+    "local_file": "incoming/images/b9e1e984fe62439c1577a1ce40064b7a6e16cb70ef99d7304c02ffd938ad1806.gif",
+    "sha256": "b9e1e984fe62439c1577a1ce40064b7a6e16cb70ef99d7304c02ffd938ad1806",
+    "bytes": 763778,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 28
+  },
+  {
+    "id": "r-0575407665354088f937",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "wuxue",
+        "name": "雾雪"
+      }
+    ],
+    "pack": {
+      "id": "daniya-wuxue",
+      "slug": "daniya-wuxue",
+      "postName": "emoji-post-21cac120c665fd9e64cb11e3",
+      "title": "达妮娅动态表情包（雾雪）",
+      "count": 18,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "wuxue",
+          "name": "雾雪"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-wuxue",
+      "publishTime": "2026-08-06T16:13:01.056733554Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-wuxue",
+    "downloaded": true,
+    "local_file": "incoming/images/f74eb40d1d4281b51ed9ddea23b6c473e9207bce72d48400b621c4271f9a5cab.gif",
+    "sha256": "f74eb40d1d4281b51ed9ddea23b6c473e9207bce72d48400b621c4271f9a5cab",
+    "bytes": 2049948,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 61
+  },
+  {
+    "id": "r-0612aa933387c76ef5e4",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "腐朽的书",
+        "name": "腐朽的书"
+      }
+    ],
+    "pack": {
+      "id": "backlog-20260927-g051",
+      "slug": "backlog-20260927-g051",
+      "postName": "emoji-post-8cb1f172ad91d8f122ccd25a",
+      "title": "达妮娅 猫猫  静态表情包（书牌）",
+      "count": 18,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "腐朽的书",
+          "name": "腐朽的书"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/backlog-20260927-g051",
+      "publishTime": "2026-09-26T19:33:06.160778626Z"
+    },
+    "format": "png",
+    "animated": false,
+    "sourceUrl": "https://emoji.wuwa.games/archives/backlog-20260927-g051",
+    "downloaded": true,
+    "local_file": "incoming/images/1ce8859608f8271503e3bba86e46e40aea4661ce8850117b304148dccd2eadd0.png",
+    "sha256": "1ce8859608f8271503e3bba86e46e40aea4661ce8850117b304148dccd2eadd0",
+    "bytes": 151960,
+    "actual_format": "png",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 1
+  },
+  {
+    "id": "r-06581bb068bc1c93e7c2",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "term-1909f1e46eb7960f981a6250",
+        "name": "嗷懒叽"
+      }
+    ],
+    "pack": {
+      "id": "daniya-jp-2nd-30",
+      "slug": "daniya-jp-2nd-30",
+      "postName": "emoji-post-95a5e694d082b7c62d8d1552",
+      "title": "达妮娅日服二周年礼裙动态表情包（懒牌）",
+      "count": 23,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "term-1909f1e46eb7960f981a6250",
+          "name": "嗷懒叽"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-jp-2nd-30",
+      "publishTime": "2026-08-06T16:12:59.027620887Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-jp-2nd-30",
+    "downloaded": true,
+    "local_file": "incoming/images/a808bbfa06285c855cd650bce097f8a32d95e5b888283d9ee54a2d3c86c931d4.gif",
+    "sha256": "a808bbfa06285c855cd650bce097f8a32d95e5b888283d9ee54a2d3c86c931d4",
+    "bytes": 1243623,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 37
+  },
+  {
+    "id": "r-069803a0c533eb581820",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "wuxue",
+        "name": "雾雪"
+      }
+    ],
+    "pack": {
+      "id": "daniya-wuxue-black",
+      "slug": "daniya-wuxue-black",
+      "postName": "emoji-post-1f409c519f91b09e1ea2da8d",
+      "title": "达妮娅（黑）动态表情包（雾雪哈基米）",
+      "count": 22,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "wuxue",
+          "name": "雾雪"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-wuxue-black",
+      "publishTime": "2026-08-06T16:13:02.086652324Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-wuxue-black",
+    "downloaded": true,
+    "local_file": "incoming/images/96c3dcfcd20e01e4349ced4f2074c17797694e9ee5c9b0c971fe84f5f9bab44a.gif",
+    "sha256": "96c3dcfcd20e01e4349ced4f2074c17797694e9ee5c9b0c971fe84f5f9bab44a",
+    "bytes": 2668153,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 72
+  },
+  {
+    "id": "r-07235cbd509b012caaae",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [],
+    "pack": {
+      "id": "daniya-emotelab-eyes-large-merged-20261005",
+      "slug": "daniya-emotelab-eyes-large-merged-20261005",
+      "postName": "emoji-post-195f43d63579c1136ace2086",
+      "title": "达妮娅捏捏表情包",
+      "count": 206,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-emotelab-eyes-large-merged-20261005",
+      "publishTime": "2026-10-04T17:46:06.046639188Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-emotelab-eyes-large-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/354d15c901293fb6c93510795ecd6c4bdc6540871a56d89a0bb66b72360c98a8.gif",
+    "sha256": "354d15c901293fb6c93510795ecd6c4bdc6540871a56d89a0bb66b72360c98a8",
+    "bytes": 556161,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 17
+  },
+  {
+    "id": "r-079607b8294323712750",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "rover",
+        "name": "漂泊者"
+      },
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "wuxue",
+        "name": "雾雪"
+      }
+    ],
+    "pack": {
+      "id": "daniya-rover-dafuni",
+      "slug": "daniya-rover-dafuni",
+      "postName": "emoji-post-d956a3cef1f064ece21e3806",
+      "title": "达妮娅与男漂动态表情包（雾雪猫猫款）",
+      "count": 12,
+      "characters": [
+        {
+          "slug": "rover",
+          "name": "漂泊者"
+        },
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "wuxue",
+          "name": "雾雪"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-rover-dafuni",
+      "publishTime": "2026-09-26T19:56:20.662717460Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-rover-dafuni",
+    "downloaded": true,
+    "local_file": "incoming/images/06e5ed9c96d6213eba45f18da30b1fab492e4d22403e1c6da8e8c520166de045.gif",
+    "sha256": "06e5ed9c96d6213eba45f18da30b1fab492e4d22403e1c6da8e8c520166de045",
+    "bytes": 602634,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 18
+  },
+  {
+    "id": "r-07e6829ae12918901267",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "rover",
+        "name": "漂泊者"
+      },
+      {
+        "slug": "linnai",
+        "name": "琳奈"
+      },
+      {
+        "slug": "term-45d1f9a94354ae5b89801395",
+        "name": "西格莉卡"
+      },
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [],
+    "pack": {
+      "id": "sigrika-chat-memes-20261010",
+      "slug": "sigrika-chat-memes-20261010",
+      "postName": "emoji-post-49f4229f14c43bdab32df01b",
+      "title": "西格莉卡 · 建模截图聊天表情",
+      "count": 93,
+      "characters": [
+        {
+          "slug": "rover",
+          "name": "漂泊者"
+        },
+        {
+          "slug": "linnai",
+          "name": "琳奈"
+        },
+        {
+          "slug": "term-45d1f9a94354ae5b89801395",
+          "name": "西格莉卡"
+        },
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [],
+      "sourceUrl": "https://emoji.wuwa.games/archives/sigrika-chat-memes-20261010",
+      "publishTime": "2026-10-10T02:43:44.868863586Z"
+    },
+    "format": "png",
+    "animated": false,
+    "sourceUrl": "https://emoji.wuwa.games/archives/sigrika-chat-memes-20261010",
+    "downloaded": true,
+    "local_file": "incoming/images/6d2f8185e0b84adb31dc23fc0a8b8f223dbef41ba1e228f12ea0543227c1fe3f.png",
+    "sha256": "6d2f8185e0b84adb31dc23fc0a8b8f223dbef41ba1e228f12ea0543227c1fe3f",
+    "bytes": 155237,
+    "actual_format": "png",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 1
+  },
+  {
+    "id": "r-0866d767c1fbcea33935",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "十七泠",
+        "name": "十七泠"
+      }
+    ],
+    "pack": {
+      "id": "daniya-pizza-large-merged-20261005",
+      "slug": "daniya-pizza-large-merged-20261005",
+      "postName": "emoji-post-1f3bbf98032c34601298574c",
+      "title": "达妮娅披萨捏捏（大）",
+      "count": 173,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "十七泠",
+          "name": "十七泠"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-large-merged-20261005",
+      "publishTime": "2026-10-04T18:04:28.727110796Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-large-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/1b29458aa906d567825e6f0fd3c532ad03822678c4c52b3aa2271c8f081781c0.gif",
+    "sha256": "1b29458aa906d567825e6f0fd3c532ad03822678c4c52b3aa2271c8f081781c0",
+    "bytes": 759325,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 19
+  },
+  {
+    "id": "r-08873387aadb91a68520",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [],
+    "pack": {
+      "id": "daniya-emotelab-eyes-large-merged-20261005",
+      "slug": "daniya-emotelab-eyes-large-merged-20261005",
+      "postName": "emoji-post-195f43d63579c1136ace2086",
+      "title": "达妮娅捏捏表情包",
+      "count": 206,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-emotelab-eyes-large-merged-20261005",
+      "publishTime": "2026-10-04T17:46:06.046639188Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-emotelab-eyes-large-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/9b46d3b2b6014f88fc82e0fedaa6c81923a37b6fdfb383f430908ac7e26829a1.gif",
+    "sha256": "9b46d3b2b6014f88fc82e0fedaa6c81923a37b6fdfb383f430908ac7e26829a1",
+    "bytes": 1507900,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 43
+  },
+  {
+    "id": "r-0894719dacad25d7748e",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [],
+    "pack": {
+      "id": "daniya-emotelab-eyes-large-merged-20261005",
+      "slug": "daniya-emotelab-eyes-large-merged-20261005",
+      "postName": "emoji-post-195f43d63579c1136ace2086",
+      "title": "达妮娅捏捏表情包",
+      "count": 206,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-emotelab-eyes-large-merged-20261005",
+      "publishTime": "2026-10-04T17:46:06.046639188Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-emotelab-eyes-large-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/2bfdf8e316ca5a0932b00da88ccc04092471c0af979e9fd392d9d98be6015f41.gif",
+    "sha256": "2bfdf8e316ca5a0932b00da88ccc04092471c0af979e9fd392d9d98be6015f41",
+    "bytes": 726562,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 21
+  },
+  {
+    "id": "r-089afc4f89193a39c556",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "十七泠",
+        "name": "十七泠"
+      }
+    ],
+    "pack": {
+      "id": "daniya-pizza-large-merged-20261005",
+      "slug": "daniya-pizza-large-merged-20261005",
+      "postName": "emoji-post-1f3bbf98032c34601298574c",
+      "title": "达妮娅披萨捏捏（大）",
+      "count": 173,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "十七泠",
+          "name": "十七泠"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-large-merged-20261005",
+      "publishTime": "2026-10-04T18:04:28.727110796Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-large-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/7bd66cbda172326869818487777f11e99bec0e39195e85ec389725585fdd53a5.gif",
+    "sha256": "7bd66cbda172326869818487777f11e99bec0e39195e85ec389725585fdd53a5",
+    "bytes": 1500326,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 32
+  },
+  {
+    "id": "r-08dc1e775ef56fac6069",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [],
+    "pack": {
+      "id": "daniya-emotelab-eyes-large-merged-20261005",
+      "slug": "daniya-emotelab-eyes-large-merged-20261005",
+      "postName": "emoji-post-195f43d63579c1136ace2086",
+      "title": "达妮娅捏捏表情包",
+      "count": 206,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-emotelab-eyes-large-merged-20261005",
+      "publishTime": "2026-10-04T17:46:06.046639188Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-emotelab-eyes-large-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/eb2317ad099fbd147d3c75ef4603d08944fe9d30ea175989bf7ea59e05c6846c.gif",
+    "sha256": "eb2317ad099fbd147d3c75ef4603d08944fe9d30ea175989bf7ea59e05c6846c",
+    "bytes": 1757687,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 48
+  },
+  {
+    "id": "r-09bdb4609559f4fadfc4",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "十七泠",
+        "name": "十七泠"
+      }
+    ],
+    "pack": {
+      "id": "daniya-pizza-large-merged-20261005",
+      "slug": "daniya-pizza-large-merged-20261005",
+      "postName": "emoji-post-1f3bbf98032c34601298574c",
+      "title": "达妮娅披萨捏捏（大）",
+      "count": 173,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "十七泠",
+          "name": "十七泠"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-large-merged-20261005",
+      "publishTime": "2026-10-04T18:04:28.727110796Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-large-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/e90babd9cb96aaf67748bf6c3474057f8fb3688097dd903945d542e9910a188c.gif",
+    "sha256": "e90babd9cb96aaf67748bf6c3474057f8fb3688097dd903945d542e9910a188c",
+    "bytes": 1508756,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 32
+  },
+  {
+    "id": "r-09c838c3f8c4afaadad0",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "wuxue",
+        "name": "雾雪"
+      }
+    ],
+    "pack": {
+      "id": "daniya-wuxue",
+      "slug": "daniya-wuxue",
+      "postName": "emoji-post-21cac120c665fd9e64cb11e3",
+      "title": "达妮娅动态表情包（雾雪）",
+      "count": 18,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "wuxue",
+          "name": "雾雪"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-wuxue",
+      "publishTime": "2026-08-06T16:13:01.056733554Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-wuxue",
+    "downloaded": true,
+    "local_file": "incoming/images/a96aad1790f5fe4accaddfa346da2926be5cd8cfc42187a8d6b9de6a7b4c830c.gif",
+    "sha256": "a96aad1790f5fe4accaddfa346da2926be5cd8cfc42187a8d6b9de6a7b4c830c",
+    "bytes": 618882,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 18
+  },
+  {
+    "id": "r-09f7bcac5bf34f077195",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "十七泠",
+        "name": "十七泠"
+      }
+    ],
+    "pack": {
+      "id": "daniya-pizza-large-merged-20261005",
+      "slug": "daniya-pizza-large-merged-20261005",
+      "postName": "emoji-post-1f3bbf98032c34601298574c",
+      "title": "达妮娅披萨捏捏（大）",
+      "count": 173,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "十七泠",
+          "name": "十七泠"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-large-merged-20261005",
+      "publishTime": "2026-10-04T18:04:28.727110796Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-large-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/b6be3b29954938fb23c28db2dd954787b83b08d100c5548809b943d0657b1907.gif",
+    "sha256": "b6be3b29954938fb23c28db2dd954787b83b08d100c5548809b943d0657b1907",
+    "bytes": 169099,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 6
+  },
+  {
+    "id": "r-0a13e1d4e7d4a77eb0f0",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "十七泠",
+        "name": "十七泠"
+      }
+    ],
+    "pack": {
+      "id": "daniya-pizza-large-merged-20261005",
+      "slug": "daniya-pizza-large-merged-20261005",
+      "postName": "emoji-post-1f3bbf98032c34601298574c",
+      "title": "达妮娅披萨捏捏（大）",
+      "count": 173,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "十七泠",
+          "name": "十七泠"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-large-merged-20261005",
+      "publishTime": "2026-10-04T18:04:28.727110796Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-large-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/c4e845e2adf38f8441ab604f9fbff14d90e92ea1d0c288bd2ca173759802c171.gif",
+    "sha256": "c4e845e2adf38f8441ab604f9fbff14d90e92ea1d0c288bd2ca173759802c171",
+    "bytes": 2501304,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 54
+  },
+  {
+    "id": "r-0a5a35127660ab0383ce",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "wuxue",
+        "name": "雾雪"
+      }
+    ],
+    "pack": {
+      "id": "daniya-haohaoxiao",
+      "slug": "daniya-haohaoxiao",
+      "postName": "emoji-post-589e17aaf7d8eeacda9a30c5",
+      "title": "达妮娅动态表情包（雾雪）",
+      "count": 18,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "wuxue",
+          "name": "雾雪"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-haohaoxiao",
+      "publishTime": "2026-08-11T09:42:11.510485721Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-haohaoxiao",
+    "downloaded": true,
+    "local_file": "incoming/images/7f57d85646607c5dc73f6fcb80c2e9cc417d1343076161366f9297e4aaca181d.gif",
+    "sha256": "7f57d85646607c5dc73f6fcb80c2e9cc417d1343076161366f9297e4aaca181d",
+    "bytes": 1770897,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 45
+  },
+  {
+    "id": "r-0a6e1581d416073f64e6",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "春也Huruya",
+        "name": "春也Huruya"
+      }
+    ],
+    "pack": {
+      "id": "daniya-chunye",
+      "slug": "daniya-chunye",
+      "postName": "emoji-post-badc6d8f77ded8ae98b6d541",
+      "title": "达妮娅动态表情包（鸭A）",
+      "count": 20,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "春也Huruya",
+          "name": "春也Huruya"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-chunye",
+      "publishTime": "2026-08-06T16:12:50.241160756Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-chunye",
+    "downloaded": true,
+    "local_file": "incoming/images/a1f5d3de609b68cc708e5ad2899ab4550d8fc09eb8cf4e8acf0c7c57fda82d63.gif",
+    "sha256": "a1f5d3de609b68cc708e5ad2899ab4550d8fc09eb8cf4e8acf0c7c57fda82d63",
+    "bytes": 1700320,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 34
+  },
+  {
+    "id": "r-0b43f65bcfa6659fc482",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "十七泠",
+        "name": "十七泠"
+      }
+    ],
+    "pack": {
+      "id": "daniya-pizza-small-merged-20261005",
+      "slug": "daniya-pizza-small-merged-20261005",
+      "postName": "emoji-post-939350bae0a106c1132e2079",
+      "title": "达妮娅披萨捏捏（小）",
+      "count": 128,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "十七泠",
+          "name": "十七泠"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-small-merged-20261005",
+      "publishTime": "2026-10-04T18:26:34.934361049Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-small-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/d77cc8803a8f9a93232303e802b94f7c8e5be14003240a07d14e9eafd700cdae.gif",
+    "sha256": "d77cc8803a8f9a93232303e802b94f7c8e5be14003240a07d14e9eafd700cdae",
+    "bytes": 1046784,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 32
+  },
+  {
+    "id": "r-0b8f5e47c2a5516da9f2",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "十七泠",
+        "name": "十七泠"
+      }
+    ],
+    "pack": {
+      "id": "daniya-pizza-large-merged-20261005",
+      "slug": "daniya-pizza-large-merged-20261005",
+      "postName": "emoji-post-1f3bbf98032c34601298574c",
+      "title": "达妮娅披萨捏捏（大）",
+      "count": 173,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "十七泠",
+          "name": "十七泠"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-large-merged-20261005",
+      "publishTime": "2026-10-04T18:04:28.727110796Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-large-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/af7604cdd77073ab9de8dc0265d628eae5045f2ab23d5c64bf1f340baa96584e.gif",
+    "sha256": "af7604cdd77073ab9de8dc0265d628eae5045f2ab23d5c64bf1f340baa96584e",
+    "bytes": 2076408,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 43
+  },
+  {
+    "id": "r-0bf059d46710b97e1503",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "chisa",
+        "name": "千咲"
+      },
+      {
+        "slug": "aimisi",
+        "name": "爱弥斯"
+      },
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "wuxue",
+        "name": "雾雪"
+      }
+    ],
+    "pack": {
+      "id": "chisa-aimisi-daniya",
+      "slug": "chisa-aimisi-daniya",
+      "postName": "emoji-post-732d2a0588e3afa4b721c062",
+      "title": "聚爆烤肉三人队（雾雪）",
+      "count": 53,
+      "characters": [
+        {
+          "slug": "chisa",
+          "name": "千咲"
+        },
+        {
+          "slug": "aimisi",
+          "name": "爱弥斯"
+        },
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "wuxue",
+          "name": "雾雪"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/chisa-aimisi-daniya",
+      "publishTime": "2026-08-11T09:42:10.861933375Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/chisa-aimisi-daniya",
+    "downloaded": true,
+    "local_file": "incoming/images/9a20cf988b2f0ad8aae0fe041f583bcb5d1d3b2d9603929e680a7792fc6f2f20.gif",
+    "sha256": "9a20cf988b2f0ad8aae0fe041f583bcb5d1d3b2d9603929e680a7792fc6f2f20",
+    "bytes": 1060338,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 45
+  },
+  {
+    "id": "r-0c67a6e953f6443f091f",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "猫屋敷梨梨&春也Haruya",
+        "name": "猫屋敷梨梨&春也Haruya"
+      }
+    ],
+    "pack": {
+      "id": "daniya-ban-202",
+      "slug": "daniya-ban-202",
+      "postName": "emoji-post-fa16365bfb9fa3324713ce5f",
+      "title": "达妮娅动态表情包（板牌）",
+      "count": 26,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "猫屋敷梨梨&春也Haruya",
+          "name": "猫屋敷梨梨&春也Haruya"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-ban-202",
+      "publishTime": "2026-08-06T16:12:49.402454578Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-ban-202",
+    "downloaded": true,
+    "local_file": "incoming/images/bb0771c5e97d004e57bf8cb79c8702dbaf644e4ff975e29926d9587f57ed9f27.gif",
+    "sha256": "bb0771c5e97d004e57bf8cb79c8702dbaf644e4ff975e29926d9587f57ed9f27",
+    "bytes": 726876,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 28
+  },
+  {
+    "id": "r-0cc4fc0b0c8cd1a9cb18",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "cartethyia",
+        "name": "卡提希娅"
+      },
+      {
+        "slug": "shorekeeper",
+        "name": "守岸人"
+      },
+      {
+        "slug": "term-631b3d5ed2d39239ccc77dc8",
+        "name": "弗洛洛"
+      },
+      {
+        "slug": "term-6627c63c189991f32efeaf31",
+        "name": "洛瑟菈"
+      },
+      {
+        "slug": "linnai",
+        "name": "琳奈"
+      },
+      {
+        "slug": "term-ff2f25c18984bd3d63e2aec8",
+        "name": "白芷"
+      },
+      {
+        "slug": "yangyang",
+        "name": "秧秧"
+      },
+      {
+        "slug": "suisui",
+        "name": "穗穗"
+      },
+      {
+        "slug": "term-9646024ba03ca7d0a6fe2d94",
+        "name": "菲比"
+      },
+      {
+        "slug": "term-45d1f9a94354ae5b89801395",
+        "name": "西格莉卡"
+      },
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [],
+    "pack": {
+      "id": "wuyanmao-collection-1",
+      "slug": "wuyanmao-collection-1",
+      "postName": "emoji-post-791f3e5c731edda312443620",
+      "title": "捂眼猫表情合集 ",
+      "count": 23,
+      "characters": [
+        {
+          "slug": "cartethyia",
+          "name": "卡提希娅"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "守岸人"
+        },
+        {
+          "slug": "term-631b3d5ed2d39239ccc77dc8",
+          "name": "弗洛洛"
+        },
+        {
+          "slug": "term-6627c63c189991f32efeaf31",
+          "name": "洛瑟菈"
+        },
+        {
+          "slug": "linnai",
+          "name": "琳奈"
+        },
+        {
+          "slug": "term-ff2f25c18984bd3d63e2aec8",
+          "name": "白芷"
+        },
+        {
+          "slug": "yangyang",
+          "name": "秧秧"
+        },
+        {
+          "slug": "suisui",
+          "name": "穗穗"
+        },
+        {
+          "slug": "term-9646024ba03ca7d0a6fe2d94",
+          "name": "菲比"
+        },
+        {
+          "slug": "term-45d1f9a94354ae5b89801395",
+          "name": "西格莉卡"
+        },
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [],
+      "sourceUrl": "https://emoji.wuwa.games/archives/wuyanmao-collection-1",
+      "publishTime": "2026-09-26T19:56:18.408810877Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/wuyanmao-collection-1",
+    "downloaded": true,
+    "local_file": "incoming/images/2c5dbb690d255cd7a30da654240e94f8f6c1b534215658750d5496aa03c8b381.gif",
+    "sha256": "2c5dbb690d255cd7a30da654240e94f8f6c1b534215658750d5496aa03c8b381",
+    "bytes": 51683,
+    "actual_format": "gif",
+    "size": [
+      300,
+      225
+    ],
+    "frames": 6
+  },
+  {
+    "id": "r-0cc6b71f107ff6dd2fb1",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "rover",
+        "name": "漂泊者"
+      },
+      {
+        "slug": "linnai",
+        "name": "琳奈"
+      },
+      {
+        "slug": "term-45d1f9a94354ae5b89801395",
+        "name": "西格莉卡"
+      },
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [],
+    "pack": {
+      "id": "sigrika-chat-memes-20261010",
+      "slug": "sigrika-chat-memes-20261010",
+      "postName": "emoji-post-49f4229f14c43bdab32df01b",
+      "title": "西格莉卡 · 建模截图聊天表情",
+      "count": 93,
+      "characters": [
+        {
+          "slug": "rover",
+          "name": "漂泊者"
+        },
+        {
+          "slug": "linnai",
+          "name": "琳奈"
+        },
+        {
+          "slug": "term-45d1f9a94354ae5b89801395",
+          "name": "西格莉卡"
+        },
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [],
+      "sourceUrl": "https://emoji.wuwa.games/archives/sigrika-chat-memes-20261010",
+      "publishTime": "2026-10-10T02:43:44.868863586Z"
+    },
+    "format": "png",
+    "animated": false,
+    "sourceUrl": "https://emoji.wuwa.games/archives/sigrika-chat-memes-20261010",
+    "downloaded": true,
+    "local_file": "incoming/images/b6bba5ed124c2e5eca57c35a4407fc01ff326ad90db251129e9e36b6853478ac.png",
+    "sha256": "b6bba5ed124c2e5eca57c35a4407fc01ff326ad90db251129e9e36b6853478ac",
+    "bytes": 141527,
+    "actual_format": "png",
+    "size": [
+      300,
+      257
+    ],
+    "frames": 1
+  },
+  {
+    "id": "r-0cf2a367030cf3630cc0",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [],
+    "pack": {
+      "id": "daniya-emotelab-eyes-large-merged-20261005",
+      "slug": "daniya-emotelab-eyes-large-merged-20261005",
+      "postName": "emoji-post-195f43d63579c1136ace2086",
+      "title": "达妮娅捏捏表情包",
+      "count": 206,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-emotelab-eyes-large-merged-20261005",
+      "publishTime": "2026-10-04T17:46:06.046639188Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-emotelab-eyes-large-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/597fde5b332dbb0ad1c441dc7943a57d299fe89440e3138bae40a06867a32cc6.gif",
+    "sha256": "597fde5b332dbb0ad1c441dc7943a57d299fe89440e3138bae40a06867a32cc6",
+    "bytes": 1215455,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 32
+  },
+  {
+    "id": "r-0d2362259f087d507928",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "term-45d1f9a94354ae5b89801395",
+        "name": "西格莉卡"
+      },
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "wuxue",
+        "name": "雾雪"
+      }
+    ],
+    "pack": {
+      "id": "daniya-duo",
+      "slug": "daniya-duo",
+      "postName": "emoji-post-900aad82142efe0d467037b5",
+      "title": "西娅双人动态表情包（雾雪）",
+      "count": 12,
+      "characters": [
+        {
+          "slug": "term-45d1f9a94354ae5b89801395",
+          "name": "西格莉卡"
+        },
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "wuxue",
+          "name": "雾雪"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-duo",
+      "publishTime": "2026-08-06T16:12:55.252250384Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-duo",
+    "downloaded": true,
+    "local_file": "incoming/images/fb0e32e10061a16cc80d10ad9dd053b666465a69ffd4ddb380cbae1d707e1cf2.gif",
+    "sha256": "fb0e32e10061a16cc80d10ad9dd053b666465a69ffd4ddb380cbae1d707e1cf2",
+    "bytes": 1092087,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 27
+  },
+  {
+    "id": "r-0d4ef8c7f8c5663b7c14",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "十七泠",
+        "name": "十七泠"
+      }
+    ],
+    "pack": {
+      "id": "daniya-pizza-small-merged-20261005",
+      "slug": "daniya-pizza-small-merged-20261005",
+      "postName": "emoji-post-939350bae0a106c1132e2079",
+      "title": "达妮娅披萨捏捏（小）",
+      "count": 128,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "十七泠",
+          "name": "十七泠"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-small-merged-20261005",
+      "publishTime": "2026-10-04T18:26:34.934361049Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-small-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/6dd2df3f9a284065a7600b4b2293b20ecf54e78c31d7aafdf6f6d759faa61eff.gif",
+    "sha256": "6dd2df3f9a284065a7600b4b2293b20ecf54e78c31d7aafdf6f6d759faa61eff",
+    "bytes": 2482998,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 66
+  },
+  {
+    "id": "r-0d72f13c5f7f120e93bd",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "十七泠",
+        "name": "十七泠"
+      }
+    ],
+    "pack": {
+      "id": "daniya-pizza-large-merged-20261005",
+      "slug": "daniya-pizza-large-merged-20261005",
+      "postName": "emoji-post-1f3bbf98032c34601298574c",
+      "title": "达妮娅披萨捏捏（大）",
+      "count": 173,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "十七泠",
+          "name": "十七泠"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-large-merged-20261005",
+      "publishTime": "2026-10-04T18:04:28.727110796Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-large-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/5f687a619402c557c53d14ad5761b18e2710dd829f7564428f52bce4a538ee0b.gif",
+    "sha256": "5f687a619402c557c53d14ad5761b18e2710dd829f7564428f52bce4a538ee0b",
+    "bytes": 795527,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 19
+  },
+  {
+    "id": "r-0da5bc2afcda4ec5f140",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "jinhsi",
+        "name": "今汐"
+      },
+      {
+        "slug": "chisa",
+        "name": "千咲"
+      },
+      {
+        "slug": "cartethyia",
+        "name": "卡提希娅"
+      },
+      {
+        "slug": "shorekeeper",
+        "name": "守岸人"
+      },
+      {
+        "slug": "younuo",
+        "name": "尤诺"
+      },
+      {
+        "slug": "camellya",
+        "name": "椿"
+      },
+      {
+        "slug": "rover",
+        "name": "漂泊者"
+      },
+      {
+        "slug": "aimisi",
+        "name": "爱弥斯"
+      },
+      {
+        "slug": "carlotta",
+        "name": "珂莱塔"
+      },
+      {
+        "slug": "linnai",
+        "name": "琳奈"
+      },
+      {
+        "slug": "term-8cb24287d1d23c2248be5591",
+        "name": "莫宁"
+      },
+      {
+        "slug": "term-9646024ba03ca7d0a6fe2d94",
+        "name": "菲比"
+      },
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      },
+      {
+        "slug": "submission-term-4117b215b685eaae18280b0d",
+        "name": "阿布"
+      }
+    ],
+    "artists": [],
+    "pack": {
+      "id": "official-bili-2nd-anniversary-animated",
+      "slug": "official-bili-2nd-anniversary-animated",
+      "postName": "emoji-post-798ad2e86e07735c04bf61f4",
+      "title": "【官转】B站二周年潮声庆典表情包（动态）",
+      "count": 25,
+      "characters": [
+        {
+          "slug": "jinhsi",
+          "name": "今汐"
+        },
+        {
+          "slug": "chisa",
+          "name": "千咲"
+        },
+        {
+          "slug": "cartethyia",
+          "name": "卡提希娅"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "守岸人"
+        },
+        {
+          "slug": "younuo",
+          "name": "尤诺"
+        },
+        {
+          "slug": "camellya",
+          "name": "椿"
+        },
+        {
+          "slug": "rover",
+          "name": "漂泊者"
+        },
+        {
+          "slug": "aimisi",
+          "name": "爱弥斯"
+        },
+        {
+          "slug": "carlotta",
+          "name": "珂莱塔"
+        },
+        {
+          "slug": "linnai",
+          "name": "琳奈"
+        },
+        {
+          "slug": "term-8cb24287d1d23c2248be5591",
+          "name": "莫宁"
+        },
+        {
+          "slug": "term-9646024ba03ca7d0a6fe2d94",
+          "name": "菲比"
+        },
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        },
+        {
+          "slug": "submission-term-4117b215b685eaae18280b0d",
+          "name": "阿布"
+        }
+      ],
+      "artists": [],
+      "sourceUrl": "https://emoji.wuwa.games/archives/official-bili-2nd-anniversary-animated",
+      "publishTime": "2026-10-05T19:17:42.013581645Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/official-bili-2nd-anniversary-animated",
+    "downloaded": true,
+    "local_file": "incoming/images/17f698d1e8dc9cd84dce101fbafe1c52439d31d4ecf9683ad905ad33850204c7.gif",
+    "sha256": "17f698d1e8dc9cd84dce101fbafe1c52439d31d4ecf9683ad905ad33850204c7",
+    "bytes": 170202,
+    "actual_format": "gif",
+    "size": [
+      162,
+      162
+    ],
+    "frames": 10
+  },
+  {
+    "id": "r-0dcad0d81541bab3c882",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "春也Huruya",
+        "name": "春也Huruya"
+      }
+    ],
+    "pack": {
+      "id": "daniya-chunye",
+      "slug": "daniya-chunye",
+      "postName": "emoji-post-badc6d8f77ded8ae98b6d541",
+      "title": "达妮娅动态表情包（鸭A）",
+      "count": 20,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "春也Huruya",
+          "name": "春也Huruya"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-chunye",
+      "publishTime": "2026-08-06T16:12:50.241160756Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-chunye",
+    "downloaded": true,
+    "local_file": "incoming/images/697f56c28ec1870b8f84fa9f4926f50c595b0971b50059c591d2a16d8748210a.gif",
+    "sha256": "697f56c28ec1870b8f84fa9f4926f50c595b0971b50059c591d2a16d8748210a",
+    "bytes": 1643538,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 34
+  },
+  {
+    "id": "r-0dfffb44b17a59b0c23c",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "term-6627c63c189991f32efeaf31",
+        "name": "洛瑟菈"
+      },
+      {
+        "slug": "yangyang-xuanling",
+        "name": "秧秧·玄翎"
+      },
+      {
+        "slug": "suisui",
+        "name": "穗穗"
+      },
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [],
+    "pack": {
+      "id": "official-resonators-ch14",
+      "slug": "official-resonators-ch14",
+      "postName": "emoji-post-b3440378ffb74522e06d2d97",
+      "title": "【官转】共鸣者印象录·第十四章表情包",
+      "count": 16,
+      "characters": [
+        {
+          "slug": "term-6627c63c189991f32efeaf31",
+          "name": "洛瑟菈"
+        },
+        {
+          "slug": "yangyang-xuanling",
+          "name": "秧秧·玄翎"
+        },
+        {
+          "slug": "suisui",
+          "name": "穗穗"
+        },
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [],
+      "sourceUrl": "https://emoji.wuwa.games/archives/official-resonators-ch14",
+      "publishTime": "2026-10-05T19:19:28.631028118Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/official-resonators-ch14",
+    "downloaded": true,
+    "local_file": "incoming/images/4f00d4940a6396552a74ff865672b42df606c0a587dbc4bb85ba2ad0814ccdd8.gif",
+    "sha256": "4f00d4940a6396552a74ff865672b42df606c0a587dbc4bb85ba2ad0814ccdd8",
+    "bytes": 99597,
+    "actual_format": "gif",
+    "size": [
+      150,
+      150
+    ],
+    "frames": 14
+  },
+  {
+    "id": "r-0e316a8d7e6363d2e181",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "十七泠",
+        "name": "十七泠"
+      }
+    ],
+    "pack": {
+      "id": "daniya-pizza-small-merged-20261005",
+      "slug": "daniya-pizza-small-merged-20261005",
+      "postName": "emoji-post-939350bae0a106c1132e2079",
+      "title": "达妮娅披萨捏捏（小）",
+      "count": 128,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "十七泠",
+          "name": "十七泠"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-small-merged-20261005",
+      "publishTime": "2026-10-04T18:26:34.934361049Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-small-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/74a8a903afe9b89c05b2b58fac6793954703192ad645f928ddac25aa350e0db9.gif",
+    "sha256": "74a8a903afe9b89c05b2b58fac6793954703192ad645f928ddac25aa350e0db9",
+    "bytes": 1603273,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 54
+  },
+  {
+    "id": "r-0e52c9c0d5ff60d88640",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [],
+    "pack": {
+      "id": "daniya-emotelab-eyes-large-merged-20261005",
+      "slug": "daniya-emotelab-eyes-large-merged-20261005",
+      "postName": "emoji-post-195f43d63579c1136ace2086",
+      "title": "达妮娅捏捏表情包",
+      "count": 206,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-emotelab-eyes-large-merged-20261005",
+      "publishTime": "2026-10-04T17:46:06.046639188Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-emotelab-eyes-large-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/298b05628257cc02f7d29b17facdb06a67908d7a30545e95a696eb371e0ae219.gif",
+    "sha256": "298b05628257cc02f7d29b17facdb06a67908d7a30545e95a696eb371e0ae219",
+    "bytes": 798165,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 21
+  },
+  {
+    "id": "r-0f4b20bd9bfd85c5caea",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "十七泠",
+        "name": "十七泠"
+      }
+    ],
+    "pack": {
+      "id": "daniya-pizza-large-merged-20261005",
+      "slug": "daniya-pizza-large-merged-20261005",
+      "postName": "emoji-post-1f3bbf98032c34601298574c",
+      "title": "达妮娅披萨捏捏（大）",
+      "count": 173,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "十七泠",
+          "name": "十七泠"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-large-merged-20261005",
+      "publishTime": "2026-10-04T18:04:28.727110796Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-large-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/e6b64f2ef57e3986628b05528eed71d65589f3da2448538cd61dca2d09e7aa90.gif",
+    "sha256": "e6b64f2ef57e3986628b05528eed71d65589f3da2448538cd61dca2d09e7aa90",
+    "bytes": 1855353,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 57
+  },
+  {
+    "id": "r-0fc5bed26eb70e1eea6d",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "十七泠",
+        "name": "十七泠"
+      }
+    ],
+    "pack": {
+      "id": "daniya-pizza-large-merged-20261005",
+      "slug": "daniya-pizza-large-merged-20261005",
+      "postName": "emoji-post-1f3bbf98032c34601298574c",
+      "title": "达妮娅披萨捏捏（大）",
+      "count": 173,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "十七泠",
+          "name": "十七泠"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-large-merged-20261005",
+      "publishTime": "2026-10-04T18:04:28.727110796Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-large-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/2cb901e6b1109f6041a6f9852321a425bbbcff4f5208f146a77cf59a0a27f74a.gif",
+    "sha256": "2cb901e6b1109f6041a6f9852321a425bbbcff4f5208f146a77cf59a0a27f74a",
+    "bytes": 2910142,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 66
+  },
+  {
+    "id": "r-10daa85cb447843ec18f",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "春也Huruya",
+        "name": "春也Huruya"
+      }
+    ],
+    "pack": {
+      "id": "daniya-chunye",
+      "slug": "daniya-chunye",
+      "postName": "emoji-post-badc6d8f77ded8ae98b6d541",
+      "title": "达妮娅动态表情包（鸭A）",
+      "count": 20,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "春也Huruya",
+          "name": "春也Huruya"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-chunye",
+      "publishTime": "2026-08-06T16:12:50.241160756Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-chunye",
+    "downloaded": true,
+    "local_file": "incoming/images/b01fa29811a016bcfef1afd39a53a6c9c88c6aa14ca1ce2cdff2f03d3edaa842.gif",
+    "sha256": "b01fa29811a016bcfef1afd39a53a6c9c88c6aa14ca1ce2cdff2f03d3edaa842",
+    "bytes": 2232276,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 50
+  },
+  {
+    "id": "r-112691c97ebaaf2cdd5e",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "chisa",
+        "name": "千咲"
+      },
+      {
+        "slug": "aimisi",
+        "name": "爱弥斯"
+      },
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "wuxue",
+        "name": "雾雪"
+      }
+    ],
+    "pack": {
+      "id": "chisa-aimisi-daniya",
+      "slug": "chisa-aimisi-daniya",
+      "postName": "emoji-post-732d2a0588e3afa4b721c062",
+      "title": "聚爆烤肉三人队（雾雪）",
+      "count": 53,
+      "characters": [
+        {
+          "slug": "chisa",
+          "name": "千咲"
+        },
+        {
+          "slug": "aimisi",
+          "name": "爱弥斯"
+        },
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "wuxue",
+          "name": "雾雪"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/chisa-aimisi-daniya",
+      "publishTime": "2026-08-11T09:42:10.861933375Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/chisa-aimisi-daniya",
+    "downloaded": true,
+    "local_file": "incoming/images/2ac3fa3013fc43d8d64992d9c0dfec8b66bbac0bf154e87d1149ca8a366e99ee.gif",
+    "sha256": "2ac3fa3013fc43d8d64992d9c0dfec8b66bbac0bf154e87d1149ca8a366e99ee",
+    "bytes": 1045593,
+    "actual_format": "gif",
+    "size": [
+      300,
+      240
+    ],
+    "frames": 27
+  },
+  {
+    "id": "r-11af709f0ada4fceaf2d",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "chisa",
+        "name": "千咲"
+      },
+      {
+        "slug": "aimisi",
+        "name": "爱弥斯"
+      },
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "wuxue",
+        "name": "雾雪"
+      }
+    ],
+    "pack": {
+      "id": "chisa-aimisi-daniya",
+      "slug": "chisa-aimisi-daniya",
+      "postName": "emoji-post-732d2a0588e3afa4b721c062",
+      "title": "聚爆烤肉三人队（雾雪）",
+      "count": 53,
+      "characters": [
+        {
+          "slug": "chisa",
+          "name": "千咲"
+        },
+        {
+          "slug": "aimisi",
+          "name": "爱弥斯"
+        },
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "wuxue",
+          "name": "雾雪"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/chisa-aimisi-daniya",
+      "publishTime": "2026-08-11T09:42:10.861933375Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/chisa-aimisi-daniya",
+    "downloaded": true,
+    "local_file": "incoming/images/e22744519f164edb5627902db1ab94fdb4ff6e5011a7db8e9dcd5abaf713a9b6.gif",
+    "sha256": "e22744519f164edb5627902db1ab94fdb4ff6e5011a7db8e9dcd5abaf713a9b6",
+    "bytes": 594893,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 36
+  },
+  {
+    "id": "r-11f0e579076a74dda57d",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [],
+    "pack": {
+      "id": "daniya-emotelab-eyes-large-merged-20261005",
+      "slug": "daniya-emotelab-eyes-large-merged-20261005",
+      "postName": "emoji-post-195f43d63579c1136ace2086",
+      "title": "达妮娅捏捏表情包",
+      "count": 206,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-emotelab-eyes-large-merged-20261005",
+      "publishTime": "2026-10-04T17:46:06.046639188Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-emotelab-eyes-large-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/ad5c3112120e1aa5541fa16fafb66ee8f9374bcaae9c88323381bba8ec949958.gif",
+    "sha256": "ad5c3112120e1aa5541fa16fafb66ee8f9374bcaae9c88323381bba8ec949958",
+    "bytes": 2077468,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 57
+  },
+  {
+    "id": "r-121aa7c89e26ecc1c2cc",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "jinhsi",
+        "name": "今汐"
+      },
+      {
+        "slug": "chisa",
+        "name": "千咲"
+      },
+      {
+        "slug": "cartethyia",
+        "name": "卡提希娅"
+      },
+      {
+        "slug": "shorekeeper",
+        "name": "守岸人"
+      },
+      {
+        "slug": "younuo",
+        "name": "尤诺"
+      },
+      {
+        "slug": "camellya",
+        "name": "椿"
+      },
+      {
+        "slug": "rover",
+        "name": "漂泊者"
+      },
+      {
+        "slug": "aimisi",
+        "name": "爱弥斯"
+      },
+      {
+        "slug": "carlotta",
+        "name": "珂莱塔"
+      },
+      {
+        "slug": "linnai",
+        "name": "琳奈"
+      },
+      {
+        "slug": "term-8cb24287d1d23c2248be5591",
+        "name": "莫宁"
+      },
+      {
+        "slug": "term-9646024ba03ca7d0a6fe2d94",
+        "name": "菲比"
+      },
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      },
+      {
+        "slug": "submission-term-4117b215b685eaae18280b0d",
+        "name": "阿布"
+      }
+    ],
+    "artists": [],
+    "pack": {
+      "id": "official-bili-2nd-anniversary-animated",
+      "slug": "official-bili-2nd-anniversary-animated",
+      "postName": "emoji-post-798ad2e86e07735c04bf61f4",
+      "title": "【官转】B站二周年潮声庆典表情包（动态）",
+      "count": 25,
+      "characters": [
+        {
+          "slug": "jinhsi",
+          "name": "今汐"
+        },
+        {
+          "slug": "chisa",
+          "name": "千咲"
+        },
+        {
+          "slug": "cartethyia",
+          "name": "卡提希娅"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "守岸人"
+        },
+        {
+          "slug": "younuo",
+          "name": "尤诺"
+        },
+        {
+          "slug": "camellya",
+          "name": "椿"
+        },
+        {
+          "slug": "rover",
+          "name": "漂泊者"
+        },
+        {
+          "slug": "aimisi",
+          "name": "爱弥斯"
+        },
+        {
+          "slug": "carlotta",
+          "name": "珂莱塔"
+        },
+        {
+          "slug": "linnai",
+          "name": "琳奈"
+        },
+        {
+          "slug": "term-8cb24287d1d23c2248be5591",
+          "name": "莫宁"
+        },
+        {
+          "slug": "term-9646024ba03ca7d0a6fe2d94",
+          "name": "菲比"
+        },
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        },
+        {
+          "slug": "submission-term-4117b215b685eaae18280b0d",
+          "name": "阿布"
+        }
+      ],
+      "artists": [],
+      "sourceUrl": "https://emoji.wuwa.games/archives/official-bili-2nd-anniversary-animated",
+      "publishTime": "2026-10-05T19:17:42.013581645Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/official-bili-2nd-anniversary-animated",
+    "downloaded": true,
+    "local_file": "incoming/images/bf79b12db970180b5aa79477ec41cab77f5dc7e55d5950df4af762500c3e1be7.gif",
+    "sha256": "bf79b12db970180b5aa79477ec41cab77f5dc7e55d5950df4af762500c3e1be7",
+    "bytes": 185591,
+    "actual_format": "gif",
+    "size": [
+      162,
+      162
+    ],
+    "frames": 10
+  },
+  {
+    "id": "r-12665652a4a550d3bb13",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "十七泠",
+        "name": "十七泠"
+      }
+    ],
+    "pack": {
+      "id": "daniya-pizza-small-merged-20261005",
+      "slug": "daniya-pizza-small-merged-20261005",
+      "postName": "emoji-post-939350bae0a106c1132e2079",
+      "title": "达妮娅披萨捏捏（小）",
+      "count": 128,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "十七泠",
+          "name": "十七泠"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-small-merged-20261005",
+      "publishTime": "2026-10-04T18:26:34.934361049Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-small-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/a74f73ed993d13a9b9671a70973f99c370766167bd78f6e627b93aaf18e498ea.gif",
+    "sha256": "a74f73ed993d13a9b9671a70973f99c370766167bd78f6e627b93aaf18e498ea",
+    "bytes": 763864,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 21
+  },
+  {
+    "id": "r-128518311b43e115f702",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "rover",
+        "name": "漂泊者"
+      },
+      {
+        "slug": "linnai",
+        "name": "琳奈"
+      },
+      {
+        "slug": "term-45d1f9a94354ae5b89801395",
+        "name": "西格莉卡"
+      },
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [],
+    "pack": {
+      "id": "sigrika-chat-memes-20261010",
+      "slug": "sigrika-chat-memes-20261010",
+      "postName": "emoji-post-49f4229f14c43bdab32df01b",
+      "title": "西格莉卡 · 建模截图聊天表情",
+      "count": 93,
+      "characters": [
+        {
+          "slug": "rover",
+          "name": "漂泊者"
+        },
+        {
+          "slug": "linnai",
+          "name": "琳奈"
+        },
+        {
+          "slug": "term-45d1f9a94354ae5b89801395",
+          "name": "西格莉卡"
+        },
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [],
+      "sourceUrl": "https://emoji.wuwa.games/archives/sigrika-chat-memes-20261010",
+      "publishTime": "2026-10-10T02:43:44.868863586Z"
+    },
+    "format": "png",
+    "animated": false,
+    "sourceUrl": "https://emoji.wuwa.games/archives/sigrika-chat-memes-20261010",
+    "downloaded": true,
+    "local_file": "incoming/images/6555dc656c882bdc0889cb4b1dc050b97778d304974aa28e84d8d64c33bff9c0.png",
+    "sha256": "6555dc656c882bdc0889cb4b1dc050b97778d304974aa28e84d8d64c33bff9c0",
+    "bytes": 171683,
+    "actual_format": "png",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 1
+  },
+  {
+    "id": "r-130df80045d11fcd5fa8",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "十七泠",
+        "name": "十七泠"
+      }
+    ],
+    "pack": {
+      "id": "daniya-pizza-small-merged-20261005",
+      "slug": "daniya-pizza-small-merged-20261005",
+      "postName": "emoji-post-939350bae0a106c1132e2079",
+      "title": "达妮娅披萨捏捏（小）",
+      "count": 128,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "十七泠",
+          "name": "十七泠"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-small-merged-20261005",
+      "publishTime": "2026-10-04T18:26:34.934361049Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-small-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/c949d62d24172f13e47b1a5634dc0dbe7dfff9b1aaaf6802d24e2ddce2870d13.gif",
+    "sha256": "c949d62d24172f13e47b1a5634dc0dbe7dfff9b1aaaf6802d24e2ddce2870d13",
+    "bytes": 1387634,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 43
+  },
+  {
+    "id": "r-134b3debd1ae92966a24",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "cartethyia",
+        "name": "卡提希娅"
+      },
+      {
+        "slug": "shorekeeper",
+        "name": "守岸人"
+      },
+      {
+        "slug": "term-631b3d5ed2d39239ccc77dc8",
+        "name": "弗洛洛"
+      },
+      {
+        "slug": "term-6627c63c189991f32efeaf31",
+        "name": "洛瑟菈"
+      },
+      {
+        "slug": "linnai",
+        "name": "琳奈"
+      },
+      {
+        "slug": "term-ff2f25c18984bd3d63e2aec8",
+        "name": "白芷"
+      },
+      {
+        "slug": "yangyang",
+        "name": "秧秧"
+      },
+      {
+        "slug": "suisui",
+        "name": "穗穗"
+      },
+      {
+        "slug": "term-9646024ba03ca7d0a6fe2d94",
+        "name": "菲比"
+      },
+      {
+        "slug": "term-45d1f9a94354ae5b89801395",
+        "name": "西格莉卡"
+      },
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [],
+    "pack": {
+      "id": "wuyanmao-collection-1",
+      "slug": "wuyanmao-collection-1",
+      "postName": "emoji-post-791f3e5c731edda312443620",
+      "title": "捂眼猫表情合集 ",
+      "count": 23,
+      "characters": [
+        {
+          "slug": "cartethyia",
+          "name": "卡提希娅"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "守岸人"
+        },
+        {
+          "slug": "term-631b3d5ed2d39239ccc77dc8",
+          "name": "弗洛洛"
+        },
+        {
+          "slug": "term-6627c63c189991f32efeaf31",
+          "name": "洛瑟菈"
+        },
+        {
+          "slug": "linnai",
+          "name": "琳奈"
+        },
+        {
+          "slug": "term-ff2f25c18984bd3d63e2aec8",
+          "name": "白芷"
+        },
+        {
+          "slug": "yangyang",
+          "name": "秧秧"
+        },
+        {
+          "slug": "suisui",
+          "name": "穗穗"
+        },
+        {
+          "slug": "term-9646024ba03ca7d0a6fe2d94",
+          "name": "菲比"
+        },
+        {
+          "slug": "term-45d1f9a94354ae5b89801395",
+          "name": "西格莉卡"
+        },
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [],
+      "sourceUrl": "https://emoji.wuwa.games/archives/wuyanmao-collection-1",
+      "publishTime": "2026-09-26T19:56:18.408810877Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/wuyanmao-collection-1",
+    "downloaded": true,
+    "local_file": "incoming/images/df1d96e6c41b7de5c68c2de7fbd8475d36e2bd949d3efa9e17e29d4270f834e9.gif",
+    "sha256": "df1d96e6c41b7de5c68c2de7fbd8475d36e2bd949d3efa9e17e29d4270f834e9",
+    "bytes": 741759,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 55
+  },
+  {
+    "id": "r-140daba4196809ba9cdb",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "十七泠",
+        "name": "十七泠"
+      }
+    ],
+    "pack": {
+      "id": "daniya-pizza-small-merged-20261005",
+      "slug": "daniya-pizza-small-merged-20261005",
+      "postName": "emoji-post-939350bae0a106c1132e2079",
+      "title": "达妮娅披萨捏捏（小）",
+      "count": 128,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "十七泠",
+          "name": "十七泠"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-small-merged-20261005",
+      "publishTime": "2026-10-04T18:26:34.934361049Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-small-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/3300ce2a120ba04a60baccc4bf353d237cb8f7bbc66e722ccb948f8f1291bcaa.gif",
+    "sha256": "3300ce2a120ba04a60baccc4bf353d237cb8f7bbc66e722ccb948f8f1291bcaa",
+    "bytes": 2445582,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 66
+  },
+  {
+    "id": "r-145bb70b173f8e955635",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "猫屋敷梨梨&春也Haruya",
+        "name": "猫屋敷梨梨&春也Haruya"
+      }
+    ],
+    "pack": {
+      "id": "daniya-ban-202",
+      "slug": "daniya-ban-202",
+      "postName": "emoji-post-fa16365bfb9fa3324713ce5f",
+      "title": "达妮娅动态表情包（板牌）",
+      "count": 26,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "猫屋敷梨梨&春也Haruya",
+          "name": "猫屋敷梨梨&春也Haruya"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-ban-202",
+      "publishTime": "2026-08-06T16:12:49.402454578Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-ban-202",
+    "downloaded": true,
+    "local_file": "incoming/images/b599ef061281bdc603f1b803571e64d3d75af4a1f6518c5ede50292d9672de56.gif",
+    "sha256": "b599ef061281bdc603f1b803571e64d3d75af4a1f6518c5ede50292d9672de56",
+    "bytes": 671637,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 28
+  },
+  {
+    "id": "r-14b5d14c81823f922cdb",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "春也Huruya",
+        "name": "春也Huruya"
+      }
+    ],
+    "pack": {
+      "id": "daniya-childrens-day",
+      "slug": "daniya-childrens-day",
+      "postName": "emoji-post-14a075f6947de48275b91e41",
+      "title": "达妮娅儿童节动态表情包（鸭牌）",
+      "count": 12,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "春也Huruya",
+          "name": "春也Huruya"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-childrens-day",
+      "publishTime": "2026-08-06T16:12:56.141861081Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-childrens-day",
+    "downloaded": true,
+    "local_file": "incoming/images/8a63c01c5d3fcf6aab1c49137617ab9b3cf5f6f3bcc56abedafae2de512d5735.gif",
+    "sha256": "8a63c01c5d3fcf6aab1c49137617ab9b3cf5f6f3bcc56abedafae2de512d5735",
+    "bytes": 976138,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 24
+  },
+  {
+    "id": "r-151f1f96a263782ffa02",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "jinhsi",
+        "name": "今汐"
+      },
+      {
+        "slug": "chisa",
+        "name": "千咲"
+      },
+      {
+        "slug": "cartethyia",
+        "name": "卡提希娅"
+      },
+      {
+        "slug": "shorekeeper",
+        "name": "守岸人"
+      },
+      {
+        "slug": "younuo",
+        "name": "尤诺"
+      },
+      {
+        "slug": "camellya",
+        "name": "椿"
+      },
+      {
+        "slug": "rover",
+        "name": "漂泊者"
+      },
+      {
+        "slug": "aimisi",
+        "name": "爱弥斯"
+      },
+      {
+        "slug": "carlotta",
+        "name": "珂莱塔"
+      },
+      {
+        "slug": "linnai",
+        "name": "琳奈"
+      },
+      {
+        "slug": "term-8cb24287d1d23c2248be5591",
+        "name": "莫宁"
+      },
+      {
+        "slug": "term-9646024ba03ca7d0a6fe2d94",
+        "name": "菲比"
+      },
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      },
+      {
+        "slug": "submission-term-4117b215b685eaae18280b0d",
+        "name": "阿布"
+      }
+    ],
+    "artists": [],
+    "pack": {
+      "id": "official-bili-2nd-anniversary-static",
+      "slug": "official-bili-2nd-anniversary-static",
+      "postName": "emoji-post-133e59d2f0d4ce752dc065e9",
+      "title": "【官转】B站二周年潮声庆典表情包（静态）",
+      "count": 25,
+      "characters": [
+        {
+          "slug": "jinhsi",
+          "name": "今汐"
+        },
+        {
+          "slug": "chisa",
+          "name": "千咲"
+        },
+        {
+          "slug": "cartethyia",
+          "name": "卡提希娅"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "守岸人"
+        },
+        {
+          "slug": "younuo",
+          "name": "尤诺"
+        },
+        {
+          "slug": "camellya",
+          "name": "椿"
+        },
+        {
+          "slug": "rover",
+          "name": "漂泊者"
+        },
+        {
+          "slug": "aimisi",
+          "name": "爱弥斯"
+        },
+        {
+          "slug": "carlotta",
+          "name": "珂莱塔"
+        },
+        {
+          "slug": "linnai",
+          "name": "琳奈"
+        },
+        {
+          "slug": "term-8cb24287d1d23c2248be5591",
+          "name": "莫宁"
+        },
+        {
+          "slug": "term-9646024ba03ca7d0a6fe2d94",
+          "name": "菲比"
+        },
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        },
+        {
+          "slug": "submission-term-4117b215b685eaae18280b0d",
+          "name": "阿布"
+        }
+      ],
+      "artists": [],
+      "sourceUrl": "https://emoji.wuwa.games/archives/official-bili-2nd-anniversary-static",
+      "publishTime": "2026-10-05T19:18:02.950375092Z"
+    },
+    "format": "png",
+    "animated": false,
+    "sourceUrl": "https://emoji.wuwa.games/archives/official-bili-2nd-anniversary-static",
+    "downloaded": true,
+    "local_file": "incoming/images/8d9932721a2864c7817108e0c531641b62eb12db0e89cbe962a83883a39e2207.png",
+    "sha256": "8d9932721a2864c7817108e0c531641b62eb12db0e89cbe962a83883a39e2207",
+    "bytes": 48683,
+    "actual_format": "png",
+    "size": [
+      162,
+      162
+    ],
+    "frames": 1
+  },
+  {
+    "id": "r-156132c82c6d2228d8c4",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "wuxue",
+        "name": "雾雪"
+      }
+    ],
+    "pack": {
+      "id": "daniya-wuxue-black",
+      "slug": "daniya-wuxue-black",
+      "postName": "emoji-post-1f409c519f91b09e1ea2da8d",
+      "title": "达妮娅（黑）动态表情包（雾雪哈基米）",
+      "count": 22,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "wuxue",
+          "name": "雾雪"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-wuxue-black",
+      "publishTime": "2026-08-06T16:13:02.086652324Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-wuxue-black",
+    "downloaded": true,
+    "local_file": "incoming/images/117f88637b7d4bcffbc094c28685cdbd99c6f7e63d13d92180e18930ef53c221.gif",
+    "sha256": "117f88637b7d4bcffbc094c28685cdbd99c6f7e63d13d92180e18930ef53c221",
+    "bytes": 1023303,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 28
+  },
+  {
+    "id": "r-159cab7608454f32fef3",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "十七泠",
+        "name": "十七泠"
+      }
+    ],
+    "pack": {
+      "id": "daniya-pizza-large-merged-20261005",
+      "slug": "daniya-pizza-large-merged-20261005",
+      "postName": "emoji-post-1f3bbf98032c34601298574c",
+      "title": "达妮娅披萨捏捏（大）",
+      "count": 173,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "十七泠",
+          "name": "十七泠"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-large-merged-20261005",
+      "publishTime": "2026-10-04T18:04:28.727110796Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-large-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/8286fa2539aeeded950cd1e4f77c79f7b34c7f776ad3b81727833aeb3d48a663.gif",
+    "sha256": "8286fa2539aeeded950cd1e4f77c79f7b34c7f776ad3b81727833aeb3d48a663",
+    "bytes": 2849445,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 72
+  },
+  {
+    "id": "r-159e1f0e644fc0254c05",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "十七泠",
+        "name": "十七泠"
+      }
+    ],
+    "pack": {
+      "id": "daniya-pizza-large-merged-20261005",
+      "slug": "daniya-pizza-large-merged-20261005",
+      "postName": "emoji-post-1f3bbf98032c34601298574c",
+      "title": "达妮娅披萨捏捏（大）",
+      "count": 173,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "十七泠",
+          "name": "十七泠"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-large-merged-20261005",
+      "publishTime": "2026-10-04T18:04:28.727110796Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-large-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/69b6557335502ccf6f7a05be70d0ed15f646d5b3c4dc68aad3db22128bf921a4.gif",
+    "sha256": "69b6557335502ccf6f7a05be70d0ed15f646d5b3c4dc68aad3db22128bf921a4",
+    "bytes": 1840901,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 38
+  },
+  {
+    "id": "r-15c001e4452a6aee2254",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [],
+    "pack": {
+      "id": "daniya-emotelab-eyes-large-merged-20261005",
+      "slug": "daniya-emotelab-eyes-large-merged-20261005",
+      "postName": "emoji-post-195f43d63579c1136ace2086",
+      "title": "达妮娅捏捏表情包",
+      "count": 206,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-emotelab-eyes-large-merged-20261005",
+      "publishTime": "2026-10-04T17:46:06.046639188Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-emotelab-eyes-large-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/89a1bab5a92000257c43d2d3f1b41e0523830563d8d4315bf8d94643b45422d7.gif",
+    "sha256": "89a1bab5a92000257c43d2d3f1b41e0523830563d8d4315bf8d94643b45422d7",
+    "bytes": 1231739,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 32
+  },
+  {
+    "id": "r-15e4f7d8f57ea37329c6",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "春也Huruya",
+        "name": "春也Huruya"
+      }
+    ],
+    "pack": {
+      "id": "gb0345-daniya",
+      "slug": "gb0345-daniya",
+      "postName": "emoji-post-a5ec8dc4e2329bcb3821a142",
+      "title": "Solar5达妮娅表情包（鸭B）",
+      "count": 25,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "春也Huruya",
+          "name": "春也Huruya"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/gb0345-daniya",
+      "publishTime": "2026-09-01T08:06:42.719895633Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/gb0345-daniya",
+    "downloaded": true,
+    "local_file": "incoming/images/269cc7d68aa88a02f2c08bdba62a3705a67f898add110116cba9e2b16ede83c6.gif",
+    "sha256": "269cc7d68aa88a02f2c08bdba62a3705a67f898add110116cba9e2b16ede83c6",
+    "bytes": 844981,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 34
+  },
+  {
+    "id": "r-166cc682d4ea54aef866",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "cartethyia",
+        "name": "卡提希娅"
+      },
+      {
+        "slug": "shorekeeper",
+        "name": "守岸人"
+      },
+      {
+        "slug": "term-631b3d5ed2d39239ccc77dc8",
+        "name": "弗洛洛"
+      },
+      {
+        "slug": "term-6627c63c189991f32efeaf31",
+        "name": "洛瑟菈"
+      },
+      {
+        "slug": "linnai",
+        "name": "琳奈"
+      },
+      {
+        "slug": "term-ff2f25c18984bd3d63e2aec8",
+        "name": "白芷"
+      },
+      {
+        "slug": "yangyang",
+        "name": "秧秧"
+      },
+      {
+        "slug": "suisui",
+        "name": "穗穗"
+      },
+      {
+        "slug": "term-9646024ba03ca7d0a6fe2d94",
+        "name": "菲比"
+      },
+      {
+        "slug": "term-45d1f9a94354ae5b89801395",
+        "name": "西格莉卡"
+      },
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [],
+    "pack": {
+      "id": "wuyanmao-collection-1",
+      "slug": "wuyanmao-collection-1",
+      "postName": "emoji-post-791f3e5c731edda312443620",
+      "title": "捂眼猫表情合集 ",
+      "count": 23,
+      "characters": [
+        {
+          "slug": "cartethyia",
+          "name": "卡提希娅"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "守岸人"
+        },
+        {
+          "slug": "term-631b3d5ed2d39239ccc77dc8",
+          "name": "弗洛洛"
+        },
+        {
+          "slug": "term-6627c63c189991f32efeaf31",
+          "name": "洛瑟菈"
+        },
+        {
+          "slug": "linnai",
+          "name": "琳奈"
+        },
+        {
+          "slug": "term-ff2f25c18984bd3d63e2aec8",
+          "name": "白芷"
+        },
+        {
+          "slug": "yangyang",
+          "name": "秧秧"
+        },
+        {
+          "slug": "suisui",
+          "name": "穗穗"
+        },
+        {
+          "slug": "term-9646024ba03ca7d0a6fe2d94",
+          "name": "菲比"
+        },
+        {
+          "slug": "term-45d1f9a94354ae5b89801395",
+          "name": "西格莉卡"
+        },
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [],
+      "sourceUrl": "https://emoji.wuwa.games/archives/wuyanmao-collection-1",
+      "publishTime": "2026-09-26T19:56:18.408810877Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/wuyanmao-collection-1",
+    "downloaded": true,
+    "local_file": "incoming/images/3b04c122c8cd25a09080847202a9ca27c7b42df3aad40a36312e840564c10da3.gif",
+    "sha256": "3b04c122c8cd25a09080847202a9ca27c7b42df3aad40a36312e840564c10da3",
+    "bytes": 85949,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 14
+  },
+  {
+    "id": "r-16a97b5f62654035005d",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "十七泠",
+        "name": "十七泠"
+      }
+    ],
+    "pack": {
+      "id": "daniya-pizza-large-merged-20261005",
+      "slug": "daniya-pizza-large-merged-20261005",
+      "postName": "emoji-post-1f3bbf98032c34601298574c",
+      "title": "达妮娅披萨捏捏（大）",
+      "count": 173,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "十七泠",
+          "name": "十七泠"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-large-merged-20261005",
+      "publishTime": "2026-10-04T18:04:28.727110796Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-large-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/ab1a185b54e33e581e0449a0caab1799a543bb8f62330222df055c41d1e7cbf3.gif",
+    "sha256": "ab1a185b54e33e581e0449a0caab1799a543bb8f62330222df055c41d1e7cbf3",
+    "bytes": 922899,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 21
+  },
+  {
+    "id": "r-16cc0bba98760527d951",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "jinhsi",
+        "name": "今汐"
+      },
+      {
+        "slug": "chisa",
+        "name": "千咲"
+      },
+      {
+        "slug": "cartethyia",
+        "name": "卡提希娅"
+      },
+      {
+        "slug": "shorekeeper",
+        "name": "守岸人"
+      },
+      {
+        "slug": "younuo",
+        "name": "尤诺"
+      },
+      {
+        "slug": "camellya",
+        "name": "椿"
+      },
+      {
+        "slug": "rover",
+        "name": "漂泊者"
+      },
+      {
+        "slug": "aimisi",
+        "name": "爱弥斯"
+      },
+      {
+        "slug": "carlotta",
+        "name": "珂莱塔"
+      },
+      {
+        "slug": "linnai",
+        "name": "琳奈"
+      },
+      {
+        "slug": "term-8cb24287d1d23c2248be5591",
+        "name": "莫宁"
+      },
+      {
+        "slug": "term-9646024ba03ca7d0a6fe2d94",
+        "name": "菲比"
+      },
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      },
+      {
+        "slug": "submission-term-4117b215b685eaae18280b0d",
+        "name": "阿布"
+      }
+    ],
+    "artists": [],
+    "pack": {
+      "id": "official-bili-2nd-anniversary-animated",
+      "slug": "official-bili-2nd-anniversary-animated",
+      "postName": "emoji-post-798ad2e86e07735c04bf61f4",
+      "title": "【官转】B站二周年潮声庆典表情包（动态）",
+      "count": 25,
+      "characters": [
+        {
+          "slug": "jinhsi",
+          "name": "今汐"
+        },
+        {
+          "slug": "chisa",
+          "name": "千咲"
+        },
+        {
+          "slug": "cartethyia",
+          "name": "卡提希娅"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "守岸人"
+        },
+        {
+          "slug": "younuo",
+          "name": "尤诺"
+        },
+        {
+          "slug": "camellya",
+          "name": "椿"
+        },
+        {
+          "slug": "rover",
+          "name": "漂泊者"
+        },
+        {
+          "slug": "aimisi",
+          "name": "爱弥斯"
+        },
+        {
+          "slug": "carlotta",
+          "name": "珂莱塔"
+        },
+        {
+          "slug": "linnai",
+          "name": "琳奈"
+        },
+        {
+          "slug": "term-8cb24287d1d23c2248be5591",
+          "name": "莫宁"
+        },
+        {
+          "slug": "term-9646024ba03ca7d0a6fe2d94",
+          "name": "菲比"
+        },
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        },
+        {
+          "slug": "submission-term-4117b215b685eaae18280b0d",
+          "name": "阿布"
+        }
+      ],
+      "artists": [],
+      "sourceUrl": "https://emoji.wuwa.games/archives/official-bili-2nd-anniversary-animated",
+      "publishTime": "2026-10-05T19:17:42.013581645Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/official-bili-2nd-anniversary-animated",
+    "downloaded": true,
+    "local_file": "incoming/images/4636d0f58c074ff30f3b2c91fe1e1f3132a66cd30041cc224b60708822909c2d.gif",
+    "sha256": "4636d0f58c074ff30f3b2c91fe1e1f3132a66cd30041cc224b60708822909c2d",
+    "bytes": 136886,
+    "actual_format": "gif",
+    "size": [
+      162,
+      162
+    ],
+    "frames": 10
+  },
+  {
+    "id": "r-16cd8e0a8779d4ebda5c",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "wuxue",
+        "name": "雾雪"
+      }
+    ],
+    "pack": {
+      "id": "daniya-haohaoxiao",
+      "slug": "daniya-haohaoxiao",
+      "postName": "emoji-post-589e17aaf7d8eeacda9a30c5",
+      "title": "达妮娅动态表情包（雾雪）",
+      "count": 18,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "wuxue",
+          "name": "雾雪"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-haohaoxiao",
+      "publishTime": "2026-08-11T09:42:11.510485721Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-haohaoxiao",
+    "downloaded": true,
+    "local_file": "incoming/images/f9dfd4bbb092d68d328bd33f941719334b42a169955e627b4e4e87e53fa825cd.gif",
+    "sha256": "f9dfd4bbb092d68d328bd33f941719334b42a169955e627b4e4e87e53fa825cd",
+    "bytes": 329883,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 9
+  },
+  {
+    "id": "r-16dbead82aec218f6937",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "春也Huruya",
+        "name": "春也Huruya"
+      }
+    ],
+    "pack": {
+      "id": "daniya-childrens-day-dressed",
+      "slug": "daniya-childrens-day-dressed",
+      "postName": "emoji-post-2b13852837d1a233e84f1158",
+      "title": "达妮娅儿童节动态表情包（鸭牌）——幼稚园服饰",
+      "count": 12,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "春也Huruya",
+          "name": "春也Huruya"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-childrens-day-dressed",
+      "publishTime": "2026-08-06T16:12:57.127498478Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-childrens-day-dressed",
+    "downloaded": true,
+    "local_file": "incoming/images/640be891c1a7a43d3299e8a9bf8c17359e846209dced3289401434e0c8276060.gif",
+    "sha256": "640be891c1a7a43d3299e8a9bf8c17359e846209dced3289401434e0c8276060",
+    "bytes": 1663355,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 48
+  },
+  {
+    "id": "r-1702ed33499681f7fd4e",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [],
+    "pack": {
+      "id": "daniya-emotelab-eyes-large-merged-20261005",
+      "slug": "daniya-emotelab-eyes-large-merged-20261005",
+      "postName": "emoji-post-195f43d63579c1136ace2086",
+      "title": "达妮娅捏捏表情包",
+      "count": 206,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-emotelab-eyes-large-merged-20261005",
+      "publishTime": "2026-10-04T17:46:06.046639188Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-emotelab-eyes-large-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/863bf068f0ceae818444ab0cd5f2ac9e2b9bf1cafb5826d437f791ac7401e647.gif",
+    "sha256": "863bf068f0ceae818444ab0cd5f2ac9e2b9bf1cafb5826d437f791ac7401e647",
+    "bytes": 735516,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 21
+  },
+  {
+    "id": "r-170355c4a6a4d1bba1c8",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "rover",
+        "name": "漂泊者"
+      },
+      {
+        "slug": "linnai",
+        "name": "琳奈"
+      },
+      {
+        "slug": "term-45d1f9a94354ae5b89801395",
+        "name": "西格莉卡"
+      },
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [],
+    "pack": {
+      "id": "sigrika-chat-memes-20261010",
+      "slug": "sigrika-chat-memes-20261010",
+      "postName": "emoji-post-49f4229f14c43bdab32df01b",
+      "title": "西格莉卡 · 建模截图聊天表情",
+      "count": 93,
+      "characters": [
+        {
+          "slug": "rover",
+          "name": "漂泊者"
+        },
+        {
+          "slug": "linnai",
+          "name": "琳奈"
+        },
+        {
+          "slug": "term-45d1f9a94354ae5b89801395",
+          "name": "西格莉卡"
+        },
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [],
+      "sourceUrl": "https://emoji.wuwa.games/archives/sigrika-chat-memes-20261010",
+      "publishTime": "2026-10-10T02:43:44.868863586Z"
+    },
+    "format": "png",
+    "animated": false,
+    "sourceUrl": "https://emoji.wuwa.games/archives/sigrika-chat-memes-20261010",
+    "downloaded": true,
+    "local_file": "incoming/images/a41f7b3b54f94eafcc08f8b4b88b704ac7a95171a6c7c599bb7b286969039450.png",
+    "sha256": "a41f7b3b54f94eafcc08f8b4b88b704ac7a95171a6c7c599bb7b286969039450",
+    "bytes": 180083,
+    "actual_format": "png",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 1
+  },
+  {
+    "id": "r-1720f87556733fd37f9b",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "十七泠",
+        "name": "十七泠"
+      }
+    ],
+    "pack": {
+      "id": "daniya-pizza-small-merged-20261005",
+      "slug": "daniya-pizza-small-merged-20261005",
+      "postName": "emoji-post-939350bae0a106c1132e2079",
+      "title": "达妮娅披萨捏捏（小）",
+      "count": 128,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "十七泠",
+          "name": "十七泠"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-small-merged-20261005",
+      "publishTime": "2026-10-04T18:26:34.934361049Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-small-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/1a7306aef63b5a2b753e28a797f16c0fa79d12bc2c13a648fa41c240a8c7cb3d.gif",
+    "sha256": "1a7306aef63b5a2b753e28a797f16c0fa79d12bc2c13a648fa41c240a8c7cb3d",
+    "bytes": 1464006,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 39
+  },
+  {
+    "id": "r-174045255d1d14229338",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "十七泠",
+        "name": "十七泠"
+      }
+    ],
+    "pack": {
+      "id": "daniya-pizza-small-merged-20261005",
+      "slug": "daniya-pizza-small-merged-20261005",
+      "postName": "emoji-post-939350bae0a106c1132e2079",
+      "title": "达妮娅披萨捏捏（小）",
+      "count": 128,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "十七泠",
+          "name": "十七泠"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-small-merged-20261005",
+      "publishTime": "2026-10-04T18:26:34.934361049Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-small-merged-20261005",
+    "downloaded": false,
+    "status": "ChunkedEncodingError"
+  },
+  {
+    "id": "r-17698475a3032b6a76ca",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [],
+    "pack": {
+      "id": "daniya-emotelab-eyes-large-merged-20261005",
+      "slug": "daniya-emotelab-eyes-large-merged-20261005",
+      "postName": "emoji-post-195f43d63579c1136ace2086",
+      "title": "达妮娅捏捏表情包",
+      "count": 206,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-emotelab-eyes-large-merged-20261005",
+      "publishTime": "2026-10-04T17:46:06.046639188Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-emotelab-eyes-large-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/7278a96af4934458462721a9c22cb0b9c6cf1ee185bba3c129cd6bcf5e9120d2.gif",
+    "sha256": "7278a96af4934458462721a9c22cb0b9c6cf1ee185bba3c129cd6bcf5e9120d2",
+    "bytes": 678815,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 19
+  },
+  {
+    "id": "r-1870db92cd89e16a08be",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "春也Huruya",
+        "name": "春也Huruya"
+      }
+    ],
+    "pack": {
+      "id": "daniya-childrens-day-dressed",
+      "slug": "daniya-childrens-day-dressed",
+      "postName": "emoji-post-2b13852837d1a233e84f1158",
+      "title": "达妮娅儿童节动态表情包（鸭牌）——幼稚园服饰",
+      "count": 12,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "春也Huruya",
+          "name": "春也Huruya"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-childrens-day-dressed",
+      "publishTime": "2026-08-06T16:12:57.127498478Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-childrens-day-dressed",
+    "downloaded": true,
+    "local_file": "incoming/images/89d997da82b8c58f194c99a1f932c4501d8d17f7902eb069ea3f02fb07fd93fd.gif",
+    "sha256": "89d997da82b8c58f194c99a1f932c4501d8d17f7902eb069ea3f02fb07fd93fd",
+    "bytes": 726605,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 20
+  },
+  {
+    "id": "r-188d9c122632edf759ab",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "十七泠",
+        "name": "十七泠"
+      }
+    ],
+    "pack": {
+      "id": "daniya-pizza-small-merged-20261005",
+      "slug": "daniya-pizza-small-merged-20261005",
+      "postName": "emoji-post-939350bae0a106c1132e2079",
+      "title": "达妮娅披萨捏捏（小）",
+      "count": 128,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "十七泠",
+          "name": "十七泠"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-small-merged-20261005",
+      "publishTime": "2026-10-04T18:26:34.934361049Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-small-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/08d9b963b139de38b6276bf9fab1a33735dfcd8e0a8da189947a326aa8340d2d.gif",
+    "sha256": "08d9b963b139de38b6276bf9fab1a33735dfcd8e0a8da189947a326aa8340d2d",
+    "bytes": 1681099,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 54
+  },
+  {
+    "id": "r-189bd0c0e853a1a46b59",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "春也Huruya",
+        "name": "春也Huruya"
+      }
+    ],
+    "pack": {
+      "id": "gb0345-daniya",
+      "slug": "gb0345-daniya",
+      "postName": "emoji-post-a5ec8dc4e2329bcb3821a142",
+      "title": "Solar5达妮娅表情包（鸭B）",
+      "count": 25,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "春也Huruya",
+          "name": "春也Huruya"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/gb0345-daniya",
+      "publishTime": "2026-09-01T08:06:42.719895633Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/gb0345-daniya",
+    "downloaded": true,
+    "local_file": "incoming/images/5a74b5b6f9dd7bc350e0e5633c1817c4961cc602258ab14c59eb5c89e30b70e9.gif",
+    "sha256": "5a74b5b6f9dd7bc350e0e5633c1817c4961cc602258ab14c59eb5c89e30b70e9",
+    "bytes": 1062423,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 34
+  },
+  {
+    "id": "r-18e205f725a217c2d68e",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "wuxue",
+        "name": "雾雪"
+      }
+    ],
+    "pack": {
+      "id": "daniya-wuxue-black",
+      "slug": "daniya-wuxue-black",
+      "postName": "emoji-post-1f409c519f91b09e1ea2da8d",
+      "title": "达妮娅（黑）动态表情包（雾雪哈基米）",
+      "count": 22,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "wuxue",
+          "name": "雾雪"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-wuxue-black",
+      "publishTime": "2026-08-06T16:13:02.086652324Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-wuxue-black",
+    "downloaded": true,
+    "local_file": "incoming/images/72f4e5fac6dc502cf808d2d131d6678517939984e7d8a64509882f5e60744e12.gif",
+    "sha256": "72f4e5fac6dc502cf808d2d131d6678517939984e7d8a64509882f5e60744e12",
+    "bytes": 332197,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 9
+  },
+  {
+    "id": "r-1928a1a50380da842a45",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [],
+    "pack": {
+      "id": "daniya-emotelab-eyes-large-merged-20261005",
+      "slug": "daniya-emotelab-eyes-large-merged-20261005",
+      "postName": "emoji-post-195f43d63579c1136ace2086",
+      "title": "达妮娅捏捏表情包",
+      "count": 206,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-emotelab-eyes-large-merged-20261005",
+      "publishTime": "2026-10-04T17:46:06.046639188Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-emotelab-eyes-large-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/3199bb3daece2068d67ccc4ff89306d6ef2345f7c7afc9278d2e95feb7e5483d.gif",
+    "sha256": "3199bb3daece2068d67ccc4ff89306d6ef2345f7c7afc9278d2e95feb7e5483d",
+    "bytes": 1966044,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 55
+  },
+  {
+    "id": "r-192b59dfdaa0dd7ffe0f",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "十七泠",
+        "name": "十七泠"
+      }
+    ],
+    "pack": {
+      "id": "daniya-pizza-small-merged-20261005",
+      "slug": "daniya-pizza-small-merged-20261005",
+      "postName": "emoji-post-939350bae0a106c1132e2079",
+      "title": "达妮娅披萨捏捏（小）",
+      "count": 128,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "十七泠",
+          "name": "十七泠"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-small-merged-20261005",
+      "publishTime": "2026-10-04T18:26:34.934361049Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-small-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/ff9e65c8a9419270583a7fa2fb30e9094e43484a7f9074ce30b6aa62ec44c9e1.gif",
+    "sha256": "ff9e65c8a9419270583a7fa2fb30e9094e43484a7f9074ce30b6aa62ec44c9e1",
+    "bytes": 226136,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 6
+  },
+  {
+    "id": "r-194837951e68fb752a4f",
+    "character": {
+      "slug": "daniya",
+      "name": "达妮娅"
+    },
+    "characters": [
+      {
+        "slug": "daniya",
+        "name": "达妮娅"
+      }
+    ],
+    "artists": [
+      {
+        "slug": "十七泠",
+        "name": "十七泠"
+      }
+    ],
+    "pack": {
+      "id": "daniya-pizza-large-merged-20261005",
+      "slug": "daniya-pizza-large-merged-20261005",
+      "postName": "emoji-post-1f3bbf98032c34601298574c",
+      "title": "达妮娅披萨捏捏（大）",
+      "count": 173,
+      "characters": [
+        {
+          "slug": "daniya",
+          "name": "达妮娅"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "十七泠",
+          "name": "十七泠"
+        }
+      ],
+      "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-large-merged-20261005",
+      "publishTime": "2026-10-04T18:04:28.727110796Z"
+    },
+    "format": "gif",
+    "animated": true,
+    "sourceUrl": "https://emoji.wuwa.games/archives/daniya-pizza-large-merged-20261005",
+    "downloaded": true,
+    "local_file": "incoming/images/e246bf99b35f13a4bd8c939f2ea6ae253cfd594bc9d60bac4a027d108d15add5.gif",
+    "sha256": "e246bf99b35f13a4bd8c939f2ea6ae253cfd594bc9d60bac4a027d108d15add5",
+    "bytes": 298511,
+    "actual_format": "gif",
+    "size": [
+      300,
+      300
+    ],
+    "frames": 6
+  }
+]
