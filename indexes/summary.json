@@ -1,0 +1,31 @@
+{
+  "source_records": 1224,
+  "excluded_non_target_records": 274,
+  "included_source_records": 950,
+  "unique_images": 934,
+  "exact_duplicates_removed": 16,
+  "categories": {
+    "eat": 83,
+    "like": 97,
+    "see": 35,
+    "cute": 63,
+    "fool": 225,
+    "sad": 28,
+    "angry": 39,
+    "sigh": 16,
+    "happy": 37,
+    "reply": 35,
+    "work": 50,
+    "thinking": 31,
+    "shy": 18,
+    "givemoney": 26,
+    "sleep": 43,
+    "greeting": 26,
+    "stop": 17,
+    "confused": 15,
+    "surprised": 26,
+    "relax": 23,
+    "misc": 1
+  },
+  "total_bytes": 1222441014
+}

@@ -1,0 +1,3326 @@
+[
+  {
+    "resource_id": "r-033535d123c55ff44e4e",
+    "source_label": "吃月饼角色合集 09349-FXDS（）",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-1f0507c2a0a1805a92fb",
+    "source_label": "吃月饼角色合集 09336-FXDS（）",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-363ef87d10e395e5b326",
+    "source_label": "吃月饼角色合集 09334-FXDS（）",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-5464c73151fc6bc02056",
+    "source_label": "吃月饼角色合集 09347-FXDS（）",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-5877ae6442bc47d98a40",
+    "source_label": "吃月饼角色合集 36775-FXDS（）",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-58fbc86630120374d578",
+    "source_label": "吃月饼角色合集 09361-FXDS（）",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-5b83f1206b099ed2756e",
+    "source_label": "吃月饼角色合集 09356-FXDS（）",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-6fca37b89b1d667db458",
+    "source_label": "吃月饼角色合集 36759-FXDS（）",
+    "excluded": false,
+    "category_override": "eat"
+  },
+  {
+    "resource_id": "r-967db1091d64d53d6feb",
+    "source_label": "吃月饼角色合集 36757-FXDS（）",
+    "excluded": false,
+    "category_override": "eat"
+  },
+  {
+    "resource_id": "r-9fc01354060efab468a7",
+    "source_label": "吃月饼角色合集 09348-FXDS（）",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-a1115ff5afcd8bcfb1c0",
+    "source_label": "吃月饼角色合集 36773-FXDS（）",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-b15844d960800fea01f6",
+    "source_label": "吃月饼角色合集 09345-FXDS（）",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-cb41ea6b1533e8250d11",
+    "source_label": "吃月饼角色合集 09346-FXDS（）",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-d00e7dcd76bdd8155053",
+    "source_label": "吃月饼角色合集 09333-FXDS（）",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-da79c45b697d2854b331",
+    "source_label": "吃月饼角色合集 09331-FXDS（）",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-034ec7c42991b7d84b32",
+    "source_label": "达妮娅 常态 3.0 静态表情包 34776-FXDS",
+    "excluded": false,
+    "category_override": "see"
+  },
+  {
+    "resource_id": "r-04f9b3b7a3728c0083ae",
+    "source_label": "达妮娅 常态 3.0 静态表情包 34766-FXDS",
+    "excluded": false,
+    "category_override": "thinking"
+  },
+  {
+    "resource_id": "r-1b144715f83ae6f028a9",
+    "source_label": "达妮娅 常态 3.0 静态表情包 34742-FXDS",
+    "excluded": false,
+    "category_override": "like"
+  },
+  {
+    "resource_id": "r-1d7dc780ecdb6c9d3c59",
+    "source_label": "达妮娅 常态 3.0 静态表情包 34769-FXDS",
+    "excluded": false,
+    "category_override": "work"
+  },
+  {
+    "resource_id": "r-207c954621a89da286dd",
+    "source_label": "达妮娅 常态 3.0 静态表情包 34767-FXDS",
+    "excluded": false,
+    "category_override": "angry"
+  },
+  {
+    "resource_id": "r-23297c5e82ab8ffaa5f5",
+    "source_label": "达妮娅 常态 3.0 静态表情包 34760-FXDS",
+    "excluded": false,
+    "category_override": "surprised"
+  },
+  {
+    "resource_id": "r-25035df4d235486c3792",
+    "source_label": "达妮娅 常态 3.0 静态表情包 29753-FXDS",
+    "excluded": false,
+    "category_override": "see"
+  },
+  {
+    "resource_id": "r-2cbb86610c286fdea0cf",
+    "source_label": "达妮娅 常态 3.0 静态表情包 29729-FXDS",
+    "excluded": false,
+    "category_override": "thinking"
+  },
+  {
+    "resource_id": "r-2df8b3f5a02349e372f0",
+    "source_label": "达妮娅 常态 3.0 静态表情包 07973-FXDS",
+    "excluded": false,
+    "category_override": "angry"
+  },
+  {
+    "resource_id": "r-339ad67b8a87889691f4",
+    "source_label": "达妮娅 常态 3.0 静态表情包 3",
+    "excluded": false,
+    "category_override": "surprised"
+  },
+  {
+    "resource_id": "r-36fd6c58d183ebfb3a8c",
+    "source_label": "达妮娅 常态 3.0 静态表情包 3 (2)",
+    "excluded": false,
+    "category_override": "sad"
+  },
+  {
+    "resource_id": "r-387d3cc765f361e444a3",
+    "source_label": "达妮娅 常态 3.0 静态表情包 29778-FXDS",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-40c797075505f87629ee",
+    "source_label": "达妮娅 常态 3.0 静态表情包 29731-FXDS",
+    "excluded": false,
+    "category_override": "confused"
+  },
+  {
+    "resource_id": "r-4228266808d516144a53",
+    "source_label": "达妮娅 常态 3.0 静态表情包 29782-FXDS",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-4d67f122c92689c8f9ea",
+    "source_label": "达妮娅 常态 3.0 静态表情包 34763-FXDS",
+    "excluded": false,
+    "category_override": "shy"
+  },
+  {
+    "resource_id": "r-56c9a425a3900200e369",
+    "source_label": "达妮娅 常态 3.0 静态表情包 29775-FXDS",
+    "excluded": false,
+    "category_override": "cute"
+  },
+  {
+    "resource_id": "r-6419b9ec9c19f5172d57",
+    "source_label": "达妮娅 常态 3.0 静态表情包 2 (2)",
+    "excluded": false,
+    "category_override": "sigh"
+  },
+  {
+    "resource_id": "r-6ce8d17a1f5a7b9d34ec",
+    "source_label": "达妮娅 常态 3.0 静态表情包 1",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-6e0df3a5cb1dc1815c20",
+    "source_label": "达妮娅 常态 3.0 静态表情包 29765-FXDS",
+    "excluded": false,
+    "category_override": "like"
+  },
+  {
+    "resource_id": "r-7623d15f503bf38860ec",
+    "source_label": "达妮娅 常态 3.0 静态表情包 29734-FXDS",
+    "excluded": false,
+    "category_override": "sad"
+  },
+  {
+    "resource_id": "r-784628a6ee451068adba",
+    "source_label": "达妮娅 常态 3.0 静态表情包 34768-FXDS",
+    "excluded": false,
+    "category_override": "angry"
+  },
+  {
+    "resource_id": "r-7ac2ee59b4e08fc055ac",
+    "source_label": "达妮娅 常态 3.0 静态表情包 07100-FXDS",
+    "excluded": false,
+    "category_override": "surprised"
+  },
+  {
+    "resource_id": "r-88f97ec6e7a784521a62",
+    "source_label": "达妮娅 常态 3.0 静态表情包 29755-FXDS",
+    "excluded": false,
+    "category_override": "see"
+  },
+  {
+    "resource_id": "r-897f051b7157937aa9a4",
+    "source_label": "达妮娅 常态 3.0 静态表情包 29725-FXDS",
+    "excluded": false,
+    "category_override": "sigh"
+  },
+  {
+    "resource_id": "r-8c0f0b82b69826fb5855",
+    "source_label": "达妮娅 常态 3.0 静态表情包 34740-FXDS",
+    "excluded": false,
+    "category_override": "like"
+  },
+  {
+    "resource_id": "r-8d65e7a528e955287f0f",
+    "source_label": "达妮娅 常态 3.0 静态表情包 07101-FXDS",
+    "excluded": false,
+    "category_override": "cute"
+  },
+  {
+    "resource_id": "r-948c8e109959a6da0b26",
+    "source_label": "达妮娅 常态 3.0 静态表情包 29719-FXDS",
+    "excluded": false,
+    "category_override": "sigh"
+  },
+  {
+    "resource_id": "r-a1ccf5074dc1c61d2a57",
+    "source_label": "达妮娅 常态 3.0 静态表情包 9",
+    "excluded": false,
+    "category_override": "work"
+  },
+  {
+    "resource_id": "r-a89d4b4f8e67497f8da5",
+    "source_label": "达妮娅 常态 3.0 静态表情包 6 (2)",
+    "excluded": false,
+    "category_override": "cute"
+  },
+  {
+    "resource_id": "r-a9bd14a44ad4da691be5",
+    "source_label": "达妮娅 常态 3.0 静态表情包 34761-FXDS",
+    "excluded": false,
+    "category_override": "shy"
+  },
+  {
+    "resource_id": "r-ac7c9eb627bf65072167",
+    "source_label": "达妮娅 常态 3.0 静态表情包 5 (2)",
+    "excluded": false,
+    "category_override": "surprised"
+  },
+  {
+    "resource_id": "r-ae7282fab8983c12cc70",
+    "source_label": "达妮娅 常态 3.0 静态表情包 29732-FXDS",
+    "excluded": false,
+    "category_override": "thinking"
+  },
+  {
+    "resource_id": "r-af865b9e06845b81e624",
+    "source_label": "达妮娅 常态 3.0 静态表情包 29716-FXDS",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-b71fe1a658b97863d842",
+    "source_label": "达妮娅 常态 3.0 静态表情包 29774-FXDS",
+    "excluded": false,
+    "category_override": "like"
+  },
+  {
+    "resource_id": "r-b9da9f6960352824c435",
+    "source_label": "达妮娅 常态 3.0 静态表情包 8",
+    "excluded": false,
+    "category_override": "like"
+  },
+  {
+    "resource_id": "r-bff87127d6a81acd94c7",
+    "source_label": "达妮娅 常态 3.0 静态表情包 4",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-c3fcc0b2ca96da572e48",
+    "source_label": "达妮娅 常态 3.0 静态表情包 34772-FXDS",
+    "excluded": false,
+    "category_override": "like"
+  },
+  {
+    "resource_id": "r-c5627549244baa1dc183",
+    "source_label": "达妮娅 常态 3.0 静态表情包 4 (2)",
+    "excluded": false,
+    "category_override": "happy"
+  },
+  {
+    "resource_id": "r-ca3e6c70511aa6a80413",
+    "source_label": "达妮娅 常态 3.0 静态表情包 29727-FXDS",
+    "excluded": false,
+    "category_override": "like"
+  },
+  {
+    "resource_id": "r-dc42d6df187349a138e6",
+    "source_label": "达妮娅 常态 3.0 静态表情包 29781-FXDS",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-dd5290ff75cca1f2818c",
+    "source_label": "达妮娅 常态 3.0 静态表情包 29757-FXDS",
+    "excluded": false,
+    "category_override": "surprised"
+  },
+  {
+    "resource_id": "r-dd858259907a2b91a621",
+    "source_label": "达妮娅 常态 3.0 静态表情包 6",
+    "excluded": false,
+    "category_override": "angry"
+  },
+  {
+    "resource_id": "r-e50899c082090a20fa9c",
+    "source_label": "达妮娅 常态 3.0 静态表情包 34774-FXDS",
+    "excluded": false,
+    "category_override": "sigh"
+  },
+  {
+    "resource_id": "r-e627e0fb013beac211be",
+    "source_label": "达妮娅 常态 3.0 静态表情包 29735-FXDS",
+    "excluded": false,
+    "category_override": "sad"
+  },
+  {
+    "resource_id": "r-eb1d7c43311bc8dbdc8d",
+    "source_label": "达妮娅 常态 3.0 静态表情包 7",
+    "excluded": false,
+    "category_override": "angry"
+  },
+  {
+    "resource_id": "r-ee88ac7c06ee55b0d093",
+    "source_label": "达妮娅 常态 3.0 静态表情包 34748-FXDS",
+    "excluded": false,
+    "category_override": "like"
+  },
+  {
+    "resource_id": "r-f3ab36954f76a1cf9c38",
+    "source_label": "达妮娅 常态 3.0 静态表情包 2",
+    "excluded": false,
+    "category_override": "cute"
+  },
+  {
+    "resource_id": "r-fa78c1ae09a181839c54",
+    "source_label": "达妮娅 常态 3.0 静态表情包 5",
+    "excluded": false,
+    "category_override": "confused"
+  },
+  {
+    "resource_id": "r-fdc2a07eba91014c2477",
+    "source_label": "达妮娅 常态 3.0 静态表情包 29754-FXDS",
+    "excluded": false,
+    "category_override": "sigh"
+  },
+  {
+    "resource_id": "r-0612aa933387c76ef5e4",
+    "source_label": "达妮娅 猫猫 3.0 静态表情包 32541-FXDS",
+    "excluded": false,
+    "category_override": "eat"
+  },
+  {
+    "resource_id": "r-1f804fb841aa765d59ad",
+    "source_label": "达妮娅 猫猫 3.0 静态表情包 32504-FXDS",
+    "excluded": false,
+    "category_override": "cute"
+  },
+  {
+    "resource_id": "r-1f9278994690dc66b4ba",
+    "source_label": "达妮娅 猫猫 3.0 静态表情包 32545-FXDS",
+    "excluded": false,
+    "category_override": "sigh"
+  },
+  {
+    "resource_id": "r-267c00035df8c2e13369",
+    "source_label": "达妮娅 猫猫 3.0 静态表情包 32516-FXDS",
+    "excluded": false,
+    "category_override": "angry"
+  },
+  {
+    "resource_id": "r-3bc4b0272e99055a60fa",
+    "source_label": "达妮娅 猫猫 3.0 静态表情包 32505-FXDS",
+    "excluded": false,
+    "category_override": "angry"
+  },
+  {
+    "resource_id": "r-4ccef014f3594195220b",
+    "source_label": "达妮娅 猫猫 3.0 静态表情包 32540-FXDS",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-53aea548f8e2f9bddb9f",
+    "source_label": "达妮娅 猫猫 3.0 静态表情包 32535-FXDS",
+    "excluded": false,
+    "category_override": "cute"
+  },
+  {
+    "resource_id": "r-57b1093ed2d091e33cec",
+    "source_label": "达妮娅 猫猫 3.0 静态表情包 32522-FXDS",
+    "excluded": false,
+    "category_override": "angry"
+  },
+  {
+    "resource_id": "r-5f2419f97bda532456f7",
+    "source_label": "达妮娅 猫猫 3.0 静态表情包 32530-FXDS",
+    "excluded": false,
+    "category_override": "surprised"
+  },
+  {
+    "resource_id": "r-60716ef427f2224ef939",
+    "source_label": "达妮娅 猫猫 3.0 静态表情包 32521-FXDS",
+    "excluded": false,
+    "category_override": "cute"
+  },
+  {
+    "resource_id": "r-76fbdf47b80c7825ea23",
+    "source_label": "达妮娅 猫猫 3.0 静态表情包 32508-FXDS",
+    "excluded": false,
+    "category_override": "angry"
+  },
+  {
+    "resource_id": "r-89c24f9393cb6c398340",
+    "source_label": "达妮娅 猫猫 3.0 静态表情包 8 (2)",
+    "excluded": false,
+    "category_override": "cute"
+  },
+  {
+    "resource_id": "r-98c2d635cd17a1bb770e",
+    "source_label": "达妮娅 猫猫 3.0 静态表情包 32517-FXDS",
+    "excluded": false,
+    "category_override": "sad"
+  },
+  {
+    "resource_id": "r-ccd337800889cf9ebeaf",
+    "source_label": "达妮娅 猫猫 3.0 静态表情包 32533-FXDS",
+    "excluded": false,
+    "category_override": "cute"
+  },
+  {
+    "resource_id": "r-cd0319192b4b766753d1",
+    "source_label": "达妮娅 猫猫 3.0 静态表情包 32501-FXDS",
+    "excluded": false,
+    "category_override": "confused"
+  },
+  {
+    "resource_id": "r-e4e44735fbd5bee678db",
+    "source_label": "达妮娅 猫猫 3.0 静态表情包 32523-FXDS",
+    "excluded": false,
+    "category_override": "shy"
+  },
+  {
+    "resource_id": "r-e6ba5d7d5d0f4c36af5c",
+    "source_label": "达妮娅 猫猫 3.0 静态表情包 32491-FXDS",
+    "excluded": false,
+    "category_override": "cute"
+  },
+  {
+    "resource_id": "r-e9a6e02b62f0c8e61056",
+    "source_label": "达妮娅 猫猫 3.0 静态表情包 32520-FXDS",
+    "excluded": false,
+    "category_override": "sad"
+  },
+  {
+    "resource_id": "r-02cafc20a03b2575e722",
+    "source_label": "聚爆烤肉队三人表情包 EX50_喵呜喵",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-0bf059d46710b97e1503",
+    "source_label": "聚爆烤肉队三人表情包 EX54_电音蝌蚪",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-112691c97ebaaf2cdd5e",
+    "source_label": "聚爆烤肉队三人表情包 2TT05_发布会-2_2",
+    "excluded": false,
+    "category_override": "happy"
+  },
+  {
+    "resource_id": "r-11af709f0ada4fceaf2d",
+    "source_label": "聚爆烤肉队三人表情包 9N07_蹦",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-1c2d146e1b0cd9d0d53f",
+    "source_label": "聚爆烤肉队三人表情包 EX52_萨克斯_副本",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-1ceef3c67790246445b6",
+    "source_label": "聚爆烤肉队三人表情包 EX12_新奥变身",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-23112dc56808b99b90be",
+    "source_label": "聚爆烤肉队三人表情包 EX52_萨克斯",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-2fc619a098976a82e267",
+    "source_label": "聚爆烤肉队三人表情包 EX53_大提琴_副本",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-40e4497a6584cdc943a6",
+    "source_label": "聚爆烤肉队三人表情包 EX51_小提琴",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-488c40cbc405e73c6272",
+    "source_label": "聚爆烤肉队三人表情包 TT03_举火把_1",
+    "excluded": false,
+    "category_override": "eat"
+  },
+  {
+    "resource_id": "r-49444498e897ffb8d469",
+    "source_label": "聚爆烤肉队三人表情包 5N04_嘲笑",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-4c5fcaa4e6e36c2fa577",
+    "source_label": "聚爆烤肉队三人表情包 2TT07_蛐蛐",
+    "excluded": false,
+    "category_override": "cute"
+  },
+  {
+    "resource_id": "r-4c8575141389381c3598",
+    "source_label": "聚爆烤肉队三人表情包 EX18_键盘",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-4d3493107b06c9ffed0c",
+    "source_label": "聚爆烤肉队三人表情包 EX49_True_music",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-4fdd79388a156ffd2863",
+    "source_label": "聚爆烤肉队三人表情包 12N11_害羞_副本",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-5794db42611a754095c9",
+    "source_label": "聚爆烤肉队三人表情包 2TT10_替身使者",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-61fae2f1ae2e72389505",
+    "source_label": "聚爆烤肉队三人表情包 EX53_大提琴1",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-663ade920ef62603a62b",
+    "source_label": "聚爆烤肉队三人表情包 EX49_True_music1",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-72167a2ff1e4472fd308",
+    "source_label": "聚爆烤肉队三人表情包 EX52_萨克斯1",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-7470ca7245084e56f949",
+    "source_label": "聚爆烤肉队三人表情包 12N02_揉脸",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-74ba1e7fc065d59388e6",
+    "source_label": "聚爆烤肉队三人表情包 12N11_害羞1",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-756dda26b89e2308cd74",
+    "source_label": "聚爆烤肉队三人表情包 EX50_喵呜喵_1",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-75c0e5ad4e14bb5c02d8",
+    "source_label": "聚爆烤肉队三人表情包 3N05_摸鱼1",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-83b636151f9d0dcaee66",
+    "source_label": "聚爆烤肉队三人表情包 3N05_摸鱼",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-85db07bff73609c1e9de",
+    "source_label": "聚爆烤肉队三人表情包 2TT03_hp+3",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-88cd5b90481b7c73dc20",
+    "source_label": "聚爆烤肉队三人表情包 EX50_喵呜喵1",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-8dbd669e18eac337eb17",
+    "source_label": "聚爆烤肉队三人表情包 6N11_嫌弃",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-94e1e50e3e8a3d1c23fb",
+    "source_label": "聚爆烤肉队三人表情包 EX54_电音蝌蚪_1",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-95cc0d729b46442ab6bf",
+    "source_label": "聚爆烤肉队三人表情包 12N07_绷住",
+    "excluded": false,
+    "category_override": "cute"
+  },
+  {
+    "resource_id": "r-9b6d6584f8a92b402298",
+    "source_label": "聚爆烤肉队三人表情包 EX54_电音蝌蚪_1 (1)",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-a084b8611f9ebc2f2ad2",
+    "source_label": "聚爆烤肉队三人表情包 2N09_思考",
+    "excluded": false,
+    "category_override": "thinking"
+  },
+  {
+    "resource_id": "r-a6c7dfb4b00a083e0c8a",
+    "source_label": "聚爆烤肉队三人表情包 EX08_被戳戳",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-a8dc560294007ad3cf5e",
+    "source_label": "聚爆烤肉队三人表情包 N10_真的假的",
+    "excluded": false,
+    "category_override": "confused"
+  },
+  {
+    "resource_id": "r-aae68ba9c6f5989d8dab",
+    "source_label": "聚爆烤肉队三人表情包 2TT06_合影 2",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-ac917c225f8dc6b2d10e",
+    "source_label": "聚爆烤肉队三人表情包 2TT06_合影",
+    "excluded": false,
+    "category_override": "eat"
+  },
+  {
+    "resource_id": "r-b13a93c880bbbe1ab6e0",
+    "source_label": "聚爆烤肉队三人表情包 EX20_主唱",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-baf1a5e2740319519477",
+    "source_label": "聚爆烤肉队三人表情包 3N05_摸鱼_副本",
+    "excluded": false,
+    "category_override": "cute"
+  },
+  {
+    "resource_id": "r-bdcb0ce027d7a53778b1",
+    "source_label": "聚爆烤肉队三人表情包 N10_真的假的 3",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-be818cf6254f46fa03f7",
+    "source_label": "聚爆烤肉队三人表情包 4N05_蹭蹭",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-c813c5b7516da0b9b223",
+    "source_label": "聚爆烤肉队三人表情包 EX53_大提琴",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-ca90fe8304e82e4a17c7",
+    "source_label": "聚爆烤肉队三人表情包 EX49_True_music_副本",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-cbf395424a9b82bb6b4f",
+    "source_label": "聚爆烤肉队三人表情包 EX51_小提琴1",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-ce2b854b369002347196",
+    "source_label": "聚爆烤肉队三人表情包 12N11_害羞",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-d3bc5ecd463b49fa50ca",
+    "source_label": "聚爆烤肉队三人表情包 EX54_电音蝌蚪1",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-d4f2fd74b52b8a7c4019",
+    "source_label": "聚爆烤肉队三人表情包 2TT05_发布会-2_1",
+    "excluded": false,
+    "category_override": "eat"
+  },
+  {
+    "resource_id": "r-d5c523abf1e92b54850a",
+    "source_label": "聚爆烤肉队三人表情包 N10_真的假的 2",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-d6174439329e1ba7b840",
+    "source_label": "聚爆烤肉队三人表情包 4N08_戳戳",
+    "excluded": false,
+    "category_override": "cute"
+  },
+  {
+    "resource_id": "r-e14e95edfa9fab151a68",
+    "source_label": "聚爆烤肉队三人表情包 12N12_猫儿这个邪恶",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-e7304bf1061ecf4bb383",
+    "source_label": "聚爆烤肉队三人表情包 9N12_给社会添乱",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-f19a90f2465ab74e418f",
+    "source_label": "聚爆烤肉队三人表情包 N03_敲猫",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-f6e3809928a29d4bc976",
+    "source_label": "聚爆烤肉队三人表情包 EX32_好吃",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-f8e74a3c4cbb6cc56ac5",
+    "source_label": "聚爆烤肉队三人表情包 EX50_喵呜喵_副本",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-fbb8fc3bf13a0df4a99d",
+    "source_label": "聚爆烤肉队三人表情包 EX51_小提琴_副本",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-0571f99c2478da2050fb",
+    "source_label": "达妮娅板202 不OK",
+    "excluded": false,
+    "category_override": "stop"
+  },
+  {
+    "resource_id": "r-0c67a6e953f6443f091f",
+    "source_label": "达妮娅板202 OK",
+    "excluded": false,
+    "category_override": "like"
+  },
+  {
+    "resource_id": "r-398aba2a1be122099117",
+    "source_label": "达妮娅板202 星星眼",
+    "excluded": false,
+    "category_override": "happy"
+  },
+  {
+    "resource_id": "r-3ca270c29049a5dcb852",
+    "source_label": "达妮娅板202 音量",
+    "excluded": false,
+    "category_override": "angry"
+  },
+  {
+    "resource_id": "r-8644925a67f106f50109",
+    "source_label": "达妮娅板202 加班",
+    "excluded": false,
+    "category_override": "work"
+  },
+  {
+    "resource_id": "r-9cb900a6349bf8e17bcb",
+    "source_label": "达妮娅板202 笔记",
+    "excluded": false,
+    "category_override": "work"
+  },
+  {
+    "resource_id": "r-b438d9df90d17f3e893e",
+    "source_label": "达妮娅板202 饿饿",
+    "excluded": false,
+    "category_override": "eat"
+  },
+  {
+    "resource_id": "r-c31c9580bf9f1bb86ad8",
+    "source_label": "达妮娅板202 快逃",
+    "excluded": false,
+    "category_override": "surprised"
+  },
+  {
+    "resource_id": "r-c54a60bb09d5df1c4067",
+    "source_label": "达妮娅板202 舔屏",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-e52ecb7c4257ffbb9a61",
+    "source_label": "达妮娅板202 电话",
+    "excluded": false,
+    "category_override": "reply"
+  },
+  {
+    "resource_id": "r-e986913602dad21c4243",
+    "source_label": "达妮娅板202 扯脸",
+    "excluded": false,
+    "category_override": "sad"
+  },
+  {
+    "resource_id": "r-14b5d14c81823f922cdb",
+    "source_label": "儿童节达妮娅 XXS11_杂鱼",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-3e9ac485c581dcca3f51",
+    "source_label": "儿童节达妮娅 XXS04_竹蜻蜓",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-4daa27c988ec9ae58ffe",
+    "source_label": "儿童节达妮娅 XXS07_星星眼",
+    "excluded": false,
+    "category_override": "happy"
+  },
+  {
+    "resource_id": "r-5b607bd9ce6afdf282ac",
+    "source_label": "儿童节达妮娅 XXS09_hello",
+    "excluded": false,
+    "category_override": "greeting"
+  },
+  {
+    "resource_id": "r-6b2bab35040ff0ce3a24",
+    "source_label": "儿童节达妮娅 XXS02_波板糖",
+    "excluded": false,
+    "category_override": "eat"
+  },
+  {
+    "resource_id": "r-753d2931fa0ab561d87b",
+    "source_label": "儿童节达妮娅 XXS06_书包",
+    "excluded": false,
+    "category_override": "work"
+  },
+  {
+    "resource_id": "r-9313148f9c268503653e",
+    "source_label": "儿童节达妮娅 XXS10_妈妈",
+    "excluded": false,
+    "category_override": "cute"
+  },
+  {
+    "resource_id": "r-9b887f08674cf77504fe",
+    "source_label": "儿童节达妮娅 XXS01_喇叭",
+    "excluded": false,
+    "category_override": "reply"
+  },
+  {
+    "resource_id": "r-ae86fa09028e6c852d49",
+    "source_label": "儿童节达妮娅 XXS12_拉报警器",
+    "excluded": false,
+    "category_override": "reply"
+  },
+  {
+    "resource_id": "r-b2680ba521c2df7381ce",
+    "source_label": "儿童节达妮娅 XXS03_吹泡泡",
+    "excluded": false,
+    "category_override": "relax"
+  },
+  {
+    "resource_id": "r-b55353b7026bfbe9ea99",
+    "source_label": "儿童节达妮娅 XXS08_粉笔",
+    "excluded": false,
+    "category_override": "work"
+  },
+  {
+    "resource_id": "r-c16e843531daeee5b60a",
+    "source_label": "儿童节达妮娅 XXS05_小红花",
+    "excluded": false,
+    "category_override": "happy"
+  },
+  {
+    "resource_id": "r-16dbead82aec218f6937",
+    "source_label": "儿童节达妮娅（穿衣） XXS04_竹蜻蜓",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-1870db92cd89e16a08be",
+    "source_label": "儿童节达妮娅（穿衣） XXS01_喇叭",
+    "excluded": false,
+    "category_override": "reply"
+  },
+  {
+    "resource_id": "r-1e89607c654328a586ef",
+    "source_label": "儿童节达妮娅（穿衣） XXS02_波板糖",
+    "excluded": false,
+    "category_override": "eat"
+  },
+  {
+    "resource_id": "r-2bf218b3f4c928acc308",
+    "source_label": "儿童节达妮娅（穿衣） XXS09_hello",
+    "excluded": false,
+    "category_override": "greeting"
+  },
+  {
+    "resource_id": "r-51e0c3406a55da01efdd",
+    "source_label": "儿童节达妮娅（穿衣） XXS12_拉报警器",
+    "excluded": false,
+    "category_override": "reply"
+  },
+  {
+    "resource_id": "r-7956158d06a394c89d00",
+    "source_label": "儿童节达妮娅（穿衣） XXS11_杂鱼",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-7e24e191d7a1dc158a2a",
+    "source_label": "儿童节达妮娅（穿衣） XXS10_妈妈",
+    "excluded": false,
+    "category_override": "cute"
+  },
+  {
+    "resource_id": "r-8e12b4cb08e3829eaa0c",
+    "source_label": "儿童节达妮娅（穿衣） XXS03_吹泡泡",
+    "excluded": false,
+    "category_override": "relax"
+  },
+  {
+    "resource_id": "r-9412e1556b6ac4f3424e",
+    "source_label": "儿童节达妮娅（穿衣） XXS07_星星眼",
+    "excluded": false,
+    "category_override": "happy"
+  },
+  {
+    "resource_id": "r-9551d1510ec4c4bf4e0a",
+    "source_label": "儿童节达妮娅（穿衣） XXS06_书包",
+    "excluded": false,
+    "category_override": "work"
+  },
+  {
+    "resource_id": "r-ba13a586e05734a04b99",
+    "source_label": "儿童节达妮娅（穿衣） XXS08_粉笔",
+    "excluded": false,
+    "category_override": "work"
+  },
+  {
+    "resource_id": "r-cada9b4b9a3a4ffc7e49",
+    "source_label": "儿童节达妮娅（穿衣） XXS05_小红花",
+    "excluded": false,
+    "category_override": "happy"
+  },
+  {
+    "resource_id": "r-0a6e1581d416073f64e6",
+    "source_label": "春也达妮娅 灵光",
+    "excluded": false,
+    "category_override": "thinking"
+  },
+  {
+    "resource_id": "r-0dcad0d81541bab3c882",
+    "source_label": "春也达妮娅 哼哼",
+    "excluded": false,
+    "category_override": "happy"
+  },
+  {
+    "resource_id": "r-36082159f13dcfa36b13",
+    "source_label": "春也达妮娅 想要",
+    "excluded": false,
+    "category_override": "eat"
+  },
+  {
+    "resource_id": "r-40f631b727c400bab6b5",
+    "source_label": "春也达妮娅 上工",
+    "excluded": false,
+    "category_override": "work"
+  },
+  {
+    "resource_id": "r-67fcdb5d47a4d69d373f",
+    "source_label": "春也达妮娅 端详",
+    "excluded": false,
+    "category_override": "thinking"
+  },
+  {
+    "resource_id": "r-99e17bea2455b3534b3e",
+    "source_label": "春也达妮娅 口水",
+    "excluded": false,
+    "category_override": "eat"
+  },
+  {
+    "resource_id": "r-9acb421ac17517645694",
+    "source_label": "春也达妮娅 慌",
+    "excluded": false,
+    "category_override": "surprised"
+  },
+  {
+    "resource_id": "r-9edfea869de7c3eefea3",
+    "source_label": "春也达妮娅 上吊",
+    "excluded": false,
+    "category_override": "sad"
+  },
+  {
+    "resource_id": "r-be6a654505a94238bd05",
+    "source_label": "春也达妮娅 拉泪",
+    "excluded": false,
+    "category_override": "sad"
+  },
+  {
+    "resource_id": "r-fbddeb52edb2b90d58a5",
+    "source_label": "春也达妮娅 举牌",
+    "excluded": false,
+    "category_override": "like"
+  },
+  {
+    "resource_id": "r-2e6ad34233c932ecd30c",
+    "source_label": "达妮娅双人表情包 2TT04_灵魂吸取",
+    "excluded": false,
+    "category_override": "surprised"
+  },
+  {
+    "resource_id": "r-3c92629c3fafd033814f",
+    "source_label": "达妮娅双人表情包 2TT07_蛐蛐",
+    "excluded": false,
+    "category_override": "cute"
+  },
+  {
+    "resource_id": "r-211aad02a53f71fc64b0",
+    "source_label": "达妮娅 EmoteLab 合集 达妮娅_折扇_2026-09-26-20-45-22",
+    "excluded": false,
+    "category_override": "relax"
+  },
+  {
+    "resource_id": "r-85efcc71bffd906de0a1",
+    "source_label": "达妮娅 EmoteLab 合集 达妮娅_指_2026-04-21-17-29-05",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-a5186a259e024f4d4b70",
+    "source_label": "达妮娅 EmoteLab 合集 达妮娅_抓拍(摄像机)_2026-04-21-17-21-27",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-da0dbce8c49d264d4df3",
+    "source_label": "达妮娅 EmoteLab 合集 达妮娅_主意_2026-04-21-17-24-56",
+    "excluded": false,
+    "category_override": "thinking"
+  },
+  {
+    "resource_id": "r-da85f4ce0a005ed48ad1",
+    "source_label": "达妮娅 EmoteLab 合集 达妮娅_枕头(蹭)_2026-09-26-20-59-02",
+    "excluded": false,
+    "category_override": "like"
+  },
+  {
+    "resource_id": "r-e478f87b76ccba2e4b65",
+    "source_label": "达妮娅 EmoteLab 合集 达妮娅_枕头(舔)_2026-09-26-20-58-55",
+    "excluded": false,
+    "category_override": "angry"
+  },
+  {
+    "resource_id": "r-fb28e921f9565f5ed9ce",
+    "source_label": "达妮娅 EmoteLab 合集 达妮娅_枕头(蹭2)_2026-09-26-20-59-06",
+    "excluded": false,
+    "category_override": "angry"
+  },
+  {
+    "resource_id": "r-0a5a35127660ab0383ce",
+    "source_label": "好好咲w达妮娅表情包 EX53_大提琴",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-16cd8e0a8779d4ebda5c",
+    "source_label": "好好咲w达妮娅表情包 12N12_猫儿这个邪恶",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-1c4958c83d4dc89a1384",
+    "source_label": "好好咲w达妮娅表情包 N10_真的假的",
+    "excluded": false,
+    "category_override": "confused"
+  },
+  {
+    "resource_id": "r-473f152dac1637fbece2",
+    "source_label": "好好咲w达妮娅表情包 12N07_绷住",
+    "excluded": false,
+    "category_override": "cute"
+  },
+  {
+    "resource_id": "r-65b4a08d71c83a0bd828",
+    "source_label": "好好咲w达妮娅表情包 9N07_蹦",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-6856b1605da2f44deb28",
+    "source_label": "好好咲w达妮娅表情包 EX51_小提琴",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-762c1d1c3e2b626b1313",
+    "source_label": "好好咲w达妮娅表情包 9N12_给社会添乱",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-7e6d797718cc86e3d5e7",
+    "source_label": "好好咲w达妮娅表情包 N03_敲猫",
+    "excluded": false,
+    "category_override": "cute"
+  },
+  {
+    "resource_id": "r-946e12d5ec5262dffe26",
+    "source_label": "好好咲w达妮娅表情包 EX54_电音蝌蚪",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-eaa44bcf62dd2d203e87",
+    "source_label": "好好咲w达妮娅表情包 EX49_True_music",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-fe67c5db81a6b58c8348",
+    "source_label": "好好咲w达妮娅表情包 EX52_萨克斯",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-1c14fd7b8403b5a10c2a",
+    "source_label": "日服二周年达妮娅（30） 20敲木鱼",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-5a2d9c648e51e208f20c",
+    "source_label": "日服二周年达妮娅（30） 3星星眼",
+    "excluded": false,
+    "category_override": "happy"
+  },
+  {
+    "resource_id": "r-64c7a658f407fc76f81d",
+    "source_label": "日服二周年达妮娅（30） 34bang",
+    "excluded": false,
+    "category_override": "sleep"
+  },
+  {
+    "resource_id": "r-bf48f526b3637e05784b",
+    "source_label": "日服二周年达妮娅（30） 41看书",
+    "excluded": false,
+    "category_override": "work"
+  },
+  {
+    "resource_id": "r-c7b23db2becd2ffc3537",
+    "source_label": "日服二周年达妮娅（30） 32投降",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-57c23f75b2c15898e586",
+    "source_label": "达妮娅披萨捏捏（大） 达妮娅_主意_2026-07-15-22-58-12",
+    "excluded": false,
+    "category_override": "thinking"
+  },
+  {
+    "resource_id": "r-8c993e5378a7a476528c",
+    "source_label": "达妮娅披萨捏捏（大） 达妮娅_抓拍(摄像机)_2026-07-15-22-54-29",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-b74e6c1e1a7b5ca4cc04",
+    "source_label": "达妮娅披萨捏捏（大） 达妮娅_指_2026-07-15-23-01-08",
+    "excluded": false,
+    "category_override": "reply"
+  },
+  {
+    "resource_id": "r-f91a78fab7037ca5fc42",
+    "source_label": "达妮娅披萨捏捏（大） 达妮娅_抓拍(摄像机)_2026-07-15-22-49-00",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-6cac21808ff5997d8c69",
+    "source_label": "达妮娅披萨捏捏（小） 达妮娅_指_2026-07-08-00-47-50",
+    "excluded": false,
+    "category_override": "reply"
+  },
+  {
+    "resource_id": "r-b364ba9c447fbdeff2dd",
+    "source_label": "达妮娅披萨捏捏（小） 达妮娅_抓拍(摄像机)_2026-07-08-00-36-51",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-e107ffbb08bdd6eab652",
+    "source_label": "达妮娅披萨捏捏（小） 达妮娅_主意_2026-07-08-00-45-01",
+    "excluded": false,
+    "category_override": "thinking"
+  },
+  {
+    "resource_id": "r-9de806e635a80ff1d924",
+    "source_label": "旗袍达妮娅 U07_哈",
+    "excluded": false,
+    "category_override": "happy"
+  },
+  {
+    "resource_id": "r-a2a2df7f6229d9cdd8ec",
+    "source_label": "旗袍达妮娅 2U05_布灵布灵",
+    "excluded": false,
+    "category_override": "happy"
+  },
+  {
+    "resource_id": "r-b08e0cdcc9248f7074d0",
+    "source_label": "旗袍达妮娅 U08_我吗",
+    "excluded": false,
+    "category_override": "confused"
+  },
+  {
+    "resource_id": "r-079607b8294323712750",
+    "source_label": "达妮娅与女漂泊者 3TT11_洗头",
+    "excluded": false,
+    "category_override": "cute"
+  },
+  {
+    "resource_id": "r-8844c8f8b266170b6008",
+    "source_label": "达妮娅与女漂泊者 2TT12_monkey_game",
+    "excluded": false,
+    "category_override": "eat"
+  },
+  {
+    "resource_id": "r-89fbec50984482490821",
+    "source_label": "达妮娅与女漂泊者 TT01_钻戒求婚",
+    "excluded": false,
+    "category_override": "like"
+  },
+  {
+    "resource_id": "r-9e6b1abedbde640f2fba",
+    "source_label": "达妮娅与女漂泊者 3TT03_非常坏",
+    "excluded": false,
+    "category_override": "angry"
+  },
+  {
+    "resource_id": "r-a27a50c80abfae9142ef",
+    "source_label": "达妮娅与女漂泊者 TT05_舌吻",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-d94ac458b0988bfc3133",
+    "source_label": "达妮娅与女漂泊者 2TT02_情侣杯",
+    "excluded": false,
+    "category_override": "like"
+  },
+  {
+    "resource_id": "r-f8a6bc51ca14dc31915a",
+    "source_label": "达妮娅与女漂泊者 3TT08_打伞",
+    "excluded": false,
+    "category_override": "like"
+  },
+  {
+    "resource_id": "r-19fb56215f8f7563a83a",
+    "source_label": "达妮娅时时表情包 11",
+    "excluded": false,
+    "category_override": "like"
+  },
+  {
+    "resource_id": "r-1db2c8f00728b10aa935",
+    "source_label": "达妮娅时时表情包 DLC4",
+    "excluded": false,
+    "category_override": "like"
+  },
+  {
+    "resource_id": "r-1e162980c7f9faa222e5",
+    "source_label": "达妮娅时时表情包 18",
+    "excluded": false,
+    "category_override": "thinking"
+  },
+  {
+    "resource_id": "r-1f3554cd2fb807b8b80f",
+    "source_label": "达妮娅时时表情包 D21摇摇",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-22b74c3ef3ab5a27ece8",
+    "source_label": "达妮娅时时表情包 D16红温",
+    "excluded": false,
+    "category_override": "sad"
+  },
+  {
+    "resource_id": "r-241340a78e11d3238e2b",
+    "source_label": "达妮娅时时表情包 8",
+    "excluded": false,
+    "category_override": "cute"
+  },
+  {
+    "resource_id": "r-2623d12d0bc0afe50188",
+    "source_label": "达妮娅时时表情包 D15粽子",
+    "excluded": false,
+    "category_override": "eat"
+  },
+  {
+    "resource_id": "r-2ed2bdd16500954ca9db",
+    "source_label": "达妮娅时时表情包 DLC8",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-374b84835901744e8927",
+    "source_label": "达妮娅时时表情包 D13风车",
+    "excluded": false,
+    "category_override": "relax"
+  },
+  {
+    "resource_id": "r-383b70e090e6e549c555",
+    "source_label": "达妮娅时时表情包 1",
+    "excluded": false,
+    "category_override": "like"
+  },
+  {
+    "resource_id": "r-419f1217a6e7582e4501",
+    "source_label": "达妮娅时时表情包 D17猫爪(1)",
+    "excluded": false,
+    "category_override": "cute"
+  },
+  {
+    "resource_id": "r-469f6603b38625dfab38",
+    "source_label": "达妮娅时时表情包 9",
+    "excluded": false,
+    "category_override": "happy"
+  },
+  {
+    "resource_id": "r-501f8cf016ffe1ca0660",
+    "source_label": "达妮娅时时表情包 20",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-51418470330e9bd3a738",
+    "source_label": "达妮娅时时表情包 10",
+    "excluded": false,
+    "category_override": "sad"
+  },
+  {
+    "resource_id": "r-52d7f079006862fed5ee",
+    "source_label": "达妮娅时时表情包 3",
+    "excluded": false,
+    "category_override": "happy"
+  },
+  {
+    "resource_id": "r-53dc87dbb4abcca09a29",
+    "source_label": "达妮娅时时表情包 17",
+    "excluded": false,
+    "category_override": "surprised"
+  },
+  {
+    "resource_id": "r-569fffd3ddf13882a601",
+    "source_label": "达妮娅时时表情包 16",
+    "excluded": false,
+    "category_override": "sleep"
+  },
+  {
+    "resource_id": "r-56f2c43b126b808e01ed",
+    "source_label": "达妮娅时时表情包 2",
+    "excluded": false,
+    "category_override": "sad"
+  },
+  {
+    "resource_id": "r-62d05c2dd361b8df1be7",
+    "source_label": "达妮娅时时表情包 DLC6",
+    "excluded": false,
+    "category_override": "cute"
+  },
+  {
+    "resource_id": "r-66ffd08fa8725d812e61",
+    "source_label": "达妮娅时时表情包 19",
+    "excluded": false,
+    "category_override": "cute"
+  },
+  {
+    "resource_id": "r-6c033d69621d5291900a",
+    "source_label": "达妮娅时时表情包 D11心心",
+    "excluded": false,
+    "category_override": "like"
+  },
+  {
+    "resource_id": "r-6d5eb55b0288e6be4f0e",
+    "source_label": "达妮娅时时表情包 14",
+    "excluded": false,
+    "category_override": "surprised"
+  },
+  {
+    "resource_id": "r-6f4e7092978143de2f0b",
+    "source_label": "达妮娅时时表情包 12",
+    "excluded": false,
+    "category_override": "sleep"
+  },
+  {
+    "resource_id": "r-7b3422b36cc26e8a1206",
+    "source_label": "达妮娅时时表情包 15",
+    "excluded": false,
+    "category_override": "angry"
+  },
+  {
+    "resource_id": "r-82ec5e073f52bde23787",
+    "source_label": "达妮娅时时表情包 DLC3",
+    "excluded": false,
+    "category_override": "happy"
+  },
+  {
+    "resource_id": "r-892bfb1bc4c4347c7880",
+    "source_label": "达妮娅时时表情包 DLC5",
+    "excluded": false,
+    "category_override": "eat"
+  },
+  {
+    "resource_id": "r-9291b4cbfe7f12cf4879",
+    "source_label": "达妮娅时时表情包 13",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-a2e805e8c410bf3417da",
+    "source_label": "达妮娅时时表情包 D22幽灵",
+    "excluded": false,
+    "category_override": "sleep"
+  },
+  {
+    "resource_id": "r-a560e79e191bc3bc260c",
+    "source_label": "达妮娅时时表情包 DLC7",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-a6f1f64e82987619b404",
+    "source_label": "达妮娅时时表情包 6",
+    "excluded": false,
+    "category_override": "like"
+  },
+  {
+    "resource_id": "r-aecb7ad6d32d54bbd759",
+    "source_label": "达妮娅时时表情包 D28(5)_98896f912abd95f5b7b2c4a1d25945e3",
+    "excluded": false,
+    "category_override": "confused"
+  },
+  {
+    "resource_id": "r-b472884427128ac7f660",
+    "source_label": "达妮娅时时表情包 dlc14望远镜",
+    "excluded": false,
+    "category_override": "see"
+  },
+  {
+    "resource_id": "r-ba7c12801d077f6e62d7",
+    "source_label": "达妮娅时时表情包 DLC2",
+    "excluded": false,
+    "category_override": "givemoney"
+  },
+  {
+    "resource_id": "r-bdef413f3acfc5ff36c0",
+    "source_label": "达妮娅时时表情包 D10游泳",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-bf92353d929c12e2ec15",
+    "source_label": "达妮娅时时表情包 7",
+    "excluded": false,
+    "category_override": "surprised"
+  },
+  {
+    "resource_id": "r-da54b6f24cc913cc6b88",
+    "source_label": "达妮娅时时表情包 4",
+    "excluded": false,
+    "category_override": "like"
+  },
+  {
+    "resource_id": "r-dbbeabda7984e3734ae0",
+    "source_label": "达妮娅时时表情包 D11猫眼",
+    "excluded": false,
+    "category_override": "see"
+  },
+  {
+    "resource_id": "r-df99068d49ed1045bb7f",
+    "source_label": "达妮娅时时表情包 D27(3)_8e1120f43dce11b59acbfb18a4eb688b",
+    "excluded": false,
+    "category_override": "greeting"
+  },
+  {
+    "resource_id": "r-e203ad79eec0e3f187ba",
+    "source_label": "达妮娅时时表情包 DLC1",
+    "excluded": false,
+    "category_override": "givemoney"
+  },
+  {
+    "resource_id": "r-ed8cddd9b5593cd9bd26",
+    "source_label": "达妮娅时时表情包 5",
+    "excluded": false,
+    "category_override": "thinking"
+  },
+  {
+    "resource_id": "r-09c838c3f8c4afaadad0",
+    "source_label": "雾雪达妮娅 10N01_猫猫搓手",
+    "excluded": false,
+    "category_override": "cute"
+  },
+  {
+    "resource_id": "r-2caa48c1a81b5d018361",
+    "source_label": "雾雪达妮娅 9N09_扒饭",
+    "excluded": false,
+    "category_override": "eat"
+  },
+  {
+    "resource_id": "r-334846225cdc22a4fcb8",
+    "source_label": "雾雪达妮娅 EX48_万事如意",
+    "excluded": false,
+    "category_override": "greeting"
+  },
+  {
+    "resource_id": "r-42c2ec67aba78d584706",
+    "source_label": "雾雪达妮娅 EX49_True_music",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-5e987cdb8f673b2d83f8",
+    "source_label": "雾雪达妮娅 EX53_大提琴",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-638986983b017d2f7a81",
+    "source_label": "雾雪达妮娅 EX54_电音蝌蚪",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-6568a5b78a19b1f8320e",
+    "source_label": "雾雪达妮娅 EX51_小提琴",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-7267cb1558f15ac67a33",
+    "source_label": "雾雪达妮娅 N12_巴适",
+    "excluded": false,
+    "category_override": "relax"
+  },
+  {
+    "resource_id": "r-764f578204edcbc758b0",
+    "source_label": "雾雪达妮娅 6N05_求求",
+    "excluded": false,
+    "category_override": "like"
+  },
+  {
+    "resource_id": "r-a440bfc8082e02901869",
+    "source_label": "雾雪达妮娅 10N03_苏醒",
+    "excluded": false,
+    "category_override": "greeting"
+  },
+  {
+    "resource_id": "r-a6f1d545f16ac4568dab",
+    "source_label": "雾雪达妮娅 6N12_软糯",
+    "excluded": false,
+    "category_override": "cute"
+  },
+  {
+    "resource_id": "r-b1cfa912b1e2e6bb4fb0",
+    "source_label": "雾雪达妮娅 7N11_不要不要",
+    "excluded": false,
+    "category_override": "stop"
+  },
+  {
+    "resource_id": "r-dd141fe6e330f014ae0e",
+    "source_label": "雾雪达妮娅 EX52_萨克斯",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-e369f533a367698f8034",
+    "source_label": "雾雪达妮娅 12N03_肝不动了",
+    "excluded": false,
+    "category_override": "sigh"
+  },
+  {
+    "resource_id": "r-010e972a4a3e04be9d5c",
+    "source_label": "雾雪黑达妮娅 11N01_被猪猪包围了_1",
+    "excluded": false,
+    "category_override": "like"
+  },
+  {
+    "resource_id": "r-156132c82c6d2228d8c4",
+    "source_label": "雾雪黑达妮娅 EX60_八分光轮_1",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-18e205f725a217c2d68e",
+    "source_label": "雾雪黑达妮娅 4N03_哇啊啊啊",
+    "excluded": false,
+    "category_override": "reply"
+  },
+  {
+    "resource_id": "r-1eb105cec0ce54fa10aa",
+    "source_label": "雾雪黑达妮娅 4N04_皮鞭",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-28e898dd366e3f4ee087",
+    "source_label": "雾雪黑达妮娅 11N01_被猪猪包围了",
+    "excluded": false,
+    "category_override": "like"
+  },
+  {
+    "resource_id": "r-336664aefb389416589b",
+    "source_label": "雾雪黑达妮娅 EX59_抓猪",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-396f0c478d6eb487f335",
+    "source_label": "雾雪黑达妮娅 EX59_抓猪_1",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-46bc1a5d03f1f665c3c2",
+    "source_label": "雾雪黑达妮娅 11N02_WATCHING-YOU",
+    "excluded": false,
+    "category_override": "see"
+  },
+  {
+    "resource_id": "r-5519292b9c318e7a4583",
+    "source_label": "雾雪黑达妮娅 EX58_桶装猫",
+    "excluded": false,
+    "category_override": "cute"
+  },
+  {
+    "resource_id": "r-5d90ff941f16a4810967",
+    "source_label": "雾雪黑达妮娅 EX57_有脏东西",
+    "excluded": false,
+    "category_override": "confused"
+  },
+  {
+    "resource_id": "r-63c544b846515dd1025b",
+    "source_label": "雾雪黑达妮娅 6N05_求求",
+    "excluded": false,
+    "category_override": "like"
+  },
+  {
+    "resource_id": "r-971a876171c09c912d1e",
+    "source_label": "雾雪黑达妮娅 EX60_八分光轮",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-ab43ae15f072243e756c",
+    "source_label": "雾雪黑达妮娅 EX56_自动画画",
+    "excluded": false,
+    "category_override": "work"
+  },
+  {
+    "resource_id": "r-c32825fd307fb45e4f19",
+    "source_label": "雾雪黑达妮娅 5N08_炒俩菜",
+    "excluded": false,
+    "category_override": "eat"
+  },
+  {
+    "resource_id": "r-c6e53c24056a716408a7",
+    "source_label": "雾雪黑达妮娅 12N06_锤",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-6a0e9dd78a138a46ca50",
+    "source_label": "雾雪猫耳女仆达妮娅表情包 EX61_猫儿这个XX",
+    "excluded": false,
+    "category_override": "angry"
+  },
+  {
+    "resource_id": "r-19a86e4b046f3fadc994",
+    "source_label": "达妮娅小师妹动态表情包 EX69_恢复术",
+    "excluded": false,
+    "category_override": "relax"
+  },
+  {
+    "resource_id": "r-704e5d8a96990afebf6c",
+    "source_label": "达妮娅小师妹动态表情包 特殊01",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-7466ca6d423396bdd98b",
+    "source_label": "达妮娅小师妹动态表情包 特殊02",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-8e918d4441487e7c8030",
+    "source_label": "达妮娅小师妹动态表情包 EX36_灯下猫",
+    "excluded": false,
+    "category_override": "see"
+  },
+  {
+    "resource_id": "r-f87cc645f4d2f2b08c4c",
+    "source_label": "达妮娅小师妹动态表情包 EX25_真蓄",
+    "excluded": false,
+    "category_override": "thinking"
+  },
+  {
+    "resource_id": "r-fd509206a028dfb5fbd1",
+    "source_label": "达妮娅小师妹动态表情包 EX72_猫猫占领世界",
+    "excluded": false,
+    "category_override": "like"
+  },
+  {
+    "resource_id": "r-83ccd1fa6ab1e26c0876",
+    "source_label": "GB0345 达妮娅动态表情包 扶墙",
+    "excluded": false,
+    "category_override": "see"
+  },
+  {
+    "resource_id": "r-ad8ca331392a61b9e460",
+    "source_label": "GB0345 达妮娅 DLC 混拼动态表情包 窝囊",
+    "excluded": false,
+    "category_override": "misc"
+  },
+  {
+    "resource_id": "r-527c7311e0b98e7e7865",
+    "source_label": "gfC28 达妮娅动态表情包 喷水",
+    "excluded": false,
+    "category_override": "eat"
+  },
+  {
+    "resource_id": "r-8257207412e5b4305523",
+    "source_label": "gfC28 达妮娅动态表情包 吸氧",
+    "excluded": false,
+    "category_override": "relax"
+  },
+  {
+    "resource_id": "r-0da5bc2afcda4ec5f140",
+    "source_label": "2周年同人绘画-自闭",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-121aa7c89e26ecc1c2cc",
+    "source_label": "2周年同人绘画-指你",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-16cc0bba98760527d951",
+    "source_label": "2周年同人绘画-剪刀手",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-36aef715f78e15d66626",
+    "source_label": "2周年同人绘画-宕机",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-3796ac2131735729573a",
+    "source_label": "2周年同人绘画-思考",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-3de2c5fa1b67661d2527",
+    "source_label": "2周年同人绘画-错的",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-41f5112e34430cf79e06",
+    "source_label": "2周年同人绘画-纸飞机",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-51cd9977c613e2e3d768",
+    "source_label": "2周年同人绘画-疑惑",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-67c0c08ea6191e11bc0d",
+    "source_label": "2周年同人绘画-递茶",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-77acfc24928d73126559",
+    "source_label": "2周年同人绘画-卖萌",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-9211a85f7fbbbd3cbd2a",
+    "source_label": "2周年同人绘画-大手",
+    "excluded": false,
+    "category_override": "cute"
+  },
+  {
+    "resource_id": "r-9c87c355cfe2c388cdd7",
+    "source_label": "2周年同人绘画-就这么看你",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-9e57859b368505928432",
+    "source_label": "2周年同人绘画-到底要干嘛",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-a3b20fc56cc45b4738ad",
+    "source_label": "2周年同人绘画-我有个想法",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-a58372728909b0100d77",
+    "source_label": "2周年同人绘画-拔刀",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-aeb6db896233166278e4",
+    "source_label": "2周年同人绘画-睡觉",
+    "excluded": false,
+    "category_override": "sleep"
+  },
+  {
+    "resource_id": "r-b1c57924e1914c0c9c02",
+    "source_label": "2周年同人绘画-哼",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-c2d729e5fdf90331390b",
+    "source_label": "2周年同人绘画-那咋了",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-c6a5726ce4cd67a8837a",
+    "source_label": "2周年同人绘画-弹奏",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-c92303015d96ba46f7cb",
+    "source_label": "2周年同人绘画-慌汐汐",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-d604bcdd2cf932ed7026",
+    "source_label": "2周年同人绘画-对的",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-e9a80827148e7375c44f",
+    "source_label": "2周年同人绘画-捏捏",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-f2c1e9c03d82825cad5c",
+    "source_label": "2周年同人绘画-吃pocky",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-f53f65899fbf695e9596",
+    "source_label": "2周年同人绘画-看你",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-fc4702003f8aceb8d215",
+    "source_label": "2周年同人绘画-古德莫宁",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-151f1f96a263782ffa02",
+    "source_label": "2周年同人绘画-睡觉",
+    "excluded": false,
+    "category_override": "sleep"
+  },
+  {
+    "resource_id": "r-1cf2330a9e401ec94e4e",
+    "source_label": "2周年同人绘画-捏捏",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-357d87a74663723dfdb6",
+    "source_label": "2周年同人绘画-看你",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-3a57888795b71e31b35f",
+    "source_label": "2周年同人绘画-对的",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-3b6d1ae71ccf5710cb02",
+    "source_label": "2周年同人绘画-就这么看你",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-56722a77a242ba7f385e",
+    "source_label": "2周年同人绘画-弹奏",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-6447eb50a83ada16916e",
+    "source_label": "2周年同人绘画-那咋了",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-6501cfdee547cbc44bfa",
+    "source_label": "2周年同人绘画-纸飞机",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-78d86b8e675bd1e830e9",
+    "source_label": "2周年同人绘画-慌汐汐",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-7a2d44b63d36af67c088",
+    "source_label": "2周年同人绘画-拔刀",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-7d6cbc471fb74749ac87",
+    "source_label": "2周年同人绘画-大手",
+    "excluded": false,
+    "category_override": "cute"
+  },
+  {
+    "resource_id": "r-8ac3d263582e7025f749",
+    "source_label": "2周年同人绘画-卖萌",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-8bb219e5d43eced5166d",
+    "source_label": "2周年同人绘画-吃pocky",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-8e8490505915be2325c2",
+    "source_label": "2周年同人绘画-我有个想法",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-93ab39cce08bb8dca035",
+    "source_label": "2周年同人绘画-递茶",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-9407fe361db81419f05c",
+    "source_label": "2周年同人绘画-思考",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-aa554f2f1743514bcd2e",
+    "source_label": "2周年同人绘画-到底要干嘛",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-ae2cace773560bcd7b5a",
+    "source_label": "2周年同人绘画-指你",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-ae452c673f7b5a8adcab",
+    "source_label": "2周年同人绘画-剪刀手",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-b61a450ee338272b4571",
+    "source_label": "2周年同人绘画-哼",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-bbe8a064e7d83ea78ca6",
+    "source_label": "2周年同人绘画-宕机",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-c8a841e1926315194bbb",
+    "source_label": "2周年同人绘画-自闭",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-cb9a21907655036c6c3e",
+    "source_label": "2周年同人绘画-古德莫宁",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-d274ab604f13d5958d6f",
+    "source_label": "2周年同人绘画-疑惑",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-e397c54e8f33f0a31b39",
+    "source_label": "2周年同人绘画-错的",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-01610deaae5ec48b83bd",
+    "source_label": "致予新世界-给你心心",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-1b70a42bd2dde561114f",
+    "source_label": "致予新世界-为你打call",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-249695bf81da623abf9a",
+    "source_label": "致予新世界-咖啡因充电",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-28f435fdca180feb953b",
+    "source_label": "致予新世界-啊",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-33cae4aff2c7213aae95",
+    "source_label": "致予新世界-摸摸头",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-347be4237967bcf62155",
+    "source_label": "致予新世界-谢谢你",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-34d899f6c1df65a56af3",
+    "source_label": "致予新世界-在干啥呀",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-40c5e2631dd31afeb008",
+    "source_label": "致予新世界-这你都信",
+    "excluded": false,
+    "category_override": "sigh"
+  },
+  {
+    "resource_id": "r-4ed7a28328ad7e585974",
+    "source_label": "致予新世界-姐有的是钱",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-628068172d432aa6a435",
+    "source_label": "致予新世界-啊我吗",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-6b376f3988efe01a67aa",
+    "source_label": "致予新世界-再说一次",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-6c49e74fa2d1622f0e6e",
+    "source_label": "致予新世界-没事哒",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-7fb1aabb0012febaf766",
+    "source_label": "致予新世界-冲鸭",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-7fbd0790052319accf97",
+    "source_label": "致予新世界-哇哦",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-85b026a9893f09dadb5e",
+    "source_label": "致予新世界-交给我吧",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-8a7df02cd985af9b2ecd",
+    "source_label": "致予新世界-坐好了",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-8cc4176090d4cb755828",
+    "source_label": "致予新世界-说什么呢",
+    "excluded": false,
+    "category_override": "confused"
+  },
+  {
+    "resource_id": "r-bb312adb3302dfe71b71",
+    "source_label": "致予新世界-委屈",
+    "excluded": false,
+    "category_override": "sad"
+  },
+  {
+    "resource_id": "r-bc9f6828aa4fd06e7b0e",
+    "source_label": "致予新世界-买不买呢",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-c919bd39b9204c53b5bb",
+    "source_label": "致予新世界-好奇怪",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-cd5ce937d13fd765a053",
+    "source_label": "致予新世界-认真",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-d7e1f37aa6be8c3c92f9",
+    "source_label": "致予新世界-知道啦",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-e2638524d779ffcaeaa6",
+    "source_label": "致予新世界-good莫宁",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-e277f39e73253f516607",
+    "source_label": "致予新世界-打call",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-fe20d357bc405b867074",
+    "source_label": "致予新世界-拜托拜托",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-21f0e3bbb63ff7241a02",
+    "source_label": "致予新世界-谢谢你",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-2e3741b623623af080f8",
+    "source_label": "致予新世界-委屈",
+    "excluded": false,
+    "category_override": "sad"
+  },
+  {
+    "resource_id": "r-34ba6a1b7ba58223940d",
+    "source_label": "致予新世界-说什么呢",
+    "excluded": false,
+    "category_override": "confused"
+  },
+  {
+    "resource_id": "r-3c52242a9cb062b0a702",
+    "source_label": "致予新世界-啊",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-421d03e295cec90fe480",
+    "source_label": "致予新世界-冲鸭",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-44c890cd85948f02c22d",
+    "source_label": "致予新世界-哇哦",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-4525e71a47817e4295de",
+    "source_label": "致予新世界-摸摸头",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-5bdf3ff6e6399207f4e9",
+    "source_label": "致予新世界-交给我吧",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-6dd37020395b5e101c34",
+    "source_label": "致予新世界-坐好了",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-70a854ce1941789691da",
+    "source_label": "致予新世界-good莫宁",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-7949747128b850ef0c64",
+    "source_label": "致予新世界-啊我吗",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-79ce0028c9a879b1cd67",
+    "source_label": "致予新世界-给你心心",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-7ae8f97c9e2770af3e7a",
+    "source_label": "致予新世界-认真",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-82d3584115d9d2deb5e8",
+    "source_label": "致予新世界-好奇怪",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-8f68fc273472886c777c",
+    "source_label": "致予新世界-在干啥呀",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-931dc57693c8417aadba",
+    "source_label": "致予新世界-咖啡因充电",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-944ebea1cd9a10000e35",
+    "source_label": "致予新世界-再说一次",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-a54c2da770ec44b3a4e7",
+    "source_label": "致予新世界-姐有的是钱",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-a72552c9a46a8ca34352",
+    "source_label": "致予新世界-打call",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-b885eb96d41b9667737c",
+    "source_label": "致予新世界-为你打call",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-da5164cc693fd154cef7",
+    "source_label": "致予新世界-没事哒",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-e5167f9e13cb37551a21",
+    "source_label": "致予新世界-买不买呢",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-eacfa927dcb10307cc91",
+    "source_label": "致予新世界-知道啦",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-ef997cac6243376f641a",
+    "source_label": "致予新世界-这你都信",
+    "excluded": false,
+    "category_override": "sigh"
+  },
+  {
+    "resource_id": "r-ff1ba606cf7ffa65508c",
+    "source_label": "致予新世界-拜托拜托",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-278d1b1183648025a278",
+    "source_label": "LINE2026-1",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-2d5f4796fc720fcc1e8b",
+    "source_label": "LINE2026-15",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-32e360391c230aff2f5e",
+    "source_label": "LINE2026-10",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-333f6db7e105850c81aa",
+    "source_label": "LINE2026-9",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-4510aa4ada50f1bb745e",
+    "source_label": "LINE2026-6",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-55f5014bb8e84c63c43d",
+    "source_label": "LINE2026-11",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-644eff89f347b0da612d",
+    "source_label": "LINE2026-12",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-6ea18419cb8b27794723",
+    "source_label": "LINE2026-7",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-a4cf548a59476a9a4d11",
+    "source_label": "LINE2026-5",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-cb9625e27f27d818c304",
+    "source_label": "LINE2026-3",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-cc7933e53bf74669ea21",
+    "source_label": "LINE2026-14",
+    "excluded": false,
+    "category_override": "sleep"
+  },
+  {
+    "resource_id": "r-de2818292da755018e86",
+    "source_label": "LINE2026-8",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-f2bb3045832d8fb1df07",
+    "source_label": "LINE2026-4",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-f497758dfc2db6e28b25",
+    "source_label": "LINE2026-2",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-f748ed63adbdf9cc72bb",
+    "source_label": "LINE2026-13",
+    "excluded": false,
+    "category_override": "sleep"
+  },
+  {
+    "resource_id": "r-fee0d601c9a38564cfb8",
+    "source_label": "LINE2026-16",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-20884acf31e7774c5258",
+    "source_label": "达妮娅-雷蛇联动表情3",
+    "excluded": false,
+    "category_override": "like"
+  },
+  {
+    "resource_id": "r-2499d429cdf5bab61575",
+    "source_label": "达妮娅-雷蛇联动表情4",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-8a34a47bebed1b87d68f",
+    "source_label": "达妮娅-雷蛇联动表情1",
+    "excluded": false,
+    "category_override": "relax"
+  },
+  {
+    "resource_id": "r-feb08d18ba8a3951172b",
+    "source_label": "达妮娅-雷蛇联动表情2",
+    "excluded": false,
+    "category_override": "happy"
+  },
+  {
+    "resource_id": "r-0dfffb44b17a59b0c23c",
+    "source_label": "共鸣者印象录-第十四章-勿扰",
+    "excluded": false,
+    "category_override": "sleep"
+  },
+  {
+    "resource_id": "r-5836bb11978ab07e8c8c",
+    "source_label": "共鸣者印象录-第十四章-生日",
+    "excluded": false,
+    "category_override": "happy"
+  },
+  {
+    "resource_id": "r-59849054e3ce518cbb18",
+    "source_label": "共鸣者印象录-第十四章-开始",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-66133d89d24780ab33ff",
+    "source_label": "共鸣者印象录-第十四章-盘算",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-680d9bb5d2c70cd8984b",
+    "source_label": "共鸣者印象录-第十四章-点赞",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-7875a55a740eab732315",
+    "source_label": "共鸣者印象录-第十四章-有了",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-7cd1b9e999e7e99a8aea",
+    "source_label": "共鸣者印象录-第十四章-我有话说",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-9d21d52beebe2786529b",
+    "source_label": "共鸣者印象录-第十四章-呜呜",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-a6a98e831a444cae746c",
+    "source_label": "共鸣者印象录-第十四章-再见",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-ae22e8e40db572c06076",
+    "source_label": "共鸣者印象录-第十四章-呵呵",
+    "excluded": false,
+    "category_override": "sigh"
+  },
+  {
+    "resource_id": "r-aef9315a9b578d86850a",
+    "source_label": "共鸣者印象录-第十四章-心虚",
+    "excluded": false,
+    "category_override": "shy"
+  },
+  {
+    "resource_id": "r-bbe590d2aee6532b42b3",
+    "source_label": "共鸣者印象录-第十四章-拿下",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-c3b4341e909da1313327",
+    "source_label": "共鸣者印象录-第十四章-看戏",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-e2e48c52e13407746e80",
+    "source_label": "共鸣者印象录-第十四章-致敬",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-e4d36c5a364d8903f723",
+    "source_label": "共鸣者印象录-第十四章-悠闲",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-e8f4858db020f145b42f",
+    "source_label": "共鸣者印象录-第十四章-品尝",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-07e6829ae12918901267",
+    "source_label": "西格莉卡_043",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-0cc6b71f107ff6dd2fb1",
+    "source_label": "西格莉卡_079",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-128518311b43e115f702",
+    "source_label": "西格莉卡_046",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-170355c4a6a4d1bba1c8",
+    "source_label": "西格莉卡_037",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-19b0cfaa19590d4737c7",
+    "source_label": "西格莉卡_048",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-1a977d0edca9852a70f3",
+    "source_label": "西格莉卡_025",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-1d92317d24894b421161",
+    "source_label": "西格莉卡_087",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-24e6ac5a490a6726c497",
+    "source_label": "西格莉卡_050",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-28589698255beab65766",
+    "source_label": "西格莉卡_013",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-33e09671dd52f93b0f5a",
+    "source_label": "西格莉卡_059",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-36caa747c473e5d75dfb",
+    "source_label": "西格莉卡_020",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-3a79529610aab44d3abd",
+    "source_label": "西格莉卡_073",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-3d153ac459105df4158e",
+    "source_label": "西格莉卡_029",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-3d4888955abf33aac225",
+    "source_label": "西格莉卡_042",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-406636b8834fb21b5d41",
+    "source_label": "西格莉卡_008",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-4bdfcfbb2a8321634b2b",
+    "source_label": "西格莉卡_064",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-4d926066653e6d40ed84",
+    "source_label": "西格莉卡_075",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-5157148c2f1b5e1ee165",
+    "source_label": "西格莉卡_032",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-51cafcf66709f6316616",
+    "source_label": "西格莉卡_057",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-53db26175df7b49abd2f",
+    "source_label": "西格莉卡_001",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-55688b53d1ede72dc033",
+    "source_label": "西格莉卡_055",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-56a2500c751328638a10",
+    "source_label": "西格莉卡_047",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-58f45ece219df273d99d",
+    "source_label": "西格莉卡_062",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-5b37cf97b44e80603946",
+    "source_label": "西格莉卡_035",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-5c30c8dd693b6fd42e8c",
+    "source_label": "西格莉卡_033",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-5c66efb23815d3558ff4",
+    "source_label": "西格莉卡_051",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-5dcca0c4683041dc0b03",
+    "source_label": "西格莉卡_017",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-69a76c7b635f7581fd2e",
+    "source_label": "西格莉卡_007",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-6a88feedfc2d7e3c72aa",
+    "source_label": "西格莉卡_085",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-6d0fef42ff26ac68bb99",
+    "source_label": "西格莉卡_009",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-6f4717274f2fb6c6b231",
+    "source_label": "西格莉卡_089",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-6f8b697ad913674cda3e",
+    "source_label": "西格莉卡_082",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-795c03ab6b1137658ec3",
+    "source_label": "西格莉卡_030",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-7a29330e15e2061a84c0",
+    "source_label": "西格莉卡_090",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-7d2588464ac21eb5eb75",
+    "source_label": "西格莉卡_012",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-7dc8f49b10cad72a39e4",
+    "source_label": "西格莉卡_019",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-7e0614bdf6167d1aac58",
+    "source_label": "西格莉卡_074",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-7e3f06afbdedc7fee85b",
+    "source_label": "西格莉卡_011",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-7f4b582438d8bddbe74b",
+    "source_label": "西格莉卡_061",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-7fd5254f3f04f5e66d2c",
+    "source_label": "西格莉卡_052",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-80f237cf5ec08ef5b753",
+    "source_label": "西格莉卡_078",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-832bbb32409dd703aa13",
+    "source_label": "西格莉卡_071",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-8a8b7cf23914968ef0d4",
+    "source_label": "西格莉卡_054",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-8f85dd9479e34eab1d89",
+    "source_label": "西格莉卡_049",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-8fea772a82ece82912b9",
+    "source_label": "西格莉卡_093",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-925b6f40a3f6fadfbc79",
+    "source_label": "西格莉卡_041",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-9856b9a716057bb6447f",
+    "source_label": "西格莉卡_014",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-997e92dbe5088c8e0915",
+    "source_label": "西格莉卡_039",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-9b2465a9ed0e1aeff285",
+    "source_label": "西格莉卡_092",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-9b315789c74023cbf839",
+    "source_label": "西格莉卡_040",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-a0421a6813a4faa5ea27",
+    "source_label": "西格莉卡_058",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-a3cdd0cbf7f02def97db",
+    "source_label": "西格莉卡_023",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-a5615fc7e0f0e22d78be",
+    "source_label": "西格莉卡_022",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-a5b5d73c1661d7cdbad3",
+    "source_label": "西格莉卡_045",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-a6a0485551a3728c05b9",
+    "source_label": "西格莉卡_004",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-ac6eb2f8df7b0a712436",
+    "source_label": "西格莉卡_003",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-acaccd34e0573c2f4786",
+    "source_label": "西格莉卡_010",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-ad4f03c796936dd20c16",
+    "source_label": "西格莉卡_015",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-af700824f10dd1ada531",
+    "source_label": "西格莉卡_069",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-b5a0315159b2f1535429",
+    "source_label": "西格莉卡_056",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-b9ad522fdd4cea4e660c",
+    "source_label": "西格莉卡_036",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-c42985eb1021182c8f0b",
+    "source_label": "西格莉卡_091",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-c5c59a1ec9481e52e870",
+    "source_label": "西格莉卡_070",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-c80481997a09a9cf10fc",
+    "source_label": "西格莉卡_053",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-caf6f1d45d8782e2030f",
+    "source_label": "西格莉卡_024",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-cc4d6c9e98dd3361a7bb",
+    "source_label": "西格莉卡_060",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-ce5c4e85eefdfc9d9d0a",
+    "source_label": "西格莉卡_002",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-d242a787b6afb934e9f0",
+    "source_label": "西格莉卡_076",
+    "excluded": false,
+    "category_override": "fool"
+  },
+  {
+    "resource_id": "r-d2d18a6e101ce494ea8b",
+    "source_label": "西格莉卡_028",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-d3101e826ed2acd04c7b",
+    "source_label": "西格莉卡_088",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-d743898250fd9beed663",
+    "source_label": "西格莉卡_081",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-d750a85998512815798f",
+    "source_label": "西格莉卡_086",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-d8d17f34363e978bcbcb",
+    "source_label": "西格莉卡_021",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-da6863abd71aed91b63d",
+    "source_label": "西格莉卡_066",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-e020798e7865de12319e",
+    "source_label": "西格莉卡_016",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-e22f5409b3b859f18f66",
+    "source_label": "西格莉卡_026",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-e731e4dc43ca3bab9e23",
+    "source_label": "西格莉卡_027",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-e931c57076e2c8377b1f",
+    "source_label": "西格莉卡_034",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-e9e060d1b8baa9fbe890",
+    "source_label": "西格莉卡_018",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-eb2126a1d558f6fb376e",
+    "source_label": "西格莉卡_067",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-ec34bc505b81b62278ba",
+    "source_label": "西格莉卡_044",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-ee9bd59841dfa60e64d5",
+    "source_label": "西格莉卡_031",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-f11034ae42599dfeb3ca",
+    "source_label": "西格莉卡_006",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-f1462610e3756840ed2f",
+    "source_label": "西格莉卡_077",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-f69faaff33d57edef162",
+    "source_label": "西格莉卡_063",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-f9909b1224496ebecb1e",
+    "source_label": "西格莉卡_065",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-fa8ea58140e94d5453a4",
+    "source_label": "西格莉卡_072",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-fb1bf562607085317757",
+    "source_label": "西格莉卡_080",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-fbc1a8631150893b8df2",
+    "source_label": "西格莉卡_068",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-fc0e304deb4f932622b0",
+    "source_label": "西格莉卡_005",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-fcdb44b77a33a9031908",
+    "source_label": "西格莉卡_038",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-fcf8b75d48baa0d39dee",
+    "source_label": "西格莉卡_084",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-fd645ddae1b5d0cad52c",
+    "source_label": "西格莉卡_083",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-03c3a5ca8bb10e437800",
+    "source_label": "捂眼猫表情合集 1 守岸人哭哭",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-0cc4fc0b0c8cd1a9cb18",
+    "source_label": "捂眼猫表情合集 1 秧秧咆哮",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-134b3debd1ae92966a24",
+    "source_label": "捂眼猫表情合集 1 守岸人机关枪",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-166cc682d4ea54aef866",
+    "source_label": "捂眼猫表情合集 1 西格莉卡拿汽水",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-21a9e3a516ebd8170d44",
+    "source_label": "捂眼猫表情合集 1 洛瑟菈东张西望",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-3d375249e17bde935910",
+    "source_label": "捂眼猫表情合集 1 会长鼓掌",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-45f2d91e27c21394390b",
+    "source_label": "捂眼猫表情合集 1 穗穗加油",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-4dc94ad9126bc6ebe339",
+    "source_label": "捂眼猫表情合集 1 达尼亚在睡觉",
+    "excluded": false,
+    "category_override": "sleep"
+  },
+  {
+    "resource_id": "r-584790629f0f70d89b1e",
+    "source_label": "捂眼猫表情合集 1 会长发抖",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-5a511c6175359d5314c1",
+    "source_label": "捂眼猫表情合集 1 白芷被波及",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-6a6b8ae5619e76ca9d60",
+    "source_label": "捂眼猫表情合集 1 守岸人喝可乐",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-704a00f1232c143bcfb6",
+    "source_label": "捂眼猫表情合集 1 秧秧加油",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-7f4963fe06da584cedc0",
+    "source_label": "捂眼猫表情合集 1 捏菲比",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-84e57dac9fd391607876",
+    "source_label": "捂眼猫表情合集 1 卡提吃水果",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-a01650663299604159e0",
+    "source_label": "捂眼猫表情合集 1 守岸人生气",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-a4229509b3594bbe78c8",
+    "source_label": "捂眼猫表情合集 1 洛瑟菈蹭小猫",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-ace84be4166bf8feb6fa",
+    "source_label": "捂眼猫表情合集 1 守岸人丢可乐",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-bd214798fa67aef3c850",
+    "source_label": "捂眼猫表情合集 1 琳奈玩枪",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-c1c738c4115c1257974f",
+    "source_label": "捂眼猫表情合集 1 穗穗咆哮",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-e1a3a8a4f2acab33b50e",
+    "source_label": "捂眼猫表情合集 1 弗洛洛竖中指",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-e4378f8d8c778fd31032",
+    "source_label": "捂眼猫表情合集 1 洛瑟菈太刺激了",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-ea8314701dfc8069a10a",
+    "source_label": "捂眼猫表情合集 1 守岸人走路",
+    "excluded": true,
+    "category_override": null
+  },
+  {
+    "resource_id": "r-f32f035cbdcb8db00de4",
+    "source_label": "捂眼猫表情合集 1 弗洛洛走路",
+    "excluded": true,
+    "category_override": null
+  }
+]
