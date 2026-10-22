@@ -1,6 +1,6 @@
-# 发布前校验
+# 发布验证
 
-2026-10-22：全部图片下载后验证格式、尺寸与末帧可解码；按原文件SHA-256去重。manifest和semantic元数据通过官方JSON Schema，逐图内容哈希、分类路径和entry_id一致。
+全部原图通过格式、尺寸、末帧可解码与SHA-256检查；本卷manifest及semantic通过官方JSON Schema。归档大小与逐图字节在构建时复核，低于插件1 GiB上限。
 
 {
   "source_records": 1224,
@@ -31,7 +31,34 @@
     "relax": 23,
     "misc": 1
   },
-  "total_bytes": 1222441014
+  "total_bytes": 1222441014,
+  "volume": {
+    "number": 2,
+    "count": 2,
+    "ref": "part-2",
+    "images": 467,
+    "bytes": 611206568,
+    "categories": {
+      "angry": 23,
+      "confused": 8,
+      "cute": 34,
+      "eat": 43,
+      "fool": 115,
+      "givemoney": 10,
+      "greeting": 11,
+      "happy": 17,
+      "like": 42,
+      "relax": 15,
+      "reply": 22,
+      "sad": 10,
+      "see": 13,
+      "shy": 11,
+      "sigh": 13,
+      "sleep": 25,
+      "stop": 9,
+      "surprised": 12,
+      "thinking": 13,
+      "work": 21
+    }
+  }
 }
-
-分类依据为来源动作标签与缩略图人工复核，未进行完整逐帧情绪审核。

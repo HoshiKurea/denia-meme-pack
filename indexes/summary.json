@@ -27,5 +27,34 @@
     "relax": 23,
     "misc": 1
   },
-  "total_bytes": 1222441014
+  "total_bytes": 1222441014,
+  "volume": {
+    "number": 2,
+    "count": 2,
+    "ref": "part-2",
+    "images": 467,
+    "bytes": 611206568,
+    "categories": {
+      "angry": 23,
+      "confused": 8,
+      "cute": 34,
+      "eat": 43,
+      "fool": 115,
+      "givemoney": 10,
+      "greeting": 11,
+      "happy": 17,
+      "like": 42,
+      "relax": 15,
+      "reply": 22,
+      "sad": 10,
+      "see": 13,
+      "shy": 11,
+      "sigh": 13,
+      "sleep": 25,
+      "stop": 9,
+      "surprised": 12,
+      "thinking": 13,
+      "work": 21
+    }
+  }
 }
