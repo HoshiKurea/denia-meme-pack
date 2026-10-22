@@ -1,0 +1,72 @@
+{
+  "schema_version": "2.0",
+  "pack_id": "denia-meme-pack",
+  "images": {
+    "699787ec57270018bf38b6dc379550f21aadb52bafa6c9b62aa9e156628ba8a8": {
+      "entry_id": "699787ec57270018bf38b6dc379550f21aadb52bafa6c9b62aa9e156628ba8a8",
+      "content_sha256": "f6ca2ff7151624c6b31bc09ba3d629a67a6e4119479b4409dbbdc298cd3529c1",
+      "relative_path": "memes/relax/denia_bubbles.gif",
+      "category": "relax",
+      "caption": "Q版达妮娅手持吹泡泡工具，吹出彩色泡泡，表情平静。",
+      "caption_status": "done",
+      "tags": [
+        "达妮娅",
+        "吹泡泡",
+        "放松",
+        "动态"
+      ],
+      "visible_text": "",
+      "provenance": "人工核对原动图的多个帧后撰写；未调用外部识图服务。"
+    },
+    "e56ec31725b64706e0ebbeded61a2eb2e92ee130f0bdde47fd7b2abb91d90c87": {
+      "entry_id": "e56ec31725b64706e0ebbeded61a2eb2e92ee130f0bdde47fd7b2abb91d90c87",
+      "content_sha256": "4b1f61f37e1ea920a37a1a825dc938bb71f68aee828210c6c498e67c7006aedd",
+      "relative_path": "memes/happy/denia_sway.gif",
+      "category": "happy",
+      "caption": "Q版达妮娅闭眼微笑，双手抬起轻轻摇摆，身旁出现小花。",
+      "caption_status": "done",
+      "tags": [
+        "达妮娅",
+        "开心",
+        "摇摆",
+        "动态"
+      ],
+      "visible_text": "",
+      "provenance": "人工核对原动图的多个帧后撰写；未调用外部识图服务。"
+    },
+    "3e4f761a69685da6375bbb868fec1c6e85fda038911344a8cfe0181d19c42871": {
+      "entry_id": "3e4f761a69685da6375bbb868fec1c6e85fda038911344a8cfe0181d19c42871",
+      "content_sha256": "a401d3c6dc1193fcbf58f5a7681fd123ed18b99996f495b2e0d5e00146b9c245",
+      "relative_path": "memes/like/denia_victory.gif",
+      "category": "like",
+      "caption": "Q版达妮娅侧身眨眼，举起手比出V形胜利手势。",
+      "caption_status": "done",
+      "tags": [
+        "达妮娅",
+        "眨眼",
+        "比耶",
+        "赞同",
+        "动态"
+      ],
+      "visible_text": "",
+      "provenance": "人工核对原动图的多个帧后撰写；未调用外部识图服务。"
+    },
+    "78a1196599147b416b241c8bbbe10fbc8124a351a47cb1f95130ac1fef7a04f5": {
+      "entry_id": "78a1196599147b416b241c8bbbe10fbc8124a351a47cb1f95130ac1fef7a04f5",
+      "content_sha256": "f758136dfe6d4024dc62c0f4caf428d656bdaca46d134c66b719a03e526167aa",
+      "relative_path": "memes/fool/denia_rhythm.gif",
+      "category": "fool",
+      "caption": "Q版达妮娅双手交替抬起做敲打动作，旁边出现音符和小旗。",
+      "caption_status": "done",
+      "tags": [
+        "达妮娅",
+        "敲打",
+        "音符",
+        "整活",
+        "动态"
+      ],
+      "visible_text": "",
+      "provenance": "人工核对原动图的多个帧后撰写；未调用外部识图服务。"
+    }
+  }
+}

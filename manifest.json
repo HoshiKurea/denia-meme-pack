@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "id": "denia-meme-pack",
+  "name": "达妮娅表情包 · 官方基础版",
+  "version": "0.1.0",
+  "description": "收录雷蛇官方页面提供的4张达妮娅动态表情，按聊天语义分类，附逐图语义描述和1224条相关素材来源索引。图库合集的公开再分发许可尚未确认，未整库搬运。",
+  "author": "HoshiKurea（整理）；图片：KURO GAMES / Razer",
+  "homepage": "https://github.com/HoshiKurea/denia-meme-pack",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "tags": [
+    "鸣潮",
+    "达妮娅",
+    "Denia",
+    "animated",
+    "gif",
+    "non-commercial"
+  ],
+  "icon": "previews/icon.png",
+  "previews": [
+    "previews/cover.png"
+  ],
+  "source": {
+    "type": "github",
+    "repo": "HoshiKurea/denia-meme-pack",
+    "ref": "master",
+    "subpath": "."
+  },
+  "categories": {
+    "relax": {
+      "description": "轻松闲聊、放松和休息时使用。达妮娅吹泡泡的平静互动，不用于表达生气或悲伤。"
+    },
+    "happy": {
+      "description": "表达开心、轻快、享受和小小的庆祝。适合轻松积极的回应。"
+    },
+    "like": {
+      "description": "表示赞同、喜欢、肯定或俏皮回应。眨眼比出胜利手势，适合夸赞和成功确认。"
+    },
+    "fool": {
+      "description": "友善整活、玩节奏和活跃气氛。只用于轻松场景，不在对方认真难过时使用。"
+    }
+  },
+  "extensions": {
+    "semantic": {
+      "version": 1,
+      "file": "semantic_metadata.json"
+    }
+  }
+}

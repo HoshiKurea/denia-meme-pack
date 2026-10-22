@@ -1,0 +1,38 @@
+[
+  {
+    "relative_path": "memes/relax/denia_bubbles.gif",
+    "content_sha256": "f6ca2ff7151624c6b31bc09ba3d629a67a6e4119479b4409dbbdc298cd3529c1",
+    "source_page": "https://cn.razerzone.com/collabs/wuthering-waves",
+    "download_url": "https://assets2.razerzone.com/images/wuthering-waves/WUWA-Sticker1_195x195.gif",
+    "credit": "KURO GAMES / Wuthering Waves × Razer",
+    "bytes": 909825,
+    "caption": "Q版达妮娅手持吹泡泡工具，吹出彩色泡泡，表情平静。"
+  },
+  {
+    "relative_path": "memes/happy/denia_sway.gif",
+    "content_sha256": "4b1f61f37e1ea920a37a1a825dc938bb71f68aee828210c6c498e67c7006aedd",
+    "source_page": "https://cn.razerzone.com/collabs/wuthering-waves",
+    "download_url": "https://assets2.razerzone.com/images/wuthering-waves/WUWA-Sticker2_195x195.gif",
+    "credit": "KURO GAMES / Wuthering Waves × Razer",
+    "bytes": 771996,
+    "caption": "Q版达妮娅闭眼微笑，双手抬起轻轻摇摆，身旁出现小花。"
+  },
+  {
+    "relative_path": "memes/like/denia_victory.gif",
+    "content_sha256": "a401d3c6dc1193fcbf58f5a7681fd123ed18b99996f495b2e0d5e00146b9c245",
+    "source_page": "https://cn.razerzone.com/collabs/wuthering-waves",
+    "download_url": "https://assets2.razerzone.com/images/wuthering-waves/WUWA-Sticker3_195x195.gif",
+    "credit": "KURO GAMES / Wuthering Waves × Razer",
+    "bytes": 337654,
+    "caption": "Q版达妮娅侧身眨眼，举起手比出V形胜利手势。"
+  },
+  {
+    "relative_path": "memes/fool/denia_rhythm.gif",
+    "content_sha256": "f758136dfe6d4024dc62c0f4caf428d656bdaca46d134c66b719a03e526167aa",
+    "source_page": "https://cn.razerzone.com/collabs/wuthering-waves",
+    "download_url": "https://assets2.razerzone.com/images/wuthering-waves/WUWA-Sticker4_195x195.gif",
+    "credit": "KURO GAMES / Wuthering Waves × Razer",
+    "bytes": 328683,
+    "caption": "Q版达妮娅双手交替抬起做敲打动作，旁边出现音符和小旗。"
+  }
+]
